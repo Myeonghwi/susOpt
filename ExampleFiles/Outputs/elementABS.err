@@ -1,0 +1,40 @@
+Program Version,EnergyPlus-Windows-64 8.1.0.009, YMD=2015.06.25 16:56,IDD_Version 8.1.0.009
+   ************* IDF Context for following error/warning message:
+   ************* Note -- lines truncated at 300 characters, if necessary...
+   *************  14474 Material:RoofVegetation,
+   ************* indicated Name=a/big shrub
+   ************* Only last 9 lines before error line shown.....
+   *************  14475     a/big shrub,             !- Name
+   *************  14476     0.032433576529797045,                      !- Height of Plants {m}
+   *************  14477     0.4137413744661519,                      !- Leaf Area Index {dimensionless}
+   *************  14478     0.11,                    !- Leaf Reflectivity {dimensionless}
+   *************  14479     0.9,                     !- Leaf Emissivity
+   *************  14480     159,                     !- Minimum Stomatal Resistance {s/m}
+   *************  14481     Ecoroof Soil,            !- Soil Layer Name
+   *************  14482     MediumRough,             !- Roughness
+   *************  14483     0.5                      !- Thickness {m}
+   ** Warning ** IP: IDF line~14483 Comma being inserted after:"    0.5                      " in Object=MATERIAL:ROOFVEGETATION
+   ** Warning ** Timestep: Requested number (1) is less than the suggested minimum of 4.
+   **   ~~~   ** Please see entry for Timestep in Input/Output Reference for discussion of considerations.
+   ** Warning ** GetSurfaceData: WindowProperty:ShadingControl: "BLINDCONTROL" is not referenced by any window.
+   ** Warning ** GetSurfaceData: There are 54 window/glass door(s) that may cause inaccurate shadowing due to Solar Distribution.
+   **   ~~~   ** For explicit details on each window, use Output:Diagnostics,DisplayExtraWarnings;
+   ** Warning ** CheckUsedConstructions: There are 5 nominally unused constructions in input.
+   **   ~~~   ** For explicit details on each unused construction, use Output:Diagnostics,DisplayExtraWarnings;
+   ** Severe  ** DetermineShadowingCombinations: There are 1 surfaces which are casting surfaces and are non-convex.
+   **   ~~~   ** ...Shadowing values may be inaccurate. Check .shd report file for more surface shading details
+   **   ~~~   ** ...Add Output:Diagnostics,DisplayExtraWarnings; to see individual severes for each surface.
+   ** Severe  ** CalcEcoRoof: Too few time steps per hour for stability.
+   **   ~~~   ** ...Entered Timesteps per hour=[1], Change to some value greater than [21] for assured stability.
+   ************* Testing Individual Branch Integrity
+   ************* All Branches passed integrity testing
+   ************* Testing Individual Supply Air Path Integrity
+   ************* All Supply Air Paths passed integrity testing
+   ************* Testing Individual Return Air Path Integrity
+   ************* All Return Air Paths passed integrity testing
+   ************* No node connection errors were found.
+   ************* Beginning Simulation
+   ** Warning ** Calculated Relative Humidity out of range (PsyRhFnTdbWPb)
+   **   ~~~   **  Routine=Unknown, Environment=YANGJAE ELEMENTARY SCHOOL, at Simulation time=02/07 12:00 - 12:10
+   **   ~~~   **  Dry-Bulb= 19.59 Humidity Ratio= 1.457E-002 Calculated Relative Humidity [%]= 101.50
+   **   ~~~   ** Relative Humidity being reset to 100.0%

@@ -1,0 +1,3360 @@
+
+ Meters for 238,118363 GENERAL LIGHTING:Lights Electric Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:Building [J]
+  OnMeter=Electricity:Zone:118363 [J]
+  OnMeter=InteriorLights:Electricity [J]
+  OnMeter=InteriorLights:Electricity:Zone:118363 [J]
+  OnMeter=ELECTRIC EQUIPMENT#118363#GeneralLights:InteriorLights:Electricity [J]
+
+ Meters for 301,118374 GENERAL LIGHTING:Lights Electric Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:Building [J]
+  OnMeter=Electricity:Zone:118374 [J]
+  OnMeter=InteriorLights:Electricity [J]
+  OnMeter=InteriorLights:Electricity:Zone:118374 [J]
+  OnMeter=ELECTRIC EQUIPMENT#118374#GeneralLights:InteriorLights:Electricity [J]
+
+ Meters for 334,118411 GENERAL LIGHTING:Lights Electric Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:Building [J]
+  OnMeter=Electricity:Zone:118411 [J]
+  OnMeter=InteriorLights:Electricity [J]
+  OnMeter=InteriorLights:Electricity:Zone:118411 [J]
+  OnMeter=ELECTRIC EQUIPMENT#118411#GeneralLights:InteriorLights:Electricity [J]
+
+ Meters for 367,118418 GENERAL LIGHTING:Lights Electric Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:Building [J]
+  OnMeter=Electricity:Zone:118418 [J]
+  OnMeter=InteriorLights:Electricity [J]
+  OnMeter=InteriorLights:Electricity:Zone:118418 [J]
+  OnMeter=ELECTRIC EQUIPMENT#118418#GeneralLights:InteriorLights:Electricity [J]
+
+ Meters for 400,118425 GENERAL LIGHTING:Lights Electric Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:Building [J]
+  OnMeter=Electricity:Zone:118425 [J]
+  OnMeter=InteriorLights:Electricity [J]
+  OnMeter=InteriorLights:Electricity:Zone:118425 [J]
+  OnMeter=ELECTRIC EQUIPMENT#118425#GeneralLights:InteriorLights:Electricity [J]
+
+ Meters for 433,118432 GENERAL LIGHTING:Lights Electric Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:Building [J]
+  OnMeter=Electricity:Zone:118432 [J]
+  OnMeter=InteriorLights:Electricity [J]
+  OnMeter=InteriorLights:Electricity:Zone:118432 [J]
+  OnMeter=ELECTRIC EQUIPMENT#118432#GeneralLights:InteriorLights:Electricity [J]
+
+ Meters for 466,118439 GENERAL LIGHTING:Lights Electric Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:Building [J]
+  OnMeter=Electricity:Zone:118439 [J]
+  OnMeter=InteriorLights:Electricity [J]
+  OnMeter=InteriorLights:Electricity:Zone:118439 [J]
+  OnMeter=ELECTRIC EQUIPMENT#118439#GeneralLights:InteriorLights:Electricity [J]
+
+ Meters for 499,118446 GENERAL LIGHTING:Lights Electric Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:Building [J]
+  OnMeter=Electricity:Zone:118446 [J]
+  OnMeter=InteriorLights:Electricity [J]
+  OnMeter=InteriorLights:Electricity:Zone:118446 [J]
+  OnMeter=ELECTRIC EQUIPMENT#118446#GeneralLights:InteriorLights:Electricity [J]
+
+ Meters for 532,118453 GENERAL LIGHTING:Lights Electric Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:Building [J]
+  OnMeter=Electricity:Zone:118453 [J]
+  OnMeter=InteriorLights:Electricity [J]
+  OnMeter=InteriorLights:Electricity:Zone:118453 [J]
+  OnMeter=ELECTRIC EQUIPMENT#118453#GeneralLights:InteriorLights:Electricity [J]
+
+ Meters for 565,118460 GENERAL LIGHTING:Lights Electric Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:Building [J]
+  OnMeter=Electricity:Zone:118460 [J]
+  OnMeter=InteriorLights:Electricity [J]
+  OnMeter=InteriorLights:Electricity:Zone:118460 [J]
+  OnMeter=ELECTRIC EQUIPMENT#118460#GeneralLights:InteriorLights:Electricity [J]
+
+ Meters for 598,118467 GENERAL LIGHTING:Lights Electric Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:Building [J]
+  OnMeter=Electricity:Zone:118467 [J]
+  OnMeter=InteriorLights:Electricity [J]
+  OnMeter=InteriorLights:Electricity:Zone:118467 [J]
+  OnMeter=ELECTRIC EQUIPMENT#118467#GeneralLights:InteriorLights:Electricity [J]
+
+ Meters for 631,118474 GENERAL LIGHTING:Lights Electric Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:Building [J]
+  OnMeter=Electricity:Zone:118474 [J]
+  OnMeter=InteriorLights:Electricity [J]
+  OnMeter=InteriorLights:Electricity:Zone:118474 [J]
+  OnMeter=ELECTRIC EQUIPMENT#118474#GeneralLights:InteriorLights:Electricity [J]
+
+ Meters for 664,118481 GENERAL LIGHTING:Lights Electric Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:Building [J]
+  OnMeter=Electricity:Zone:118481 [J]
+  OnMeter=InteriorLights:Electricity [J]
+  OnMeter=InteriorLights:Electricity:Zone:118481 [J]
+  OnMeter=ELECTRIC EQUIPMENT#118481#GeneralLights:InteriorLights:Electricity [J]
+
+ Meters for 697,118488 GENERAL LIGHTING:Lights Electric Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:Building [J]
+  OnMeter=Electricity:Zone:118488 [J]
+  OnMeter=InteriorLights:Electricity [J]
+  OnMeter=InteriorLights:Electricity:Zone:118488 [J]
+  OnMeter=ELECTRIC EQUIPMENT#118488#GeneralLights:InteriorLights:Electricity [J]
+
+ Meters for 730,120563 GENERAL LIGHTING:Lights Electric Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:Building [J]
+  OnMeter=Electricity:Zone:120563 [J]
+  OnMeter=InteriorLights:Electricity [J]
+  OnMeter=InteriorLights:Electricity:Zone:120563 [J]
+  OnMeter=ELECTRIC EQUIPMENT#120563#GeneralLights:InteriorLights:Electricity [J]
+
+ Meters for 763,120605 GENERAL LIGHTING:Lights Electric Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:Building [J]
+  OnMeter=Electricity:Zone:120605 [J]
+  OnMeter=InteriorLights:Electricity [J]
+  OnMeter=InteriorLights:Electricity:Zone:120605 [J]
+  OnMeter=ELECTRIC EQUIPMENT#120605#GeneralLights:InteriorLights:Electricity [J]
+
+ Meters for 796,120614 GENERAL LIGHTING:Lights Electric Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:Building [J]
+  OnMeter=Electricity:Zone:120614 [J]
+  OnMeter=InteriorLights:Electricity [J]
+  OnMeter=InteriorLights:Electricity:Zone:120614 [J]
+  OnMeter=ELECTRIC EQUIPMENT#120614#GeneralLights:InteriorLights:Electricity [J]
+
+ Meters for 829,120623 GENERAL LIGHTING:Lights Electric Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:Building [J]
+  OnMeter=Electricity:Zone:120623 [J]
+  OnMeter=InteriorLights:Electricity [J]
+  OnMeter=InteriorLights:Electricity:Zone:120623 [J]
+  OnMeter=ELECTRIC EQUIPMENT#120623#GeneralLights:InteriorLights:Electricity [J]
+
+ Meters for 862,120632 GENERAL LIGHTING:Lights Electric Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:Building [J]
+  OnMeter=Electricity:Zone:120632 [J]
+  OnMeter=InteriorLights:Electricity [J]
+  OnMeter=InteriorLights:Electricity:Zone:120632 [J]
+  OnMeter=ELECTRIC EQUIPMENT#120632#GeneralLights:InteriorLights:Electricity [J]
+
+ Meters for 895,120650 GENERAL LIGHTING:Lights Electric Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:Building [J]
+  OnMeter=Electricity:Zone:120650 [J]
+  OnMeter=InteriorLights:Electricity [J]
+  OnMeter=InteriorLights:Electricity:Zone:120650 [J]
+  OnMeter=ELECTRIC EQUIPMENT#120650#GeneralLights:InteriorLights:Electricity [J]
+
+ Meters for 928,120659 GENERAL LIGHTING:Lights Electric Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:Building [J]
+  OnMeter=Electricity:Zone:120659 [J]
+  OnMeter=InteriorLights:Electricity [J]
+  OnMeter=InteriorLights:Electricity:Zone:120659 [J]
+  OnMeter=ELECTRIC EQUIPMENT#120659#GeneralLights:InteriorLights:Electricity [J]
+
+ Meters for 961,120668 GENERAL LIGHTING:Lights Electric Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:Building [J]
+  OnMeter=Electricity:Zone:120668 [J]
+  OnMeter=InteriorLights:Electricity [J]
+  OnMeter=InteriorLights:Electricity:Zone:120668 [J]
+  OnMeter=ELECTRIC EQUIPMENT#120668#GeneralLights:InteriorLights:Electricity [J]
+
+ Meters for 994,120681 GENERAL LIGHTING:Lights Electric Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:Building [J]
+  OnMeter=Electricity:Zone:120681 [J]
+  OnMeter=InteriorLights:Electricity [J]
+  OnMeter=InteriorLights:Electricity:Zone:120681 [J]
+  OnMeter=ELECTRIC EQUIPMENT#120681#GeneralLights:InteriorLights:Electricity [J]
+
+ Meters for 1027,120428 GENERAL LIGHTING:Lights Electric Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:Building [J]
+  OnMeter=Electricity:Zone:120428 [J]
+  OnMeter=InteriorLights:Electricity [J]
+  OnMeter=InteriorLights:Electricity:Zone:120428 [J]
+  OnMeter=ELECTRIC EQUIPMENT#120428#GeneralLights:InteriorLights:Electricity [J]
+
+ Meters for 1060,120466 GENERAL LIGHTING:Lights Electric Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:Building [J]
+  OnMeter=Electricity:Zone:120466 [J]
+  OnMeter=InteriorLights:Electricity [J]
+  OnMeter=InteriorLights:Electricity:Zone:120466 [J]
+  OnMeter=ELECTRIC EQUIPMENT#120466#GeneralLights:InteriorLights:Electricity [J]
+
+ Meters for 1093,120475 GENERAL LIGHTING:Lights Electric Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:Building [J]
+  OnMeter=Electricity:Zone:120475 [J]
+  OnMeter=InteriorLights:Electricity [J]
+  OnMeter=InteriorLights:Electricity:Zone:120475 [J]
+  OnMeter=ELECTRIC EQUIPMENT#120475#GeneralLights:InteriorLights:Electricity [J]
+
+ Meters for 1126,120484 GENERAL LIGHTING:Lights Electric Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:Building [J]
+  OnMeter=Electricity:Zone:120484 [J]
+  OnMeter=InteriorLights:Electricity [J]
+  OnMeter=InteriorLights:Electricity:Zone:120484 [J]
+  OnMeter=ELECTRIC EQUIPMENT#120484#GeneralLights:InteriorLights:Electricity [J]
+
+ Meters for 1159,120497 GENERAL LIGHTING:Lights Electric Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:Building [J]
+  OnMeter=Electricity:Zone:120497 [J]
+  OnMeter=InteriorLights:Electricity [J]
+  OnMeter=InteriorLights:Electricity:Zone:120497 [J]
+  OnMeter=ELECTRIC EQUIPMENT#120497#GeneralLights:InteriorLights:Electricity [J]
+
+ Meters for 1192,120506 GENERAL LIGHTING:Lights Electric Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:Building [J]
+  OnMeter=Electricity:Zone:120506 [J]
+  OnMeter=InteriorLights:Electricity [J]
+  OnMeter=InteriorLights:Electricity:Zone:120506 [J]
+  OnMeter=ELECTRIC EQUIPMENT#120506#GeneralLights:InteriorLights:Electricity [J]
+
+ Meters for 1225,120515 GENERAL LIGHTING:Lights Electric Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:Building [J]
+  OnMeter=Electricity:Zone:120515 [J]
+  OnMeter=InteriorLights:Electricity [J]
+  OnMeter=InteriorLights:Electricity:Zone:120515 [J]
+  OnMeter=ELECTRIC EQUIPMENT#120515#GeneralLights:InteriorLights:Electricity [J]
+
+ Meters for 1258,118363 COMPUTING GAIN 1:Electric Equipment Electric Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:Building [J]
+  OnMeter=Electricity:Zone:118363 [J]
+  OnMeter=InteriorEquipment:Electricity [J]
+  OnMeter=InteriorEquipment:Electricity:Zone:118363 [J]
+  OnMeter=ELECTRIC EQUIPMENT#118363#05:InteriorEquipment:Electricity [J]
+
+ Meters for 1291,118363 MISCELLANEOUS GAIN 2:Electric Equipment Electric Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:Building [J]
+  OnMeter=Electricity:Zone:118363 [J]
+  OnMeter=InteriorEquipment:Electricity [J]
+  OnMeter=InteriorEquipment:Electricity:Zone:118363 [J]
+  OnMeter=ELECTRIC EQUIPMENT#118363#02:InteriorEquipment:Electricity [J]
+
+ Meters for 1302,118363 EQUIPMENT 3:Electric Equipment Electric Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:Building [J]
+  OnMeter=Electricity:Zone:118363 [J]
+  OnMeter=InteriorEquipment:Electricity [J]
+  OnMeter=InteriorEquipment:Electricity:Zone:118363 [J]
+  OnMeter=ELECTRIC EQUIPMENT#118363#05:InteriorEquipment:Electricity [J]
+
+ Meters for 1303,118374 MISCELLANEOUS GAIN 1:Electric Equipment Electric Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:Building [J]
+  OnMeter=Electricity:Zone:118374 [J]
+  OnMeter=InteriorEquipment:Electricity [J]
+  OnMeter=InteriorEquipment:Electricity:Zone:118374 [J]
+  OnMeter=ELECTRIC EQUIPMENT#118374#02:InteriorEquipment:Electricity [J]
+
+ Meters for 1326,118411 MISCELLANEOUS GAIN 1:Electric Equipment Electric Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:Building [J]
+  OnMeter=Electricity:Zone:118411 [J]
+  OnMeter=InteriorEquipment:Electricity [J]
+  OnMeter=InteriorEquipment:Electricity:Zone:118411 [J]
+  OnMeter=ELECTRIC EQUIPMENT#118411#02:InteriorEquipment:Electricity [J]
+
+ Meters for 1349,118418 COMPUTING GAIN 1:Electric Equipment Electric Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:Building [J]
+  OnMeter=Electricity:Zone:118418 [J]
+  OnMeter=InteriorEquipment:Electricity [J]
+  OnMeter=InteriorEquipment:Electricity:Zone:118418 [J]
+  OnMeter=ELECTRIC EQUIPMENT#118418#05:InteriorEquipment:Electricity [J]
+
+ Meters for 1372,118418 MISCELLANEOUS GAIN 2:Electric Equipment Electric Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:Building [J]
+  OnMeter=Electricity:Zone:118418 [J]
+  OnMeter=InteriorEquipment:Electricity [J]
+  OnMeter=InteriorEquipment:Electricity:Zone:118418 [J]
+  OnMeter=ELECTRIC EQUIPMENT#118418#02:InteriorEquipment:Electricity [J]
+
+ Meters for 1383,118418 EQUIPMENT 3:Electric Equipment Electric Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:Building [J]
+  OnMeter=Electricity:Zone:118418 [J]
+  OnMeter=InteriorEquipment:Electricity [J]
+  OnMeter=InteriorEquipment:Electricity:Zone:118418 [J]
+  OnMeter=ELECTRIC EQUIPMENT#118418#05:InteriorEquipment:Electricity [J]
+
+ Meters for 1384,118425 EQUIPMENT 1:Electric Equipment Electric Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:Building [J]
+  OnMeter=Electricity:Zone:118425 [J]
+  OnMeter=InteriorEquipment:Electricity [J]
+  OnMeter=InteriorEquipment:Electricity:Zone:118425 [J]
+  OnMeter=ELECTRIC EQUIPMENT#118425#05:InteriorEquipment:Electricity [J]
+
+ Meters for 1407,118432 MISCELLANEOUS GAIN 1:Electric Equipment Electric Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:Building [J]
+  OnMeter=Electricity:Zone:118432 [J]
+  OnMeter=InteriorEquipment:Electricity [J]
+  OnMeter=InteriorEquipment:Electricity:Zone:118432 [J]
+  OnMeter=ELECTRIC EQUIPMENT#118432#02:InteriorEquipment:Electricity [J]
+
+ Meters for 1430,118439 COMPUTING GAIN 1:Electric Equipment Electric Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:Building [J]
+  OnMeter=Electricity:Zone:118439 [J]
+  OnMeter=InteriorEquipment:Electricity [J]
+  OnMeter=InteriorEquipment:Electricity:Zone:118439 [J]
+  OnMeter=ELECTRIC EQUIPMENT#118439#05:InteriorEquipment:Electricity [J]
+
+ Meters for 1453,118439 MISCELLANEOUS GAIN 2:Electric Equipment Electric Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:Building [J]
+  OnMeter=Electricity:Zone:118439 [J]
+  OnMeter=InteriorEquipment:Electricity [J]
+  OnMeter=InteriorEquipment:Electricity:Zone:118439 [J]
+  OnMeter=ELECTRIC EQUIPMENT#118439#02:InteriorEquipment:Electricity [J]
+
+ Meters for 1464,118439 EQUIPMENT 3:Electric Equipment Electric Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:Building [J]
+  OnMeter=Electricity:Zone:118439 [J]
+  OnMeter=InteriorEquipment:Electricity [J]
+  OnMeter=InteriorEquipment:Electricity:Zone:118439 [J]
+  OnMeter=ELECTRIC EQUIPMENT#118439#05:InteriorEquipment:Electricity [J]
+
+ Meters for 1465,118446 EQUIPMENT 1:Electric Equipment Electric Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:Building [J]
+  OnMeter=Electricity:Zone:118446 [J]
+  OnMeter=InteriorEquipment:Electricity [J]
+  OnMeter=InteriorEquipment:Electricity:Zone:118446 [J]
+  OnMeter=ELECTRIC EQUIPMENT#118446#05:InteriorEquipment:Electricity [J]
+
+ Meters for 1488,118453 MISCELLANEOUS GAIN 1:Electric Equipment Electric Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:Building [J]
+  OnMeter=Electricity:Zone:118453 [J]
+  OnMeter=InteriorEquipment:Electricity [J]
+  OnMeter=InteriorEquipment:Electricity:Zone:118453 [J]
+  OnMeter=ELECTRIC EQUIPMENT#118453#02:InteriorEquipment:Electricity [J]
+
+ Meters for 1511,118460 COMPUTING GAIN 1:Electric Equipment Electric Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:Building [J]
+  OnMeter=Electricity:Zone:118460 [J]
+  OnMeter=InteriorEquipment:Electricity [J]
+  OnMeter=InteriorEquipment:Electricity:Zone:118460 [J]
+  OnMeter=ELECTRIC EQUIPMENT#118460#05:InteriorEquipment:Electricity [J]
+
+ Meters for 1534,118460 MISCELLANEOUS GAIN 2:Electric Equipment Electric Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:Building [J]
+  OnMeter=Electricity:Zone:118460 [J]
+  OnMeter=InteriorEquipment:Electricity [J]
+  OnMeter=InteriorEquipment:Electricity:Zone:118460 [J]
+  OnMeter=ELECTRIC EQUIPMENT#118460#02:InteriorEquipment:Electricity [J]
+
+ Meters for 1545,118474 COMPUTING GAIN 1:Electric Equipment Electric Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:Building [J]
+  OnMeter=Electricity:Zone:118474 [J]
+  OnMeter=InteriorEquipment:Electricity [J]
+  OnMeter=InteriorEquipment:Electricity:Zone:118474 [J]
+  OnMeter=ELECTRIC EQUIPMENT#118474#05:InteriorEquipment:Electricity [J]
+
+ Meters for 1568,118474 MISCELLANEOUS GAIN 2:Electric Equipment Electric Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:Building [J]
+  OnMeter=Electricity:Zone:118474 [J]
+  OnMeter=InteriorEquipment:Electricity [J]
+  OnMeter=InteriorEquipment:Electricity:Zone:118474 [J]
+  OnMeter=ELECTRIC EQUIPMENT#118474#02:InteriorEquipment:Electricity [J]
+
+ Meters for 1579,118474 EQUIPMENT 3:Electric Equipment Electric Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:Building [J]
+  OnMeter=Electricity:Zone:118474 [J]
+  OnMeter=InteriorEquipment:Electricity [J]
+  OnMeter=InteriorEquipment:Electricity:Zone:118474 [J]
+  OnMeter=ELECTRIC EQUIPMENT#118474#05:InteriorEquipment:Electricity [J]
+
+ Meters for 1580,118481 COMPUTING GAIN 1:Electric Equipment Electric Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:Building [J]
+  OnMeter=Electricity:Zone:118481 [J]
+  OnMeter=InteriorEquipment:Electricity [J]
+  OnMeter=InteriorEquipment:Electricity:Zone:118481 [J]
+  OnMeter=ELECTRIC EQUIPMENT#118481#05:InteriorEquipment:Electricity [J]
+
+ Meters for 1603,118481 MISCELLANEOUS GAIN 2:Electric Equipment Electric Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:Building [J]
+  OnMeter=Electricity:Zone:118481 [J]
+  OnMeter=InteriorEquipment:Electricity [J]
+  OnMeter=InteriorEquipment:Electricity:Zone:118481 [J]
+  OnMeter=ELECTRIC EQUIPMENT#118481#02:InteriorEquipment:Electricity [J]
+
+ Meters for 1614,118481 EQUIPMENT 3:Electric Equipment Electric Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:Building [J]
+  OnMeter=Electricity:Zone:118481 [J]
+  OnMeter=InteriorEquipment:Electricity [J]
+  OnMeter=InteriorEquipment:Electricity:Zone:118481 [J]
+  OnMeter=ELECTRIC EQUIPMENT#118481#05:InteriorEquipment:Electricity [J]
+
+ Meters for 1615,118488 COMPUTING GAIN 1:Electric Equipment Electric Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:Building [J]
+  OnMeter=Electricity:Zone:118488 [J]
+  OnMeter=InteriorEquipment:Electricity [J]
+  OnMeter=InteriorEquipment:Electricity:Zone:118488 [J]
+  OnMeter=ELECTRIC EQUIPMENT#118488#05:InteriorEquipment:Electricity [J]
+
+ Meters for 1638,118488 MISCELLANEOUS GAIN 2:Electric Equipment Electric Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:Building [J]
+  OnMeter=Electricity:Zone:118488 [J]
+  OnMeter=InteriorEquipment:Electricity [J]
+  OnMeter=InteriorEquipment:Electricity:Zone:118488 [J]
+  OnMeter=ELECTRIC EQUIPMENT#118488#02:InteriorEquipment:Electricity [J]
+
+ Meters for 1649,120563 MISCELLANEOUS GAIN 1:Electric Equipment Electric Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:Building [J]
+  OnMeter=Electricity:Zone:120563 [J]
+  OnMeter=InteriorEquipment:Electricity [J]
+  OnMeter=InteriorEquipment:Electricity:Zone:120563 [J]
+  OnMeter=ELECTRIC EQUIPMENT#120563#02:InteriorEquipment:Electricity [J]
+
+ Meters for 1672,120605 COMPUTING GAIN 1:Electric Equipment Electric Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:Building [J]
+  OnMeter=Electricity:Zone:120605 [J]
+  OnMeter=InteriorEquipment:Electricity [J]
+  OnMeter=InteriorEquipment:Electricity:Zone:120605 [J]
+  OnMeter=ELECTRIC EQUIPMENT#120605#05:InteriorEquipment:Electricity [J]
+
+ Meters for 1695,120605 MISCELLANEOUS GAIN 2:Electric Equipment Electric Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:Building [J]
+  OnMeter=Electricity:Zone:120605 [J]
+  OnMeter=InteriorEquipment:Electricity [J]
+  OnMeter=InteriorEquipment:Electricity:Zone:120605 [J]
+  OnMeter=ELECTRIC EQUIPMENT#120605#02:InteriorEquipment:Electricity [J]
+
+ Meters for 1706,120605 EQUIPMENT 3:Electric Equipment Electric Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:Building [J]
+  OnMeter=Electricity:Zone:120605 [J]
+  OnMeter=InteriorEquipment:Electricity [J]
+  OnMeter=InteriorEquipment:Electricity:Zone:120605 [J]
+  OnMeter=ELECTRIC EQUIPMENT#120605#05:InteriorEquipment:Electricity [J]
+
+ Meters for 1707,120614 MISCELLANEOUS GAIN 1:Electric Equipment Electric Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:Building [J]
+  OnMeter=Electricity:Zone:120614 [J]
+  OnMeter=InteriorEquipment:Electricity [J]
+  OnMeter=InteriorEquipment:Electricity:Zone:120614 [J]
+  OnMeter=ELECTRIC EQUIPMENT#120614#02:InteriorEquipment:Electricity [J]
+
+ Meters for 1730,120623 COMPUTING GAIN 1:Electric Equipment Electric Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:Building [J]
+  OnMeter=Electricity:Zone:120623 [J]
+  OnMeter=InteriorEquipment:Electricity [J]
+  OnMeter=InteriorEquipment:Electricity:Zone:120623 [J]
+  OnMeter=ELECTRIC EQUIPMENT#120623#05:InteriorEquipment:Electricity [J]
+
+ Meters for 1753,120623 MISCELLANEOUS GAIN 2:Electric Equipment Electric Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:Building [J]
+  OnMeter=Electricity:Zone:120623 [J]
+  OnMeter=InteriorEquipment:Electricity [J]
+  OnMeter=InteriorEquipment:Electricity:Zone:120623 [J]
+  OnMeter=ELECTRIC EQUIPMENT#120623#02:InteriorEquipment:Electricity [J]
+
+ Meters for 1764,120632 COMPUTING GAIN 1:Electric Equipment Electric Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:Building [J]
+  OnMeter=Electricity:Zone:120632 [J]
+  OnMeter=InteriorEquipment:Electricity [J]
+  OnMeter=InteriorEquipment:Electricity:Zone:120632 [J]
+  OnMeter=ELECTRIC EQUIPMENT#120632#05:InteriorEquipment:Electricity [J]
+
+ Meters for 1787,120641 COMPUTING GAIN 1:Electric Equipment Electric Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:Building [J]
+  OnMeter=Electricity:Zone:120641 [J]
+  OnMeter=InteriorEquipment:Electricity [J]
+  OnMeter=InteriorEquipment:Electricity:Zone:120641 [J]
+  OnMeter=ELECTRIC EQUIPMENT#120641#05:InteriorEquipment:Electricity [J]
+
+ Meters for 1820,120650 COMPUTING GAIN 1:Electric Equipment Electric Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:Building [J]
+  OnMeter=Electricity:Zone:120650 [J]
+  OnMeter=InteriorEquipment:Electricity [J]
+  OnMeter=InteriorEquipment:Electricity:Zone:120650 [J]
+  OnMeter=ELECTRIC EQUIPMENT#120650#05:InteriorEquipment:Electricity [J]
+
+ Meters for 1843,120650 MISCELLANEOUS GAIN 2:Electric Equipment Electric Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:Building [J]
+  OnMeter=Electricity:Zone:120650 [J]
+  OnMeter=InteriorEquipment:Electricity [J]
+  OnMeter=InteriorEquipment:Electricity:Zone:120650 [J]
+  OnMeter=ELECTRIC EQUIPMENT#120650#02:InteriorEquipment:Electricity [J]
+
+ Meters for 1854,120659 COMPUTING GAIN 1:Electric Equipment Electric Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:Building [J]
+  OnMeter=Electricity:Zone:120659 [J]
+  OnMeter=InteriorEquipment:Electricity [J]
+  OnMeter=InteriorEquipment:Electricity:Zone:120659 [J]
+  OnMeter=ELECTRIC EQUIPMENT#120659#05:InteriorEquipment:Electricity [J]
+
+ Meters for 1877,120659 MISCELLANEOUS GAIN 2:Electric Equipment Electric Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:Building [J]
+  OnMeter=Electricity:Zone:120659 [J]
+  OnMeter=InteriorEquipment:Electricity [J]
+  OnMeter=InteriorEquipment:Electricity:Zone:120659 [J]
+  OnMeter=ELECTRIC EQUIPMENT#120659#02:InteriorEquipment:Electricity [J]
+
+ Meters for 1888,120668 COMPUTING GAIN 1:Electric Equipment Electric Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:Building [J]
+  OnMeter=Electricity:Zone:120668 [J]
+  OnMeter=InteriorEquipment:Electricity [J]
+  OnMeter=InteriorEquipment:Electricity:Zone:120668 [J]
+  OnMeter=ELECTRIC EQUIPMENT#120668#05:InteriorEquipment:Electricity [J]
+
+ Meters for 1911,120668 MISCELLANEOUS GAIN 2:Electric Equipment Electric Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:Building [J]
+  OnMeter=Electricity:Zone:120668 [J]
+  OnMeter=InteriorEquipment:Electricity [J]
+  OnMeter=InteriorEquipment:Electricity:Zone:120668 [J]
+  OnMeter=ELECTRIC EQUIPMENT#120668#02:InteriorEquipment:Electricity [J]
+
+ Meters for 1922,120681 MISCELLANEOUS GAIN 1:Electric Equipment Electric Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:Building [J]
+  OnMeter=Electricity:Zone:120681 [J]
+  OnMeter=InteriorEquipment:Electricity [J]
+  OnMeter=InteriorEquipment:Electricity:Zone:120681 [J]
+  OnMeter=ELECTRIC EQUIPMENT#120681#02:InteriorEquipment:Electricity [J]
+
+ Meters for 1945,120428 MISCELLANEOUS GAIN 1:Electric Equipment Electric Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:Building [J]
+  OnMeter=Electricity:Zone:120428 [J]
+  OnMeter=InteriorEquipment:Electricity [J]
+  OnMeter=InteriorEquipment:Electricity:Zone:120428 [J]
+  OnMeter=ELECTRIC EQUIPMENT#120428#02:InteriorEquipment:Electricity [J]
+
+ Meters for 1968,120466 MISCELLANEOUS GAIN 1:Electric Equipment Electric Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:Building [J]
+  OnMeter=Electricity:Zone:120466 [J]
+  OnMeter=InteriorEquipment:Electricity [J]
+  OnMeter=InteriorEquipment:Electricity:Zone:120466 [J]
+  OnMeter=ELECTRIC EQUIPMENT#120466#02:InteriorEquipment:Electricity [J]
+
+ Meters for 1991,120475 COMPUTING GAIN 1:Electric Equipment Electric Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:Building [J]
+  OnMeter=Electricity:Zone:120475 [J]
+  OnMeter=InteriorEquipment:Electricity [J]
+  OnMeter=InteriorEquipment:Electricity:Zone:120475 [J]
+  OnMeter=ELECTRIC EQUIPMENT#120475#05:InteriorEquipment:Electricity [J]
+
+ Meters for 2014,120475 MISCELLANEOUS GAIN 2:Electric Equipment Electric Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:Building [J]
+  OnMeter=Electricity:Zone:120475 [J]
+  OnMeter=InteriorEquipment:Electricity [J]
+  OnMeter=InteriorEquipment:Electricity:Zone:120475 [J]
+  OnMeter=ELECTRIC EQUIPMENT#120475#02:InteriorEquipment:Electricity [J]
+
+ Meters for 2025,120484 COMPUTING GAIN 1:Electric Equipment Electric Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:Building [J]
+  OnMeter=Electricity:Zone:120484 [J]
+  OnMeter=InteriorEquipment:Electricity [J]
+  OnMeter=InteriorEquipment:Electricity:Zone:120484 [J]
+  OnMeter=ELECTRIC EQUIPMENT#120484#05:InteriorEquipment:Electricity [J]
+
+ Meters for 2048,120484 MISCELLANEOUS GAIN 2:Electric Equipment Electric Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:Building [J]
+  OnMeter=Electricity:Zone:120484 [J]
+  OnMeter=InteriorEquipment:Electricity [J]
+  OnMeter=InteriorEquipment:Electricity:Zone:120484 [J]
+  OnMeter=ELECTRIC EQUIPMENT#120484#02:InteriorEquipment:Electricity [J]
+
+ Meters for 2059,120497 COMPUTING GAIN 1:Electric Equipment Electric Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:Building [J]
+  OnMeter=Electricity:Zone:120497 [J]
+  OnMeter=InteriorEquipment:Electricity [J]
+  OnMeter=InteriorEquipment:Electricity:Zone:120497 [J]
+  OnMeter=ELECTRIC EQUIPMENT#120497#05:InteriorEquipment:Electricity [J]
+
+ Meters for 2082,120497 MISCELLANEOUS GAIN 2:Electric Equipment Electric Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:Building [J]
+  OnMeter=Electricity:Zone:120497 [J]
+  OnMeter=InteriorEquipment:Electricity [J]
+  OnMeter=InteriorEquipment:Electricity:Zone:120497 [J]
+  OnMeter=ELECTRIC EQUIPMENT#120497#02:InteriorEquipment:Electricity [J]
+
+ Meters for 2093,120506 COMPUTING GAIN 1:Electric Equipment Electric Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:Building [J]
+  OnMeter=Electricity:Zone:120506 [J]
+  OnMeter=InteriorEquipment:Electricity [J]
+  OnMeter=InteriorEquipment:Electricity:Zone:120506 [J]
+  OnMeter=ELECTRIC EQUIPMENT#120506#05:InteriorEquipment:Electricity [J]
+
+ Meters for 2116,120506 MISCELLANEOUS GAIN 2:Electric Equipment Electric Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:Building [J]
+  OnMeter=Electricity:Zone:120506 [J]
+  OnMeter=InteriorEquipment:Electricity [J]
+  OnMeter=InteriorEquipment:Electricity:Zone:120506 [J]
+  OnMeter=ELECTRIC EQUIPMENT#120506#02:InteriorEquipment:Electricity [J]
+
+ Meters for 2127,120515 COMPUTING GAIN 1:Electric Equipment Electric Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:Building [J]
+  OnMeter=Electricity:Zone:120515 [J]
+  OnMeter=InteriorEquipment:Electricity [J]
+  OnMeter=InteriorEquipment:Electricity:Zone:120515 [J]
+  OnMeter=ELECTRIC EQUIPMENT#120515#05:InteriorEquipment:Electricity [J]
+
+ Meters for 2150,120515 MISCELLANEOUS GAIN 2:Electric Equipment Electric Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:Building [J]
+  OnMeter=Electricity:Zone:120515 [J]
+  OnMeter=InteriorEquipment:Electricity [J]
+  OnMeter=InteriorEquipment:Electricity:Zone:120515 [J]
+  OnMeter=ELECTRIC EQUIPMENT#120515#02:InteriorEquipment:Electricity [J]
+
+ Meters for 3935,118374:Zone Ventilation Fan Electric Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:Building [J]
+  OnMeter=Electricity:Zone:118374 [J]
+  OnMeter=Fans:Electricity [J]
+  OnMeter=Fans:Electricity:Zone:118374 [J]
+  OnMeter=Ventilation (simple):Fans:Electricity [J]
+
+ Meters for 3966,118411:Zone Ventilation Fan Electric Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:Building [J]
+  OnMeter=Electricity:Zone:118411 [J]
+  OnMeter=Fans:Electricity [J]
+  OnMeter=Fans:Electricity:Zone:118411 [J]
+  OnMeter=Ventilation (simple):Fans:Electricity [J]
+
+ Meters for 3977,118418:Zone Ventilation Fan Electric Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:Building [J]
+  OnMeter=Electricity:Zone:118418 [J]
+  OnMeter=Fans:Electricity [J]
+  OnMeter=Fans:Electricity:Zone:118418 [J]
+  OnMeter=Ventilation (simple):Fans:Electricity [J]
+
+ Meters for 3988,118425:Zone Ventilation Fan Electric Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:Building [J]
+  OnMeter=Electricity:Zone:118425 [J]
+  OnMeter=Fans:Electricity [J]
+  OnMeter=Fans:Electricity:Zone:118425 [J]
+  OnMeter=Ventilation (simple):Fans:Electricity [J]
+
+ Meters for 3999,118432:Zone Ventilation Fan Electric Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:Building [J]
+  OnMeter=Electricity:Zone:118432 [J]
+  OnMeter=Fans:Electricity [J]
+  OnMeter=Fans:Electricity:Zone:118432 [J]
+  OnMeter=Ventilation (simple):Fans:Electricity [J]
+
+ Meters for 4010,118439:Zone Ventilation Fan Electric Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:Building [J]
+  OnMeter=Electricity:Zone:118439 [J]
+  OnMeter=Fans:Electricity [J]
+  OnMeter=Fans:Electricity:Zone:118439 [J]
+  OnMeter=Ventilation (simple):Fans:Electricity [J]
+
+ Meters for 4021,118446:Zone Ventilation Fan Electric Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:Building [J]
+  OnMeter=Electricity:Zone:118446 [J]
+  OnMeter=Fans:Electricity [J]
+  OnMeter=Fans:Electricity:Zone:118446 [J]
+  OnMeter=Ventilation (simple):Fans:Electricity [J]
+
+ Meters for 4032,118453:Zone Ventilation Fan Electric Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:Building [J]
+  OnMeter=Electricity:Zone:118453 [J]
+  OnMeter=Fans:Electricity [J]
+  OnMeter=Fans:Electricity:Zone:118453 [J]
+  OnMeter=Ventilation (simple):Fans:Electricity [J]
+
+ Meters for 4043,118460:Zone Ventilation Fan Electric Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:Building [J]
+  OnMeter=Electricity:Zone:118460 [J]
+  OnMeter=Fans:Electricity [J]
+  OnMeter=Fans:Electricity:Zone:118460 [J]
+  OnMeter=Ventilation (simple):Fans:Electricity [J]
+
+ Meters for 4054,118467:Zone Ventilation Fan Electric Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:Building [J]
+  OnMeter=Electricity:Zone:118467 [J]
+  OnMeter=Fans:Electricity [J]
+  OnMeter=Fans:Electricity:Zone:118467 [J]
+  OnMeter=Ventilation (simple):Fans:Electricity [J]
+
+ Meters for 4065,118474:Zone Ventilation Fan Electric Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:Building [J]
+  OnMeter=Electricity:Zone:118474 [J]
+  OnMeter=Fans:Electricity [J]
+  OnMeter=Fans:Electricity:Zone:118474 [J]
+  OnMeter=Ventilation (simple):Fans:Electricity [J]
+
+ Meters for 4076,118481:Zone Ventilation Fan Electric Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:Building [J]
+  OnMeter=Electricity:Zone:118481 [J]
+  OnMeter=Fans:Electricity [J]
+  OnMeter=Fans:Electricity:Zone:118481 [J]
+  OnMeter=Ventilation (simple):Fans:Electricity [J]
+
+ Meters for 4087,118488:Zone Ventilation Fan Electric Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:Building [J]
+  OnMeter=Electricity:Zone:118488 [J]
+  OnMeter=Fans:Electricity [J]
+  OnMeter=Fans:Electricity:Zone:118488 [J]
+  OnMeter=Ventilation (simple):Fans:Electricity [J]
+
+ Meters for 4098,120563:Zone Ventilation Fan Electric Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:Building [J]
+  OnMeter=Electricity:Zone:120563 [J]
+  OnMeter=Fans:Electricity [J]
+  OnMeter=Fans:Electricity:Zone:120563 [J]
+  OnMeter=Ventilation (simple):Fans:Electricity [J]
+
+ Meters for 4109,120605:Zone Ventilation Fan Electric Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:Building [J]
+  OnMeter=Electricity:Zone:120605 [J]
+  OnMeter=Fans:Electricity [J]
+  OnMeter=Fans:Electricity:Zone:120605 [J]
+  OnMeter=Ventilation (simple):Fans:Electricity [J]
+
+ Meters for 4120,120614:Zone Ventilation Fan Electric Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:Building [J]
+  OnMeter=Electricity:Zone:120614 [J]
+  OnMeter=Fans:Electricity [J]
+  OnMeter=Fans:Electricity:Zone:120614 [J]
+  OnMeter=Ventilation (simple):Fans:Electricity [J]
+
+ Meters for 4131,120623:Zone Ventilation Fan Electric Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:Building [J]
+  OnMeter=Electricity:Zone:120623 [J]
+  OnMeter=Fans:Electricity [J]
+  OnMeter=Fans:Electricity:Zone:120623 [J]
+  OnMeter=Ventilation (simple):Fans:Electricity [J]
+
+ Meters for 4142,120632:Zone Ventilation Fan Electric Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:Building [J]
+  OnMeter=Electricity:Zone:120632 [J]
+  OnMeter=Fans:Electricity [J]
+  OnMeter=Fans:Electricity:Zone:120632 [J]
+  OnMeter=Ventilation (simple):Fans:Electricity [J]
+
+ Meters for 4153,120641:Zone Ventilation Fan Electric Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:Building [J]
+  OnMeter=Electricity:Zone:120641 [J]
+  OnMeter=Fans:Electricity [J]
+  OnMeter=Fans:Electricity:Zone:120641 [J]
+  OnMeter=Ventilation (simple):Fans:Electricity [J]
+
+ Meters for 4164,120650:Zone Ventilation Fan Electric Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:Building [J]
+  OnMeter=Electricity:Zone:120650 [J]
+  OnMeter=Fans:Electricity [J]
+  OnMeter=Fans:Electricity:Zone:120650 [J]
+  OnMeter=Ventilation (simple):Fans:Electricity [J]
+
+ Meters for 4175,120659:Zone Ventilation Fan Electric Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:Building [J]
+  OnMeter=Electricity:Zone:120659 [J]
+  OnMeter=Fans:Electricity [J]
+  OnMeter=Fans:Electricity:Zone:120659 [J]
+  OnMeter=Ventilation (simple):Fans:Electricity [J]
+
+ Meters for 4186,120668:Zone Ventilation Fan Electric Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:Building [J]
+  OnMeter=Electricity:Zone:120668 [J]
+  OnMeter=Fans:Electricity [J]
+  OnMeter=Fans:Electricity:Zone:120668 [J]
+  OnMeter=Ventilation (simple):Fans:Electricity [J]
+
+ Meters for 4197,120681:Zone Ventilation Fan Electric Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:Building [J]
+  OnMeter=Electricity:Zone:120681 [J]
+  OnMeter=Fans:Electricity [J]
+  OnMeter=Fans:Electricity:Zone:120681 [J]
+  OnMeter=Ventilation (simple):Fans:Electricity [J]
+
+ Meters for 4208,120428:Zone Ventilation Fan Electric Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:Building [J]
+  OnMeter=Electricity:Zone:120428 [J]
+  OnMeter=Fans:Electricity [J]
+  OnMeter=Fans:Electricity:Zone:120428 [J]
+  OnMeter=Ventilation (simple):Fans:Electricity [J]
+
+ Meters for 4219,120475:Zone Ventilation Fan Electric Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:Building [J]
+  OnMeter=Electricity:Zone:120475 [J]
+  OnMeter=Fans:Electricity [J]
+  OnMeter=Fans:Electricity:Zone:120475 [J]
+  OnMeter=Ventilation (simple):Fans:Electricity [J]
+
+ Meters for 4230,120484:Zone Ventilation Fan Electric Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:Building [J]
+  OnMeter=Electricity:Zone:120484 [J]
+  OnMeter=Fans:Electricity [J]
+  OnMeter=Fans:Electricity:Zone:120484 [J]
+  OnMeter=Ventilation (simple):Fans:Electricity [J]
+
+ Meters for 4241,120497:Zone Ventilation Fan Electric Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:Building [J]
+  OnMeter=Electricity:Zone:120497 [J]
+  OnMeter=Fans:Electricity [J]
+  OnMeter=Fans:Electricity:Zone:120497 [J]
+  OnMeter=Ventilation (simple):Fans:Electricity [J]
+
+ Meters for 4252,120506:Zone Ventilation Fan Electric Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:Building [J]
+  OnMeter=Electricity:Zone:120506 [J]
+  OnMeter=Fans:Electricity [J]
+  OnMeter=Fans:Electricity:Zone:120506 [J]
+  OnMeter=Ventilation (simple):Fans:Electricity [J]
+
+ Meters for 4263,120515:Zone Ventilation Fan Electric Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:Building [J]
+  OnMeter=Electricity:Zone:120515 [J]
+  OnMeter=Fans:Electricity [J]
+  OnMeter=Fans:Electricity:Zone:120515 [J]
+  OnMeter=Ventilation (simple):Fans:Electricity [J]
+
+ Meters for 4274,118363:Zone Air System Sensible Heating Energy [J]
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:Building [J]
+  OnMeter=EnergyTransfer:Zone:118363 [J]
+  OnMeter=Heating:EnergyTransfer [J]
+  OnMeter=Heating:EnergyTransfer:Zone:118363 [J]
+
+ Meters for 4325,118363:Zone Air System Sensible Cooling Energy [J]
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:Building [J]
+  OnMeter=EnergyTransfer:Zone:118363 [J]
+  OnMeter=Cooling:EnergyTransfer [J]
+  OnMeter=Cooling:EnergyTransfer:Zone:118363 [J]
+
+ Meters for 4348,118374:Zone Air System Sensible Heating Energy [J]
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:Building [J]
+  OnMeter=EnergyTransfer:Zone:118374 [J]
+  OnMeter=Heating:EnergyTransfer [J]
+  OnMeter=Heating:EnergyTransfer:Zone:118374 [J]
+
+ Meters for 4369,118374:Zone Air System Sensible Cooling Energy [J]
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:Building [J]
+  OnMeter=EnergyTransfer:Zone:118374 [J]
+  OnMeter=Cooling:EnergyTransfer [J]
+  OnMeter=Cooling:EnergyTransfer:Zone:118374 [J]
+
+ Meters for 4382,118411:Zone Air System Sensible Heating Energy [J]
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:Building [J]
+  OnMeter=EnergyTransfer:Zone:118411 [J]
+  OnMeter=Heating:EnergyTransfer [J]
+  OnMeter=Heating:EnergyTransfer:Zone:118411 [J]
+
+ Meters for 4403,118411:Zone Air System Sensible Cooling Energy [J]
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:Building [J]
+  OnMeter=EnergyTransfer:Zone:118411 [J]
+  OnMeter=Cooling:EnergyTransfer [J]
+  OnMeter=Cooling:EnergyTransfer:Zone:118411 [J]
+
+ Meters for 4416,118418:Zone Air System Sensible Heating Energy [J]
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:Building [J]
+  OnMeter=EnergyTransfer:Zone:118418 [J]
+  OnMeter=Heating:EnergyTransfer [J]
+  OnMeter=Heating:EnergyTransfer:Zone:118418 [J]
+
+ Meters for 4437,118418:Zone Air System Sensible Cooling Energy [J]
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:Building [J]
+  OnMeter=EnergyTransfer:Zone:118418 [J]
+  OnMeter=Cooling:EnergyTransfer [J]
+  OnMeter=Cooling:EnergyTransfer:Zone:118418 [J]
+
+ Meters for 4450,118425:Zone Air System Sensible Heating Energy [J]
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:Building [J]
+  OnMeter=EnergyTransfer:Zone:118425 [J]
+  OnMeter=Heating:EnergyTransfer [J]
+  OnMeter=Heating:EnergyTransfer:Zone:118425 [J]
+
+ Meters for 4471,118425:Zone Air System Sensible Cooling Energy [J]
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:Building [J]
+  OnMeter=EnergyTransfer:Zone:118425 [J]
+  OnMeter=Cooling:EnergyTransfer [J]
+  OnMeter=Cooling:EnergyTransfer:Zone:118425 [J]
+
+ Meters for 4484,118432:Zone Air System Sensible Heating Energy [J]
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:Building [J]
+  OnMeter=EnergyTransfer:Zone:118432 [J]
+  OnMeter=Heating:EnergyTransfer [J]
+  OnMeter=Heating:EnergyTransfer:Zone:118432 [J]
+
+ Meters for 4505,118432:Zone Air System Sensible Cooling Energy [J]
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:Building [J]
+  OnMeter=EnergyTransfer:Zone:118432 [J]
+  OnMeter=Cooling:EnergyTransfer [J]
+  OnMeter=Cooling:EnergyTransfer:Zone:118432 [J]
+
+ Meters for 4518,118439:Zone Air System Sensible Heating Energy [J]
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:Building [J]
+  OnMeter=EnergyTransfer:Zone:118439 [J]
+  OnMeter=Heating:EnergyTransfer [J]
+  OnMeter=Heating:EnergyTransfer:Zone:118439 [J]
+
+ Meters for 4539,118439:Zone Air System Sensible Cooling Energy [J]
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:Building [J]
+  OnMeter=EnergyTransfer:Zone:118439 [J]
+  OnMeter=Cooling:EnergyTransfer [J]
+  OnMeter=Cooling:EnergyTransfer:Zone:118439 [J]
+
+ Meters for 4552,118446:Zone Air System Sensible Heating Energy [J]
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:Building [J]
+  OnMeter=EnergyTransfer:Zone:118446 [J]
+  OnMeter=Heating:EnergyTransfer [J]
+  OnMeter=Heating:EnergyTransfer:Zone:118446 [J]
+
+ Meters for 4573,118446:Zone Air System Sensible Cooling Energy [J]
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:Building [J]
+  OnMeter=EnergyTransfer:Zone:118446 [J]
+  OnMeter=Cooling:EnergyTransfer [J]
+  OnMeter=Cooling:EnergyTransfer:Zone:118446 [J]
+
+ Meters for 4586,118453:Zone Air System Sensible Heating Energy [J]
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:Building [J]
+  OnMeter=EnergyTransfer:Zone:118453 [J]
+  OnMeter=Heating:EnergyTransfer [J]
+  OnMeter=Heating:EnergyTransfer:Zone:118453 [J]
+
+ Meters for 4607,118453:Zone Air System Sensible Cooling Energy [J]
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:Building [J]
+  OnMeter=EnergyTransfer:Zone:118453 [J]
+  OnMeter=Cooling:EnergyTransfer [J]
+  OnMeter=Cooling:EnergyTransfer:Zone:118453 [J]
+
+ Meters for 4620,118460:Zone Air System Sensible Heating Energy [J]
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:Building [J]
+  OnMeter=EnergyTransfer:Zone:118460 [J]
+  OnMeter=Heating:EnergyTransfer [J]
+  OnMeter=Heating:EnergyTransfer:Zone:118460 [J]
+
+ Meters for 4641,118460:Zone Air System Sensible Cooling Energy [J]
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:Building [J]
+  OnMeter=EnergyTransfer:Zone:118460 [J]
+  OnMeter=Cooling:EnergyTransfer [J]
+  OnMeter=Cooling:EnergyTransfer:Zone:118460 [J]
+
+ Meters for 4654,118467:Zone Air System Sensible Heating Energy [J]
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:Building [J]
+  OnMeter=EnergyTransfer:Zone:118467 [J]
+  OnMeter=Heating:EnergyTransfer [J]
+  OnMeter=Heating:EnergyTransfer:Zone:118467 [J]
+
+ Meters for 4675,118467:Zone Air System Sensible Cooling Energy [J]
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:Building [J]
+  OnMeter=EnergyTransfer:Zone:118467 [J]
+  OnMeter=Cooling:EnergyTransfer [J]
+  OnMeter=Cooling:EnergyTransfer:Zone:118467 [J]
+
+ Meters for 4688,118474:Zone Air System Sensible Heating Energy [J]
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:Building [J]
+  OnMeter=EnergyTransfer:Zone:118474 [J]
+  OnMeter=Heating:EnergyTransfer [J]
+  OnMeter=Heating:EnergyTransfer:Zone:118474 [J]
+
+ Meters for 4709,118474:Zone Air System Sensible Cooling Energy [J]
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:Building [J]
+  OnMeter=EnergyTransfer:Zone:118474 [J]
+  OnMeter=Cooling:EnergyTransfer [J]
+  OnMeter=Cooling:EnergyTransfer:Zone:118474 [J]
+
+ Meters for 4722,118481:Zone Air System Sensible Heating Energy [J]
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:Building [J]
+  OnMeter=EnergyTransfer:Zone:118481 [J]
+  OnMeter=Heating:EnergyTransfer [J]
+  OnMeter=Heating:EnergyTransfer:Zone:118481 [J]
+
+ Meters for 4743,118481:Zone Air System Sensible Cooling Energy [J]
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:Building [J]
+  OnMeter=EnergyTransfer:Zone:118481 [J]
+  OnMeter=Cooling:EnergyTransfer [J]
+  OnMeter=Cooling:EnergyTransfer:Zone:118481 [J]
+
+ Meters for 4756,118488:Zone Air System Sensible Heating Energy [J]
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:Building [J]
+  OnMeter=EnergyTransfer:Zone:118488 [J]
+  OnMeter=Heating:EnergyTransfer [J]
+  OnMeter=Heating:EnergyTransfer:Zone:118488 [J]
+
+ Meters for 4777,118488:Zone Air System Sensible Cooling Energy [J]
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:Building [J]
+  OnMeter=EnergyTransfer:Zone:118488 [J]
+  OnMeter=Cooling:EnergyTransfer [J]
+  OnMeter=Cooling:EnergyTransfer:Zone:118488 [J]
+
+ Meters for 4790,120563:Zone Air System Sensible Heating Energy [J]
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:Building [J]
+  OnMeter=EnergyTransfer:Zone:120563 [J]
+  OnMeter=Heating:EnergyTransfer [J]
+  OnMeter=Heating:EnergyTransfer:Zone:120563 [J]
+
+ Meters for 4811,120563:Zone Air System Sensible Cooling Energy [J]
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:Building [J]
+  OnMeter=EnergyTransfer:Zone:120563 [J]
+  OnMeter=Cooling:EnergyTransfer [J]
+  OnMeter=Cooling:EnergyTransfer:Zone:120563 [J]
+
+ Meters for 4824,120605:Zone Air System Sensible Heating Energy [J]
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:Building [J]
+  OnMeter=EnergyTransfer:Zone:120605 [J]
+  OnMeter=Heating:EnergyTransfer [J]
+  OnMeter=Heating:EnergyTransfer:Zone:120605 [J]
+
+ Meters for 4845,120605:Zone Air System Sensible Cooling Energy [J]
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:Building [J]
+  OnMeter=EnergyTransfer:Zone:120605 [J]
+  OnMeter=Cooling:EnergyTransfer [J]
+  OnMeter=Cooling:EnergyTransfer:Zone:120605 [J]
+
+ Meters for 4858,120614:Zone Air System Sensible Heating Energy [J]
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:Building [J]
+  OnMeter=EnergyTransfer:Zone:120614 [J]
+  OnMeter=Heating:EnergyTransfer [J]
+  OnMeter=Heating:EnergyTransfer:Zone:120614 [J]
+
+ Meters for 4879,120614:Zone Air System Sensible Cooling Energy [J]
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:Building [J]
+  OnMeter=EnergyTransfer:Zone:120614 [J]
+  OnMeter=Cooling:EnergyTransfer [J]
+  OnMeter=Cooling:EnergyTransfer:Zone:120614 [J]
+
+ Meters for 4892,120623:Zone Air System Sensible Heating Energy [J]
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:Building [J]
+  OnMeter=EnergyTransfer:Zone:120623 [J]
+  OnMeter=Heating:EnergyTransfer [J]
+  OnMeter=Heating:EnergyTransfer:Zone:120623 [J]
+
+ Meters for 4913,120623:Zone Air System Sensible Cooling Energy [J]
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:Building [J]
+  OnMeter=EnergyTransfer:Zone:120623 [J]
+  OnMeter=Cooling:EnergyTransfer [J]
+  OnMeter=Cooling:EnergyTransfer:Zone:120623 [J]
+
+ Meters for 4926,120632:Zone Air System Sensible Heating Energy [J]
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:Building [J]
+  OnMeter=EnergyTransfer:Zone:120632 [J]
+  OnMeter=Heating:EnergyTransfer [J]
+  OnMeter=Heating:EnergyTransfer:Zone:120632 [J]
+
+ Meters for 4947,120632:Zone Air System Sensible Cooling Energy [J]
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:Building [J]
+  OnMeter=EnergyTransfer:Zone:120632 [J]
+  OnMeter=Cooling:EnergyTransfer [J]
+  OnMeter=Cooling:EnergyTransfer:Zone:120632 [J]
+
+ Meters for 4960,120641:Zone Air System Sensible Heating Energy [J]
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:Building [J]
+  OnMeter=EnergyTransfer:Zone:120641 [J]
+  OnMeter=Heating:EnergyTransfer [J]
+  OnMeter=Heating:EnergyTransfer:Zone:120641 [J]
+
+ Meters for 4981,120641:Zone Air System Sensible Cooling Energy [J]
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:Building [J]
+  OnMeter=EnergyTransfer:Zone:120641 [J]
+  OnMeter=Cooling:EnergyTransfer [J]
+  OnMeter=Cooling:EnergyTransfer:Zone:120641 [J]
+
+ Meters for 4994,120650:Zone Air System Sensible Heating Energy [J]
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:Building [J]
+  OnMeter=EnergyTransfer:Zone:120650 [J]
+  OnMeter=Heating:EnergyTransfer [J]
+  OnMeter=Heating:EnergyTransfer:Zone:120650 [J]
+
+ Meters for 5015,120650:Zone Air System Sensible Cooling Energy [J]
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:Building [J]
+  OnMeter=EnergyTransfer:Zone:120650 [J]
+  OnMeter=Cooling:EnergyTransfer [J]
+  OnMeter=Cooling:EnergyTransfer:Zone:120650 [J]
+
+ Meters for 5028,120659:Zone Air System Sensible Heating Energy [J]
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:Building [J]
+  OnMeter=EnergyTransfer:Zone:120659 [J]
+  OnMeter=Heating:EnergyTransfer [J]
+  OnMeter=Heating:EnergyTransfer:Zone:120659 [J]
+
+ Meters for 5049,120659:Zone Air System Sensible Cooling Energy [J]
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:Building [J]
+  OnMeter=EnergyTransfer:Zone:120659 [J]
+  OnMeter=Cooling:EnergyTransfer [J]
+  OnMeter=Cooling:EnergyTransfer:Zone:120659 [J]
+
+ Meters for 5062,120668:Zone Air System Sensible Heating Energy [J]
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:Building [J]
+  OnMeter=EnergyTransfer:Zone:120668 [J]
+  OnMeter=Heating:EnergyTransfer [J]
+  OnMeter=Heating:EnergyTransfer:Zone:120668 [J]
+
+ Meters for 5083,120668:Zone Air System Sensible Cooling Energy [J]
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:Building [J]
+  OnMeter=EnergyTransfer:Zone:120668 [J]
+  OnMeter=Cooling:EnergyTransfer [J]
+  OnMeter=Cooling:EnergyTransfer:Zone:120668 [J]
+
+ Meters for 5096,120681:Zone Air System Sensible Heating Energy [J]
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:Building [J]
+  OnMeter=EnergyTransfer:Zone:120681 [J]
+  OnMeter=Heating:EnergyTransfer [J]
+  OnMeter=Heating:EnergyTransfer:Zone:120681 [J]
+
+ Meters for 5117,120681:Zone Air System Sensible Cooling Energy [J]
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:Building [J]
+  OnMeter=EnergyTransfer:Zone:120681 [J]
+  OnMeter=Cooling:EnergyTransfer [J]
+  OnMeter=Cooling:EnergyTransfer:Zone:120681 [J]
+
+ Meters for 5130,120428:Zone Air System Sensible Heating Energy [J]
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:Building [J]
+  OnMeter=EnergyTransfer:Zone:120428 [J]
+  OnMeter=Heating:EnergyTransfer [J]
+  OnMeter=Heating:EnergyTransfer:Zone:120428 [J]
+
+ Meters for 5151,120428:Zone Air System Sensible Cooling Energy [J]
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:Building [J]
+  OnMeter=EnergyTransfer:Zone:120428 [J]
+  OnMeter=Cooling:EnergyTransfer [J]
+  OnMeter=Cooling:EnergyTransfer:Zone:120428 [J]
+
+ Meters for 5164,120466:Zone Air System Sensible Heating Energy [J]
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:Building [J]
+  OnMeter=EnergyTransfer:Zone:120466 [J]
+  OnMeter=Heating:EnergyTransfer [J]
+  OnMeter=Heating:EnergyTransfer:Zone:120466 [J]
+
+ Meters for 5185,120466:Zone Air System Sensible Cooling Energy [J]
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:Building [J]
+  OnMeter=EnergyTransfer:Zone:120466 [J]
+  OnMeter=Cooling:EnergyTransfer [J]
+  OnMeter=Cooling:EnergyTransfer:Zone:120466 [J]
+
+ Meters for 5198,120475:Zone Air System Sensible Heating Energy [J]
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:Building [J]
+  OnMeter=EnergyTransfer:Zone:120475 [J]
+  OnMeter=Heating:EnergyTransfer [J]
+  OnMeter=Heating:EnergyTransfer:Zone:120475 [J]
+
+ Meters for 5219,120475:Zone Air System Sensible Cooling Energy [J]
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:Building [J]
+  OnMeter=EnergyTransfer:Zone:120475 [J]
+  OnMeter=Cooling:EnergyTransfer [J]
+  OnMeter=Cooling:EnergyTransfer:Zone:120475 [J]
+
+ Meters for 5232,120484:Zone Air System Sensible Heating Energy [J]
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:Building [J]
+  OnMeter=EnergyTransfer:Zone:120484 [J]
+  OnMeter=Heating:EnergyTransfer [J]
+  OnMeter=Heating:EnergyTransfer:Zone:120484 [J]
+
+ Meters for 5253,120484:Zone Air System Sensible Cooling Energy [J]
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:Building [J]
+  OnMeter=EnergyTransfer:Zone:120484 [J]
+  OnMeter=Cooling:EnergyTransfer [J]
+  OnMeter=Cooling:EnergyTransfer:Zone:120484 [J]
+
+ Meters for 5266,120497:Zone Air System Sensible Heating Energy [J]
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:Building [J]
+  OnMeter=EnergyTransfer:Zone:120497 [J]
+  OnMeter=Heating:EnergyTransfer [J]
+  OnMeter=Heating:EnergyTransfer:Zone:120497 [J]
+
+ Meters for 5287,120497:Zone Air System Sensible Cooling Energy [J]
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:Building [J]
+  OnMeter=EnergyTransfer:Zone:120497 [J]
+  OnMeter=Cooling:EnergyTransfer [J]
+  OnMeter=Cooling:EnergyTransfer:Zone:120497 [J]
+
+ Meters for 5300,120506:Zone Air System Sensible Heating Energy [J]
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:Building [J]
+  OnMeter=EnergyTransfer:Zone:120506 [J]
+  OnMeter=Heating:EnergyTransfer [J]
+  OnMeter=Heating:EnergyTransfer:Zone:120506 [J]
+
+ Meters for 5321,120506:Zone Air System Sensible Cooling Energy [J]
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:Building [J]
+  OnMeter=EnergyTransfer:Zone:120506 [J]
+  OnMeter=Cooling:EnergyTransfer [J]
+  OnMeter=Cooling:EnergyTransfer:Zone:120506 [J]
+
+ Meters for 5334,120515:Zone Air System Sensible Heating Energy [J]
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:Building [J]
+  OnMeter=EnergyTransfer:Zone:120515 [J]
+  OnMeter=Heating:EnergyTransfer [J]
+  OnMeter=Heating:EnergyTransfer:Zone:120515 [J]
+
+ Meters for 5355,120515:Zone Air System Sensible Cooling Energy [J]
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:Building [J]
+  OnMeter=EnergyTransfer:Zone:120515 [J]
+  OnMeter=Cooling:EnergyTransfer [J]
+  OnMeter=Cooling:EnergyTransfer:Zone:120515 [J]
+
+ Meters for 5368,ZONE 118363 IDEAL LOADS AIR:Zone Ideal Loads Supply Air Total Heating Energy [J]
+  OnMeter=DistrictHeating:Facility [J]
+  OnMeter=DistrictHeating:HVAC [J]
+  OnMeter=Heating:DistrictHeating [J]
+
+ Meters for 5399,ZONE 118363 IDEAL LOADS AIR:Zone Ideal Loads Supply Air Total Cooling Energy [J]
+  OnMeter=DistrictCooling:Facility [J]
+  OnMeter=DistrictCooling:HVAC [J]
+  OnMeter=Cooling:DistrictCooling [J]
+
+ Meters for 5430,ZONE 118439 IDEAL LOADS AIR:Zone Ideal Loads Supply Air Total Heating Energy [J]
+  OnMeter=DistrictHeating:Facility [J]
+  OnMeter=DistrictHeating:HVAC [J]
+  OnMeter=Heating:DistrictHeating [J]
+
+ Meters for 5431,ZONE 118439 IDEAL LOADS AIR:Zone Ideal Loads Supply Air Total Cooling Energy [J]
+  OnMeter=DistrictCooling:Facility [J]
+  OnMeter=DistrictCooling:HVAC [J]
+  OnMeter=Cooling:DistrictCooling [J]
+
+ Meters for 5432,ZONE 118453 IDEAL LOADS AIR:Zone Ideal Loads Supply Air Total Heating Energy [J]
+  OnMeter=DistrictHeating:Facility [J]
+  OnMeter=DistrictHeating:HVAC [J]
+  OnMeter=Heating:DistrictHeating [J]
+
+ Meters for 5433,ZONE 118453 IDEAL LOADS AIR:Zone Ideal Loads Supply Air Total Cooling Energy [J]
+  OnMeter=DistrictCooling:Facility [J]
+  OnMeter=DistrictCooling:HVAC [J]
+  OnMeter=Cooling:DistrictCooling [J]
+
+ Meters for 5434,ZONE 118460 IDEAL LOADS AIR:Zone Ideal Loads Supply Air Total Heating Energy [J]
+  OnMeter=DistrictHeating:Facility [J]
+  OnMeter=DistrictHeating:HVAC [J]
+  OnMeter=Heating:DistrictHeating [J]
+
+ Meters for 5435,ZONE 118460 IDEAL LOADS AIR:Zone Ideal Loads Supply Air Total Cooling Energy [J]
+  OnMeter=DistrictCooling:Facility [J]
+  OnMeter=DistrictCooling:HVAC [J]
+  OnMeter=Cooling:DistrictCooling [J]
+
+ Meters for 5436,ZONE 118474 IDEAL LOADS AIR:Zone Ideal Loads Supply Air Total Heating Energy [J]
+  OnMeter=DistrictHeating:Facility [J]
+  OnMeter=DistrictHeating:HVAC [J]
+  OnMeter=Heating:DistrictHeating [J]
+
+ Meters for 5437,ZONE 118474 IDEAL LOADS AIR:Zone Ideal Loads Supply Air Total Cooling Energy [J]
+  OnMeter=DistrictCooling:Facility [J]
+  OnMeter=DistrictCooling:HVAC [J]
+  OnMeter=Cooling:DistrictCooling [J]
+
+ Meters for 5438,ZONE 118481 IDEAL LOADS AIR:Zone Ideal Loads Supply Air Total Heating Energy [J]
+  OnMeter=DistrictHeating:Facility [J]
+  OnMeter=DistrictHeating:HVAC [J]
+  OnMeter=Heating:DistrictHeating [J]
+
+ Meters for 5439,ZONE 118481 IDEAL LOADS AIR:Zone Ideal Loads Supply Air Total Cooling Energy [J]
+  OnMeter=DistrictCooling:Facility [J]
+  OnMeter=DistrictCooling:HVAC [J]
+  OnMeter=Cooling:DistrictCooling [J]
+
+ Meters for 5440,ZONE 118488 IDEAL LOADS AIR:Zone Ideal Loads Supply Air Total Heating Energy [J]
+  OnMeter=DistrictHeating:Facility [J]
+  OnMeter=DistrictHeating:HVAC [J]
+  OnMeter=Heating:DistrictHeating [J]
+
+ Meters for 5441,ZONE 118488 IDEAL LOADS AIR:Zone Ideal Loads Supply Air Total Cooling Energy [J]
+  OnMeter=DistrictCooling:Facility [J]
+  OnMeter=DistrictCooling:HVAC [J]
+  OnMeter=Cooling:DistrictCooling [J]
+
+ Meters for 5442,ZONE 120605 IDEAL LOADS AIR:Zone Ideal Loads Supply Air Total Heating Energy [J]
+  OnMeter=DistrictHeating:Facility [J]
+  OnMeter=DistrictHeating:HVAC [J]
+  OnMeter=Heating:DistrictHeating [J]
+
+ Meters for 5443,ZONE 120605 IDEAL LOADS AIR:Zone Ideal Loads Supply Air Total Cooling Energy [J]
+  OnMeter=DistrictCooling:Facility [J]
+  OnMeter=DistrictCooling:HVAC [J]
+  OnMeter=Cooling:DistrictCooling [J]
+
+ Meters for 5444,ZONE 120623 IDEAL LOADS AIR:Zone Ideal Loads Supply Air Total Heating Energy [J]
+  OnMeter=DistrictHeating:Facility [J]
+  OnMeter=DistrictHeating:HVAC [J]
+  OnMeter=Heating:DistrictHeating [J]
+
+ Meters for 5445,ZONE 120623 IDEAL LOADS AIR:Zone Ideal Loads Supply Air Total Cooling Energy [J]
+  OnMeter=DistrictCooling:Facility [J]
+  OnMeter=DistrictCooling:HVAC [J]
+  OnMeter=Cooling:DistrictCooling [J]
+
+ Meters for 5446,ZONE 120632 IDEAL LOADS AIR:Zone Ideal Loads Supply Air Total Heating Energy [J]
+  OnMeter=DistrictHeating:Facility [J]
+  OnMeter=DistrictHeating:HVAC [J]
+  OnMeter=Heating:DistrictHeating [J]
+
+ Meters for 5447,ZONE 120632 IDEAL LOADS AIR:Zone Ideal Loads Supply Air Total Cooling Energy [J]
+  OnMeter=DistrictCooling:Facility [J]
+  OnMeter=DistrictCooling:HVAC [J]
+  OnMeter=Cooling:DistrictCooling [J]
+
+ Meters for 5448,ZONE 120641 IDEAL LOADS AIR:Zone Ideal Loads Supply Air Total Heating Energy [J]
+  OnMeter=DistrictHeating:Facility [J]
+  OnMeter=DistrictHeating:HVAC [J]
+  OnMeter=Heating:DistrictHeating [J]
+
+ Meters for 5449,ZONE 120641 IDEAL LOADS AIR:Zone Ideal Loads Supply Air Total Cooling Energy [J]
+  OnMeter=DistrictCooling:Facility [J]
+  OnMeter=DistrictCooling:HVAC [J]
+  OnMeter=Cooling:DistrictCooling [J]
+
+ Meters for 5450,ZONE 120650 IDEAL LOADS AIR:Zone Ideal Loads Supply Air Total Heating Energy [J]
+  OnMeter=DistrictHeating:Facility [J]
+  OnMeter=DistrictHeating:HVAC [J]
+  OnMeter=Heating:DistrictHeating [J]
+
+ Meters for 5451,ZONE 120650 IDEAL LOADS AIR:Zone Ideal Loads Supply Air Total Cooling Energy [J]
+  OnMeter=DistrictCooling:Facility [J]
+  OnMeter=DistrictCooling:HVAC [J]
+  OnMeter=Cooling:DistrictCooling [J]
+
+ Meters for 5452,ZONE 120659 IDEAL LOADS AIR:Zone Ideal Loads Supply Air Total Heating Energy [J]
+  OnMeter=DistrictHeating:Facility [J]
+  OnMeter=DistrictHeating:HVAC [J]
+  OnMeter=Heating:DistrictHeating [J]
+
+ Meters for 5453,ZONE 120659 IDEAL LOADS AIR:Zone Ideal Loads Supply Air Total Cooling Energy [J]
+  OnMeter=DistrictCooling:Facility [J]
+  OnMeter=DistrictCooling:HVAC [J]
+  OnMeter=Cooling:DistrictCooling [J]
+
+ Meters for 5454,ZONE 120668 IDEAL LOADS AIR:Zone Ideal Loads Supply Air Total Heating Energy [J]
+  OnMeter=DistrictHeating:Facility [J]
+  OnMeter=DistrictHeating:HVAC [J]
+  OnMeter=Heating:DistrictHeating [J]
+
+ Meters for 5455,ZONE 120668 IDEAL LOADS AIR:Zone Ideal Loads Supply Air Total Cooling Energy [J]
+  OnMeter=DistrictCooling:Facility [J]
+  OnMeter=DistrictCooling:HVAC [J]
+  OnMeter=Cooling:DistrictCooling [J]
+
+ Meters for 5456,ZONE 120681 IDEAL LOADS AIR:Zone Ideal Loads Supply Air Total Heating Energy [J]
+  OnMeter=DistrictHeating:Facility [J]
+  OnMeter=DistrictHeating:HVAC [J]
+  OnMeter=Heating:DistrictHeating [J]
+
+ Meters for 5457,ZONE 120681 IDEAL LOADS AIR:Zone Ideal Loads Supply Air Total Cooling Energy [J]
+  OnMeter=DistrictCooling:Facility [J]
+  OnMeter=DistrictCooling:HVAC [J]
+  OnMeter=Cooling:DistrictCooling [J]
+
+ Meters for 5458,ZONE 120475 IDEAL LOADS AIR:Zone Ideal Loads Supply Air Total Heating Energy [J]
+  OnMeter=DistrictHeating:Facility [J]
+  OnMeter=DistrictHeating:HVAC [J]
+  OnMeter=Heating:DistrictHeating [J]
+
+ Meters for 5459,ZONE 120475 IDEAL LOADS AIR:Zone Ideal Loads Supply Air Total Cooling Energy [J]
+  OnMeter=DistrictCooling:Facility [J]
+  OnMeter=DistrictCooling:HVAC [J]
+  OnMeter=Cooling:DistrictCooling [J]
+
+ Meters for 5460,ZONE 120484 IDEAL LOADS AIR:Zone Ideal Loads Supply Air Total Heating Energy [J]
+  OnMeter=DistrictHeating:Facility [J]
+  OnMeter=DistrictHeating:HVAC [J]
+  OnMeter=Heating:DistrictHeating [J]
+
+ Meters for 5461,ZONE 120484 IDEAL LOADS AIR:Zone Ideal Loads Supply Air Total Cooling Energy [J]
+  OnMeter=DistrictCooling:Facility [J]
+  OnMeter=DistrictCooling:HVAC [J]
+  OnMeter=Cooling:DistrictCooling [J]
+
+ Meters for 5462,ZONE 120497 IDEAL LOADS AIR:Zone Ideal Loads Supply Air Total Heating Energy [J]
+  OnMeter=DistrictHeating:Facility [J]
+  OnMeter=DistrictHeating:HVAC [J]
+  OnMeter=Heating:DistrictHeating [J]
+
+ Meters for 5463,ZONE 120497 IDEAL LOADS AIR:Zone Ideal Loads Supply Air Total Cooling Energy [J]
+  OnMeter=DistrictCooling:Facility [J]
+  OnMeter=DistrictCooling:HVAC [J]
+  OnMeter=Cooling:DistrictCooling [J]
+
+ Meters for 5464,ZONE 120506 IDEAL LOADS AIR:Zone Ideal Loads Supply Air Total Heating Energy [J]
+  OnMeter=DistrictHeating:Facility [J]
+  OnMeter=DistrictHeating:HVAC [J]
+  OnMeter=Heating:DistrictHeating [J]
+
+ Meters for 5465,ZONE 120506 IDEAL LOADS AIR:Zone Ideal Loads Supply Air Total Cooling Energy [J]
+  OnMeter=DistrictCooling:Facility [J]
+  OnMeter=DistrictCooling:HVAC [J]
+  OnMeter=Cooling:DistrictCooling [J]
+
+ Meters for 5466,ZONE 120515 IDEAL LOADS AIR:Zone Ideal Loads Supply Air Total Heating Energy [J]
+  OnMeter=DistrictHeating:Facility [J]
+  OnMeter=DistrictHeating:HVAC [J]
+  OnMeter=Heating:DistrictHeating [J]
+
+ Meters for 5467,ZONE 120515 IDEAL LOADS AIR:Zone Ideal Loads Supply Air Total Cooling Energy [J]
+  OnMeter=DistrictCooling:Facility [J]
+  OnMeter=DistrictCooling:HVAC [J]
+  OnMeter=Cooling:DistrictCooling [J]
+
+ Meters for 5468,DHW 118446:Water Use Equipment Total Volume [m3]
+  OnMeter=Water:Facility [m3]
+  OnMeter=Water:Plant [m3]
+  OnMeter=WaterSystems:Water [m3]
+  OnMeter=DHW 118446:WaterSystems:Water [m3]
+
+ Meters for 5509,DHW 118446:Water Use Equipment Mains Water Volume [m3]
+  OnMeter=MainsWater:Facility [m3]
+  OnMeter=MainsWater:Plant [m3]
+  OnMeter=WaterSystems:MainsWater [m3]
+  OnMeter=DHW 118446:WaterSystems:MainsWater [m3]
+
+ Meters for 5550,DHW 118446:Water Use Equipment Heating Energy [J]
+  OnMeter=DistrictHeating:Facility [J]
+  OnMeter=DistrictHeating:Plant [J]
+  OnMeter=WaterSystems:DistrictHeating [J]
+  OnMeter=DHW 118446:WaterSystems:DistrictHeating [J]
+
+ Meters for 5581,Whole Building:Facility Total Purchased Electric Energy [J]
+  OnMeter=ElectricityPurchased:Facility [J]
+  OnMeter=ElectricityPurchased:Plant [J]
+  OnMeter=Cogeneration:ElectricityPurchased [J]
+
+ Meters for 5612,Whole Building:Facility Total Surplus Electric Energy [J]
+  OnMeter=ElectricitySurplusSold:Facility [J]
+  OnMeter=ElectricitySurplusSold:Plant [J]
+  OnMeter=Cogeneration:ElectricitySurplusSold [J]
+
+ Meters for 5643,Whole Building:Facility Net Purchased Electric Energy [J]
+  OnMeter=ElectricityNet:Facility [J]
+  OnMeter=ElectricityNet:Plant [J]
+  OnMeter=Cogeneration:ElectricityNet [J]
+
+ Meters for 5984,Site:Environmental Impact Total N2O Emissions Carbon Equivalent Mass [kg]
+  OnMeter=Carbon Equivalent:Facility [kg]
+  OnMeter=CarbonEquivalentEmissions:Carbon Equivalent [kg]
+
+ Meters for 6005,Site:Environmental Impact Total CH4 Emissions Carbon Equivalent Mass [kg]
+  OnMeter=Carbon Equivalent:Facility [kg]
+  OnMeter=CarbonEquivalentEmissions:Carbon Equivalent [kg]
+
+ Meters for 6006,Site:Environmental Impact Total CO2 Emissions Carbon Equivalent Mass [kg]
+  OnMeter=Carbon Equivalent:Facility [kg]
+  OnMeter=CarbonEquivalentEmissions:Carbon Equivalent [kg]
+
+ For Meter=Electricity:Facility [J], ResourceType=Electricity, contents are:
+  118363 GENERAL LIGHTING:Lights Electric Energy
+  118374 GENERAL LIGHTING:Lights Electric Energy
+  118411 GENERAL LIGHTING:Lights Electric Energy
+  118418 GENERAL LIGHTING:Lights Electric Energy
+  118425 GENERAL LIGHTING:Lights Electric Energy
+  118432 GENERAL LIGHTING:Lights Electric Energy
+  118439 GENERAL LIGHTING:Lights Electric Energy
+  118446 GENERAL LIGHTING:Lights Electric Energy
+  118453 GENERAL LIGHTING:Lights Electric Energy
+  118460 GENERAL LIGHTING:Lights Electric Energy
+  118467 GENERAL LIGHTING:Lights Electric Energy
+  118474 GENERAL LIGHTING:Lights Electric Energy
+  118481 GENERAL LIGHTING:Lights Electric Energy
+  118488 GENERAL LIGHTING:Lights Electric Energy
+  120563 GENERAL LIGHTING:Lights Electric Energy
+  120605 GENERAL LIGHTING:Lights Electric Energy
+  120614 GENERAL LIGHTING:Lights Electric Energy
+  120623 GENERAL LIGHTING:Lights Electric Energy
+  120632 GENERAL LIGHTING:Lights Electric Energy
+  120650 GENERAL LIGHTING:Lights Electric Energy
+  120659 GENERAL LIGHTING:Lights Electric Energy
+  120668 GENERAL LIGHTING:Lights Electric Energy
+  120681 GENERAL LIGHTING:Lights Electric Energy
+  120428 GENERAL LIGHTING:Lights Electric Energy
+  120466 GENERAL LIGHTING:Lights Electric Energy
+  120475 GENERAL LIGHTING:Lights Electric Energy
+  120484 GENERAL LIGHTING:Lights Electric Energy
+  120497 GENERAL LIGHTING:Lights Electric Energy
+  120506 GENERAL LIGHTING:Lights Electric Energy
+  120515 GENERAL LIGHTING:Lights Electric Energy
+  118363 COMPUTING GAIN 1:Electric Equipment Electric Energy
+  118363 MISCELLANEOUS GAIN 2:Electric Equipment Electric Energy
+  118363 EQUIPMENT 3:Electric Equipment Electric Energy
+  118374 MISCELLANEOUS GAIN 1:Electric Equipment Electric Energy
+  118411 MISCELLANEOUS GAIN 1:Electric Equipment Electric Energy
+  118418 COMPUTING GAIN 1:Electric Equipment Electric Energy
+  118418 MISCELLANEOUS GAIN 2:Electric Equipment Electric Energy
+  118418 EQUIPMENT 3:Electric Equipment Electric Energy
+  118425 EQUIPMENT 1:Electric Equipment Electric Energy
+  118432 MISCELLANEOUS GAIN 1:Electric Equipment Electric Energy
+  118439 COMPUTING GAIN 1:Electric Equipment Electric Energy
+  118439 MISCELLANEOUS GAIN 2:Electric Equipment Electric Energy
+  118439 EQUIPMENT 3:Electric Equipment Electric Energy
+  118446 EQUIPMENT 1:Electric Equipment Electric Energy
+  118453 MISCELLANEOUS GAIN 1:Electric Equipment Electric Energy
+  118460 COMPUTING GAIN 1:Electric Equipment Electric Energy
+  118460 MISCELLANEOUS GAIN 2:Electric Equipment Electric Energy
+  118474 COMPUTING GAIN 1:Electric Equipment Electric Energy
+  118474 MISCELLANEOUS GAIN 2:Electric Equipment Electric Energy
+  118474 EQUIPMENT 3:Electric Equipment Electric Energy
+  118481 COMPUTING GAIN 1:Electric Equipment Electric Energy
+  118481 MISCELLANEOUS GAIN 2:Electric Equipment Electric Energy
+  118481 EQUIPMENT 3:Electric Equipment Electric Energy
+  118488 COMPUTING GAIN 1:Electric Equipment Electric Energy
+  118488 MISCELLANEOUS GAIN 2:Electric Equipment Electric Energy
+  120563 MISCELLANEOUS GAIN 1:Electric Equipment Electric Energy
+  120605 COMPUTING GAIN 1:Electric Equipment Electric Energy
+  120605 MISCELLANEOUS GAIN 2:Electric Equipment Electric Energy
+  120605 EQUIPMENT 3:Electric Equipment Electric Energy
+  120614 MISCELLANEOUS GAIN 1:Electric Equipment Electric Energy
+  120623 COMPUTING GAIN 1:Electric Equipment Electric Energy
+  120623 MISCELLANEOUS GAIN 2:Electric Equipment Electric Energy
+  120632 COMPUTING GAIN 1:Electric Equipment Electric Energy
+  120641 COMPUTING GAIN 1:Electric Equipment Electric Energy
+  120650 COMPUTING GAIN 1:Electric Equipment Electric Energy
+  120650 MISCELLANEOUS GAIN 2:Electric Equipment Electric Energy
+  120659 COMPUTING GAIN 1:Electric Equipment Electric Energy
+  120659 MISCELLANEOUS GAIN 2:Electric Equipment Electric Energy
+  120668 COMPUTING GAIN 1:Electric Equipment Electric Energy
+  120668 MISCELLANEOUS GAIN 2:Electric Equipment Electric Energy
+  120681 MISCELLANEOUS GAIN 1:Electric Equipment Electric Energy
+  120428 MISCELLANEOUS GAIN 1:Electric Equipment Electric Energy
+  120466 MISCELLANEOUS GAIN 1:Electric Equipment Electric Energy
+  120475 COMPUTING GAIN 1:Electric Equipment Electric Energy
+  120475 MISCELLANEOUS GAIN 2:Electric Equipment Electric Energy
+  120484 COMPUTING GAIN 1:Electric Equipment Electric Energy
+  120484 MISCELLANEOUS GAIN 2:Electric Equipment Electric Energy
+  120497 COMPUTING GAIN 1:Electric Equipment Electric Energy
+  120497 MISCELLANEOUS GAIN 2:Electric Equipment Electric Energy
+  120506 COMPUTING GAIN 1:Electric Equipment Electric Energy
+  120506 MISCELLANEOUS GAIN 2:Electric Equipment Electric Energy
+  120515 COMPUTING GAIN 1:Electric Equipment Electric Energy
+  120515 MISCELLANEOUS GAIN 2:Electric Equipment Electric Energy
+  118374:Zone Ventilation Fan Electric Energy
+  118411:Zone Ventilation Fan Electric Energy
+  118418:Zone Ventilation Fan Electric Energy
+  118425:Zone Ventilation Fan Electric Energy
+  118432:Zone Ventilation Fan Electric Energy
+  118439:Zone Ventilation Fan Electric Energy
+  118446:Zone Ventilation Fan Electric Energy
+  118453:Zone Ventilation Fan Electric Energy
+  118460:Zone Ventilation Fan Electric Energy
+  118467:Zone Ventilation Fan Electric Energy
+  118474:Zone Ventilation Fan Electric Energy
+  118481:Zone Ventilation Fan Electric Energy
+  118488:Zone Ventilation Fan Electric Energy
+  120563:Zone Ventilation Fan Electric Energy
+  120605:Zone Ventilation Fan Electric Energy
+  120614:Zone Ventilation Fan Electric Energy
+  120623:Zone Ventilation Fan Electric Energy
+  120632:Zone Ventilation Fan Electric Energy
+  120641:Zone Ventilation Fan Electric Energy
+  120650:Zone Ventilation Fan Electric Energy
+  120659:Zone Ventilation Fan Electric Energy
+  120668:Zone Ventilation Fan Electric Energy
+  120681:Zone Ventilation Fan Electric Energy
+  120428:Zone Ventilation Fan Electric Energy
+  120475:Zone Ventilation Fan Electric Energy
+  120484:Zone Ventilation Fan Electric Energy
+  120497:Zone Ventilation Fan Electric Energy
+  120506:Zone Ventilation Fan Electric Energy
+  120515:Zone Ventilation Fan Electric Energy
+
+ For Meter=Electricity:Building [J], ResourceType=Electricity, Group=Building, contents are:
+  118363 GENERAL LIGHTING:Lights Electric Energy
+  118374 GENERAL LIGHTING:Lights Electric Energy
+  118411 GENERAL LIGHTING:Lights Electric Energy
+  118418 GENERAL LIGHTING:Lights Electric Energy
+  118425 GENERAL LIGHTING:Lights Electric Energy
+  118432 GENERAL LIGHTING:Lights Electric Energy
+  118439 GENERAL LIGHTING:Lights Electric Energy
+  118446 GENERAL LIGHTING:Lights Electric Energy
+  118453 GENERAL LIGHTING:Lights Electric Energy
+  118460 GENERAL LIGHTING:Lights Electric Energy
+  118467 GENERAL LIGHTING:Lights Electric Energy
+  118474 GENERAL LIGHTING:Lights Electric Energy
+  118481 GENERAL LIGHTING:Lights Electric Energy
+  118488 GENERAL LIGHTING:Lights Electric Energy
+  120563 GENERAL LIGHTING:Lights Electric Energy
+  120605 GENERAL LIGHTING:Lights Electric Energy
+  120614 GENERAL LIGHTING:Lights Electric Energy
+  120623 GENERAL LIGHTING:Lights Electric Energy
+  120632 GENERAL LIGHTING:Lights Electric Energy
+  120650 GENERAL LIGHTING:Lights Electric Energy
+  120659 GENERAL LIGHTING:Lights Electric Energy
+  120668 GENERAL LIGHTING:Lights Electric Energy
+  120681 GENERAL LIGHTING:Lights Electric Energy
+  120428 GENERAL LIGHTING:Lights Electric Energy
+  120466 GENERAL LIGHTING:Lights Electric Energy
+  120475 GENERAL LIGHTING:Lights Electric Energy
+  120484 GENERAL LIGHTING:Lights Electric Energy
+  120497 GENERAL LIGHTING:Lights Electric Energy
+  120506 GENERAL LIGHTING:Lights Electric Energy
+  120515 GENERAL LIGHTING:Lights Electric Energy
+  118363 COMPUTING GAIN 1:Electric Equipment Electric Energy
+  118363 MISCELLANEOUS GAIN 2:Electric Equipment Electric Energy
+  118363 EQUIPMENT 3:Electric Equipment Electric Energy
+  118374 MISCELLANEOUS GAIN 1:Electric Equipment Electric Energy
+  118411 MISCELLANEOUS GAIN 1:Electric Equipment Electric Energy
+  118418 COMPUTING GAIN 1:Electric Equipment Electric Energy
+  118418 MISCELLANEOUS GAIN 2:Electric Equipment Electric Energy
+  118418 EQUIPMENT 3:Electric Equipment Electric Energy
+  118425 EQUIPMENT 1:Electric Equipment Electric Energy
+  118432 MISCELLANEOUS GAIN 1:Electric Equipment Electric Energy
+  118439 COMPUTING GAIN 1:Electric Equipment Electric Energy
+  118439 MISCELLANEOUS GAIN 2:Electric Equipment Electric Energy
+  118439 EQUIPMENT 3:Electric Equipment Electric Energy
+  118446 EQUIPMENT 1:Electric Equipment Electric Energy
+  118453 MISCELLANEOUS GAIN 1:Electric Equipment Electric Energy
+  118460 COMPUTING GAIN 1:Electric Equipment Electric Energy
+  118460 MISCELLANEOUS GAIN 2:Electric Equipment Electric Energy
+  118474 COMPUTING GAIN 1:Electric Equipment Electric Energy
+  118474 MISCELLANEOUS GAIN 2:Electric Equipment Electric Energy
+  118474 EQUIPMENT 3:Electric Equipment Electric Energy
+  118481 COMPUTING GAIN 1:Electric Equipment Electric Energy
+  118481 MISCELLANEOUS GAIN 2:Electric Equipment Electric Energy
+  118481 EQUIPMENT 3:Electric Equipment Electric Energy
+  118488 COMPUTING GAIN 1:Electric Equipment Electric Energy
+  118488 MISCELLANEOUS GAIN 2:Electric Equipment Electric Energy
+  120563 MISCELLANEOUS GAIN 1:Electric Equipment Electric Energy
+  120605 COMPUTING GAIN 1:Electric Equipment Electric Energy
+  120605 MISCELLANEOUS GAIN 2:Electric Equipment Electric Energy
+  120605 EQUIPMENT 3:Electric Equipment Electric Energy
+  120614 MISCELLANEOUS GAIN 1:Electric Equipment Electric Energy
+  120623 COMPUTING GAIN 1:Electric Equipment Electric Energy
+  120623 MISCELLANEOUS GAIN 2:Electric Equipment Electric Energy
+  120632 COMPUTING GAIN 1:Electric Equipment Electric Energy
+  120641 COMPUTING GAIN 1:Electric Equipment Electric Energy
+  120650 COMPUTING GAIN 1:Electric Equipment Electric Energy
+  120650 MISCELLANEOUS GAIN 2:Electric Equipment Electric Energy
+  120659 COMPUTING GAIN 1:Electric Equipment Electric Energy
+  120659 MISCELLANEOUS GAIN 2:Electric Equipment Electric Energy
+  120668 COMPUTING GAIN 1:Electric Equipment Electric Energy
+  120668 MISCELLANEOUS GAIN 2:Electric Equipment Electric Energy
+  120681 MISCELLANEOUS GAIN 1:Electric Equipment Electric Energy
+  120428 MISCELLANEOUS GAIN 1:Electric Equipment Electric Energy
+  120466 MISCELLANEOUS GAIN 1:Electric Equipment Electric Energy
+  120475 COMPUTING GAIN 1:Electric Equipment Electric Energy
+  120475 MISCELLANEOUS GAIN 2:Electric Equipment Electric Energy
+  120484 COMPUTING GAIN 1:Electric Equipment Electric Energy
+  120484 MISCELLANEOUS GAIN 2:Electric Equipment Electric Energy
+  120497 COMPUTING GAIN 1:Electric Equipment Electric Energy
+  120497 MISCELLANEOUS GAIN 2:Electric Equipment Electric Energy
+  120506 COMPUTING GAIN 1:Electric Equipment Electric Energy
+  120506 MISCELLANEOUS GAIN 2:Electric Equipment Electric Energy
+  120515 COMPUTING GAIN 1:Electric Equipment Electric Energy
+  120515 MISCELLANEOUS GAIN 2:Electric Equipment Electric Energy
+  118374:Zone Ventilation Fan Electric Energy
+  118411:Zone Ventilation Fan Electric Energy
+  118418:Zone Ventilation Fan Electric Energy
+  118425:Zone Ventilation Fan Electric Energy
+  118432:Zone Ventilation Fan Electric Energy
+  118439:Zone Ventilation Fan Electric Energy
+  118446:Zone Ventilation Fan Electric Energy
+  118453:Zone Ventilation Fan Electric Energy
+  118460:Zone Ventilation Fan Electric Energy
+  118467:Zone Ventilation Fan Electric Energy
+  118474:Zone Ventilation Fan Electric Energy
+  118481:Zone Ventilation Fan Electric Energy
+  118488:Zone Ventilation Fan Electric Energy
+  120563:Zone Ventilation Fan Electric Energy
+  120605:Zone Ventilation Fan Electric Energy
+  120614:Zone Ventilation Fan Electric Energy
+  120623:Zone Ventilation Fan Electric Energy
+  120632:Zone Ventilation Fan Electric Energy
+  120641:Zone Ventilation Fan Electric Energy
+  120650:Zone Ventilation Fan Electric Energy
+  120659:Zone Ventilation Fan Electric Energy
+  120668:Zone Ventilation Fan Electric Energy
+  120681:Zone Ventilation Fan Electric Energy
+  120428:Zone Ventilation Fan Electric Energy
+  120475:Zone Ventilation Fan Electric Energy
+  120484:Zone Ventilation Fan Electric Energy
+  120497:Zone Ventilation Fan Electric Energy
+  120506:Zone Ventilation Fan Electric Energy
+  120515:Zone Ventilation Fan Electric Energy
+
+ For Meter=Electricity:Zone:118363 [J], ResourceType=Electricity, Group=Zone, contents are:
+  118363 GENERAL LIGHTING:Lights Electric Energy
+  118363 COMPUTING GAIN 1:Electric Equipment Electric Energy
+  118363 MISCELLANEOUS GAIN 2:Electric Equipment Electric Energy
+  118363 EQUIPMENT 3:Electric Equipment Electric Energy
+
+ For Meter=InteriorLights:Electricity [J], ResourceType=Electricity, EndUse=InteriorLights, contents are:
+  118363 GENERAL LIGHTING:Lights Electric Energy
+  118374 GENERAL LIGHTING:Lights Electric Energy
+  118411 GENERAL LIGHTING:Lights Electric Energy
+  118418 GENERAL LIGHTING:Lights Electric Energy
+  118425 GENERAL LIGHTING:Lights Electric Energy
+  118432 GENERAL LIGHTING:Lights Electric Energy
+  118439 GENERAL LIGHTING:Lights Electric Energy
+  118446 GENERAL LIGHTING:Lights Electric Energy
+  118453 GENERAL LIGHTING:Lights Electric Energy
+  118460 GENERAL LIGHTING:Lights Electric Energy
+  118467 GENERAL LIGHTING:Lights Electric Energy
+  118474 GENERAL LIGHTING:Lights Electric Energy
+  118481 GENERAL LIGHTING:Lights Electric Energy
+  118488 GENERAL LIGHTING:Lights Electric Energy
+  120563 GENERAL LIGHTING:Lights Electric Energy
+  120605 GENERAL LIGHTING:Lights Electric Energy
+  120614 GENERAL LIGHTING:Lights Electric Energy
+  120623 GENERAL LIGHTING:Lights Electric Energy
+  120632 GENERAL LIGHTING:Lights Electric Energy
+  120650 GENERAL LIGHTING:Lights Electric Energy
+  120659 GENERAL LIGHTING:Lights Electric Energy
+  120668 GENERAL LIGHTING:Lights Electric Energy
+  120681 GENERAL LIGHTING:Lights Electric Energy
+  120428 GENERAL LIGHTING:Lights Electric Energy
+  120466 GENERAL LIGHTING:Lights Electric Energy
+  120475 GENERAL LIGHTING:Lights Electric Energy
+  120484 GENERAL LIGHTING:Lights Electric Energy
+  120497 GENERAL LIGHTING:Lights Electric Energy
+  120506 GENERAL LIGHTING:Lights Electric Energy
+  120515 GENERAL LIGHTING:Lights Electric Energy
+
+ For Meter=InteriorLights:Electricity:Zone:118363 [J], ResourceType=Electricity, EndUse=InteriorLights, Group=Zone, contents are:
+  118363 GENERAL LIGHTING:Lights Electric Energy
+
+ For Meter=ELECTRIC EQUIPMENT#118363#GeneralLights:InteriorLights:Electricity [J], ResourceType=Electricity, EndUse=InteriorLights, contents are:
+  118363 GENERAL LIGHTING:Lights Electric Energy
+
+ For Meter=Electricity:Zone:118374 [J], ResourceType=Electricity, Group=Zone, contents are:
+  118374 GENERAL LIGHTING:Lights Electric Energy
+  118374 MISCELLANEOUS GAIN 1:Electric Equipment Electric Energy
+  118374:Zone Ventilation Fan Electric Energy
+
+ For Meter=InteriorLights:Electricity:Zone:118374 [J], ResourceType=Electricity, EndUse=InteriorLights, Group=Zone, contents are:
+  118374 GENERAL LIGHTING:Lights Electric Energy
+
+ For Meter=ELECTRIC EQUIPMENT#118374#GeneralLights:InteriorLights:Electricity [J], ResourceType=Electricity, EndUse=InteriorLights, contents are:
+  118374 GENERAL LIGHTING:Lights Electric Energy
+
+ For Meter=Electricity:Zone:118411 [J], ResourceType=Electricity, Group=Zone, contents are:
+  118411 GENERAL LIGHTING:Lights Electric Energy
+  118411 MISCELLANEOUS GAIN 1:Electric Equipment Electric Energy
+  118411:Zone Ventilation Fan Electric Energy
+
+ For Meter=InteriorLights:Electricity:Zone:118411 [J], ResourceType=Electricity, EndUse=InteriorLights, Group=Zone, contents are:
+  118411 GENERAL LIGHTING:Lights Electric Energy
+
+ For Meter=ELECTRIC EQUIPMENT#118411#GeneralLights:InteriorLights:Electricity [J], ResourceType=Electricity, EndUse=InteriorLights, contents are:
+  118411 GENERAL LIGHTING:Lights Electric Energy
+
+ For Meter=Electricity:Zone:118418 [J], ResourceType=Electricity, Group=Zone, contents are:
+  118418 GENERAL LIGHTING:Lights Electric Energy
+  118418 COMPUTING GAIN 1:Electric Equipment Electric Energy
+  118418 MISCELLANEOUS GAIN 2:Electric Equipment Electric Energy
+  118418 EQUIPMENT 3:Electric Equipment Electric Energy
+  118418:Zone Ventilation Fan Electric Energy
+
+ For Meter=InteriorLights:Electricity:Zone:118418 [J], ResourceType=Electricity, EndUse=InteriorLights, Group=Zone, contents are:
+  118418 GENERAL LIGHTING:Lights Electric Energy
+
+ For Meter=ELECTRIC EQUIPMENT#118418#GeneralLights:InteriorLights:Electricity [J], ResourceType=Electricity, EndUse=InteriorLights, contents are:
+  118418 GENERAL LIGHTING:Lights Electric Energy
+
+ For Meter=Electricity:Zone:118425 [J], ResourceType=Electricity, Group=Zone, contents are:
+  118425 GENERAL LIGHTING:Lights Electric Energy
+  118425 EQUIPMENT 1:Electric Equipment Electric Energy
+  118425:Zone Ventilation Fan Electric Energy
+
+ For Meter=InteriorLights:Electricity:Zone:118425 [J], ResourceType=Electricity, EndUse=InteriorLights, Group=Zone, contents are:
+  118425 GENERAL LIGHTING:Lights Electric Energy
+
+ For Meter=ELECTRIC EQUIPMENT#118425#GeneralLights:InteriorLights:Electricity [J], ResourceType=Electricity, EndUse=InteriorLights, contents are:
+  118425 GENERAL LIGHTING:Lights Electric Energy
+
+ For Meter=Electricity:Zone:118432 [J], ResourceType=Electricity, Group=Zone, contents are:
+  118432 GENERAL LIGHTING:Lights Electric Energy
+  118432 MISCELLANEOUS GAIN 1:Electric Equipment Electric Energy
+  118432:Zone Ventilation Fan Electric Energy
+
+ For Meter=InteriorLights:Electricity:Zone:118432 [J], ResourceType=Electricity, EndUse=InteriorLights, Group=Zone, contents are:
+  118432 GENERAL LIGHTING:Lights Electric Energy
+
+ For Meter=ELECTRIC EQUIPMENT#118432#GeneralLights:InteriorLights:Electricity [J], ResourceType=Electricity, EndUse=InteriorLights, contents are:
+  118432 GENERAL LIGHTING:Lights Electric Energy
+
+ For Meter=Electricity:Zone:118439 [J], ResourceType=Electricity, Group=Zone, contents are:
+  118439 GENERAL LIGHTING:Lights Electric Energy
+  118439 COMPUTING GAIN 1:Electric Equipment Electric Energy
+  118439 MISCELLANEOUS GAIN 2:Electric Equipment Electric Energy
+  118439 EQUIPMENT 3:Electric Equipment Electric Energy
+  118439:Zone Ventilation Fan Electric Energy
+
+ For Meter=InteriorLights:Electricity:Zone:118439 [J], ResourceType=Electricity, EndUse=InteriorLights, Group=Zone, contents are:
+  118439 GENERAL LIGHTING:Lights Electric Energy
+
+ For Meter=ELECTRIC EQUIPMENT#118439#GeneralLights:InteriorLights:Electricity [J], ResourceType=Electricity, EndUse=InteriorLights, contents are:
+  118439 GENERAL LIGHTING:Lights Electric Energy
+
+ For Meter=Electricity:Zone:118446 [J], ResourceType=Electricity, Group=Zone, contents are:
+  118446 GENERAL LIGHTING:Lights Electric Energy
+  118446 EQUIPMENT 1:Electric Equipment Electric Energy
+  118446:Zone Ventilation Fan Electric Energy
+
+ For Meter=InteriorLights:Electricity:Zone:118446 [J], ResourceType=Electricity, EndUse=InteriorLights, Group=Zone, contents are:
+  118446 GENERAL LIGHTING:Lights Electric Energy
+
+ For Meter=ELECTRIC EQUIPMENT#118446#GeneralLights:InteriorLights:Electricity [J], ResourceType=Electricity, EndUse=InteriorLights, contents are:
+  118446 GENERAL LIGHTING:Lights Electric Energy
+
+ For Meter=Electricity:Zone:118453 [J], ResourceType=Electricity, Group=Zone, contents are:
+  118453 GENERAL LIGHTING:Lights Electric Energy
+  118453 MISCELLANEOUS GAIN 1:Electric Equipment Electric Energy
+  118453:Zone Ventilation Fan Electric Energy
+
+ For Meter=InteriorLights:Electricity:Zone:118453 [J], ResourceType=Electricity, EndUse=InteriorLights, Group=Zone, contents are:
+  118453 GENERAL LIGHTING:Lights Electric Energy
+
+ For Meter=ELECTRIC EQUIPMENT#118453#GeneralLights:InteriorLights:Electricity [J], ResourceType=Electricity, EndUse=InteriorLights, contents are:
+  118453 GENERAL LIGHTING:Lights Electric Energy
+
+ For Meter=Electricity:Zone:118460 [J], ResourceType=Electricity, Group=Zone, contents are:
+  118460 GENERAL LIGHTING:Lights Electric Energy
+  118460 COMPUTING GAIN 1:Electric Equipment Electric Energy
+  118460 MISCELLANEOUS GAIN 2:Electric Equipment Electric Energy
+  118460:Zone Ventilation Fan Electric Energy
+
+ For Meter=InteriorLights:Electricity:Zone:118460 [J], ResourceType=Electricity, EndUse=InteriorLights, Group=Zone, contents are:
+  118460 GENERAL LIGHTING:Lights Electric Energy
+
+ For Meter=ELECTRIC EQUIPMENT#118460#GeneralLights:InteriorLights:Electricity [J], ResourceType=Electricity, EndUse=InteriorLights, contents are:
+  118460 GENERAL LIGHTING:Lights Electric Energy
+
+ For Meter=Electricity:Zone:118467 [J], ResourceType=Electricity, Group=Zone, contents are:
+  118467 GENERAL LIGHTING:Lights Electric Energy
+  118467:Zone Ventilation Fan Electric Energy
+
+ For Meter=InteriorLights:Electricity:Zone:118467 [J], ResourceType=Electricity, EndUse=InteriorLights, Group=Zone, contents are:
+  118467 GENERAL LIGHTING:Lights Electric Energy
+
+ For Meter=ELECTRIC EQUIPMENT#118467#GeneralLights:InteriorLights:Electricity [J], ResourceType=Electricity, EndUse=InteriorLights, contents are:
+  118467 GENERAL LIGHTING:Lights Electric Energy
+
+ For Meter=Electricity:Zone:118474 [J], ResourceType=Electricity, Group=Zone, contents are:
+  118474 GENERAL LIGHTING:Lights Electric Energy
+  118474 COMPUTING GAIN 1:Electric Equipment Electric Energy
+  118474 MISCELLANEOUS GAIN 2:Electric Equipment Electric Energy
+  118474 EQUIPMENT 3:Electric Equipment Electric Energy
+  118474:Zone Ventilation Fan Electric Energy
+
+ For Meter=InteriorLights:Electricity:Zone:118474 [J], ResourceType=Electricity, EndUse=InteriorLights, Group=Zone, contents are:
+  118474 GENERAL LIGHTING:Lights Electric Energy
+
+ For Meter=ELECTRIC EQUIPMENT#118474#GeneralLights:InteriorLights:Electricity [J], ResourceType=Electricity, EndUse=InteriorLights, contents are:
+  118474 GENERAL LIGHTING:Lights Electric Energy
+
+ For Meter=Electricity:Zone:118481 [J], ResourceType=Electricity, Group=Zone, contents are:
+  118481 GENERAL LIGHTING:Lights Electric Energy
+  118481 COMPUTING GAIN 1:Electric Equipment Electric Energy
+  118481 MISCELLANEOUS GAIN 2:Electric Equipment Electric Energy
+  118481 EQUIPMENT 3:Electric Equipment Electric Energy
+  118481:Zone Ventilation Fan Electric Energy
+
+ For Meter=InteriorLights:Electricity:Zone:118481 [J], ResourceType=Electricity, EndUse=InteriorLights, Group=Zone, contents are:
+  118481 GENERAL LIGHTING:Lights Electric Energy
+
+ For Meter=ELECTRIC EQUIPMENT#118481#GeneralLights:InteriorLights:Electricity [J], ResourceType=Electricity, EndUse=InteriorLights, contents are:
+  118481 GENERAL LIGHTING:Lights Electric Energy
+
+ For Meter=Electricity:Zone:118488 [J], ResourceType=Electricity, Group=Zone, contents are:
+  118488 GENERAL LIGHTING:Lights Electric Energy
+  118488 COMPUTING GAIN 1:Electric Equipment Electric Energy
+  118488 MISCELLANEOUS GAIN 2:Electric Equipment Electric Energy
+  118488:Zone Ventilation Fan Electric Energy
+
+ For Meter=InteriorLights:Electricity:Zone:118488 [J], ResourceType=Electricity, EndUse=InteriorLights, Group=Zone, contents are:
+  118488 GENERAL LIGHTING:Lights Electric Energy
+
+ For Meter=ELECTRIC EQUIPMENT#118488#GeneralLights:InteriorLights:Electricity [J], ResourceType=Electricity, EndUse=InteriorLights, contents are:
+  118488 GENERAL LIGHTING:Lights Electric Energy
+
+ For Meter=Electricity:Zone:120563 [J], ResourceType=Electricity, Group=Zone, contents are:
+  120563 GENERAL LIGHTING:Lights Electric Energy
+  120563 MISCELLANEOUS GAIN 1:Electric Equipment Electric Energy
+  120563:Zone Ventilation Fan Electric Energy
+
+ For Meter=InteriorLights:Electricity:Zone:120563 [J], ResourceType=Electricity, EndUse=InteriorLights, Group=Zone, contents are:
+  120563 GENERAL LIGHTING:Lights Electric Energy
+
+ For Meter=ELECTRIC EQUIPMENT#120563#GeneralLights:InteriorLights:Electricity [J], ResourceType=Electricity, EndUse=InteriorLights, contents are:
+  120563 GENERAL LIGHTING:Lights Electric Energy
+
+ For Meter=Electricity:Zone:120605 [J], ResourceType=Electricity, Group=Zone, contents are:
+  120605 GENERAL LIGHTING:Lights Electric Energy
+  120605 COMPUTING GAIN 1:Electric Equipment Electric Energy
+  120605 MISCELLANEOUS GAIN 2:Electric Equipment Electric Energy
+  120605 EQUIPMENT 3:Electric Equipment Electric Energy
+  120605:Zone Ventilation Fan Electric Energy
+
+ For Meter=InteriorLights:Electricity:Zone:120605 [J], ResourceType=Electricity, EndUse=InteriorLights, Group=Zone, contents are:
+  120605 GENERAL LIGHTING:Lights Electric Energy
+
+ For Meter=ELECTRIC EQUIPMENT#120605#GeneralLights:InteriorLights:Electricity [J], ResourceType=Electricity, EndUse=InteriorLights, contents are:
+  120605 GENERAL LIGHTING:Lights Electric Energy
+
+ For Meter=Electricity:Zone:120614 [J], ResourceType=Electricity, Group=Zone, contents are:
+  120614 GENERAL LIGHTING:Lights Electric Energy
+  120614 MISCELLANEOUS GAIN 1:Electric Equipment Electric Energy
+  120614:Zone Ventilation Fan Electric Energy
+
+ For Meter=InteriorLights:Electricity:Zone:120614 [J], ResourceType=Electricity, EndUse=InteriorLights, Group=Zone, contents are:
+  120614 GENERAL LIGHTING:Lights Electric Energy
+
+ For Meter=ELECTRIC EQUIPMENT#120614#GeneralLights:InteriorLights:Electricity [J], ResourceType=Electricity, EndUse=InteriorLights, contents are:
+  120614 GENERAL LIGHTING:Lights Electric Energy
+
+ For Meter=Electricity:Zone:120623 [J], ResourceType=Electricity, Group=Zone, contents are:
+  120623 GENERAL LIGHTING:Lights Electric Energy
+  120623 COMPUTING GAIN 1:Electric Equipment Electric Energy
+  120623 MISCELLANEOUS GAIN 2:Electric Equipment Electric Energy
+  120623:Zone Ventilation Fan Electric Energy
+
+ For Meter=InteriorLights:Electricity:Zone:120623 [J], ResourceType=Electricity, EndUse=InteriorLights, Group=Zone, contents are:
+  120623 GENERAL LIGHTING:Lights Electric Energy
+
+ For Meter=ELECTRIC EQUIPMENT#120623#GeneralLights:InteriorLights:Electricity [J], ResourceType=Electricity, EndUse=InteriorLights, contents are:
+  120623 GENERAL LIGHTING:Lights Electric Energy
+
+ For Meter=Electricity:Zone:120632 [J], ResourceType=Electricity, Group=Zone, contents are:
+  120632 GENERAL LIGHTING:Lights Electric Energy
+  120632 COMPUTING GAIN 1:Electric Equipment Electric Energy
+  120632:Zone Ventilation Fan Electric Energy
+
+ For Meter=InteriorLights:Electricity:Zone:120632 [J], ResourceType=Electricity, EndUse=InteriorLights, Group=Zone, contents are:
+  120632 GENERAL LIGHTING:Lights Electric Energy
+
+ For Meter=ELECTRIC EQUIPMENT#120632#GeneralLights:InteriorLights:Electricity [J], ResourceType=Electricity, EndUse=InteriorLights, contents are:
+  120632 GENERAL LIGHTING:Lights Electric Energy
+
+ For Meter=Electricity:Zone:120650 [J], ResourceType=Electricity, Group=Zone, contents are:
+  120650 GENERAL LIGHTING:Lights Electric Energy
+  120650 COMPUTING GAIN 1:Electric Equipment Electric Energy
+  120650 MISCELLANEOUS GAIN 2:Electric Equipment Electric Energy
+  120650:Zone Ventilation Fan Electric Energy
+
+ For Meter=InteriorLights:Electricity:Zone:120650 [J], ResourceType=Electricity, EndUse=InteriorLights, Group=Zone, contents are:
+  120650 GENERAL LIGHTING:Lights Electric Energy
+
+ For Meter=ELECTRIC EQUIPMENT#120650#GeneralLights:InteriorLights:Electricity [J], ResourceType=Electricity, EndUse=InteriorLights, contents are:
+  120650 GENERAL LIGHTING:Lights Electric Energy
+
+ For Meter=Electricity:Zone:120659 [J], ResourceType=Electricity, Group=Zone, contents are:
+  120659 GENERAL LIGHTING:Lights Electric Energy
+  120659 COMPUTING GAIN 1:Electric Equipment Electric Energy
+  120659 MISCELLANEOUS GAIN 2:Electric Equipment Electric Energy
+  120659:Zone Ventilation Fan Electric Energy
+
+ For Meter=InteriorLights:Electricity:Zone:120659 [J], ResourceType=Electricity, EndUse=InteriorLights, Group=Zone, contents are:
+  120659 GENERAL LIGHTING:Lights Electric Energy
+
+ For Meter=ELECTRIC EQUIPMENT#120659#GeneralLights:InteriorLights:Electricity [J], ResourceType=Electricity, EndUse=InteriorLights, contents are:
+  120659 GENERAL LIGHTING:Lights Electric Energy
+
+ For Meter=Electricity:Zone:120668 [J], ResourceType=Electricity, Group=Zone, contents are:
+  120668 GENERAL LIGHTING:Lights Electric Energy
+  120668 COMPUTING GAIN 1:Electric Equipment Electric Energy
+  120668 MISCELLANEOUS GAIN 2:Electric Equipment Electric Energy
+  120668:Zone Ventilation Fan Electric Energy
+
+ For Meter=InteriorLights:Electricity:Zone:120668 [J], ResourceType=Electricity, EndUse=InteriorLights, Group=Zone, contents are:
+  120668 GENERAL LIGHTING:Lights Electric Energy
+
+ For Meter=ELECTRIC EQUIPMENT#120668#GeneralLights:InteriorLights:Electricity [J], ResourceType=Electricity, EndUse=InteriorLights, contents are:
+  120668 GENERAL LIGHTING:Lights Electric Energy
+
+ For Meter=Electricity:Zone:120681 [J], ResourceType=Electricity, Group=Zone, contents are:
+  120681 GENERAL LIGHTING:Lights Electric Energy
+  120681 MISCELLANEOUS GAIN 1:Electric Equipment Electric Energy
+  120681:Zone Ventilation Fan Electric Energy
+
+ For Meter=InteriorLights:Electricity:Zone:120681 [J], ResourceType=Electricity, EndUse=InteriorLights, Group=Zone, contents are:
+  120681 GENERAL LIGHTING:Lights Electric Energy
+
+ For Meter=ELECTRIC EQUIPMENT#120681#GeneralLights:InteriorLights:Electricity [J], ResourceType=Electricity, EndUse=InteriorLights, contents are:
+  120681 GENERAL LIGHTING:Lights Electric Energy
+
+ For Meter=Electricity:Zone:120428 [J], ResourceType=Electricity, Group=Zone, contents are:
+  120428 GENERAL LIGHTING:Lights Electric Energy
+  120428 MISCELLANEOUS GAIN 1:Electric Equipment Electric Energy
+  120428:Zone Ventilation Fan Electric Energy
+
+ For Meter=InteriorLights:Electricity:Zone:120428 [J], ResourceType=Electricity, EndUse=InteriorLights, Group=Zone, contents are:
+  120428 GENERAL LIGHTING:Lights Electric Energy
+
+ For Meter=ELECTRIC EQUIPMENT#120428#GeneralLights:InteriorLights:Electricity [J], ResourceType=Electricity, EndUse=InteriorLights, contents are:
+  120428 GENERAL LIGHTING:Lights Electric Energy
+
+ For Meter=Electricity:Zone:120466 [J], ResourceType=Electricity, Group=Zone, contents are:
+  120466 GENERAL LIGHTING:Lights Electric Energy
+  120466 MISCELLANEOUS GAIN 1:Electric Equipment Electric Energy
+
+ For Meter=InteriorLights:Electricity:Zone:120466 [J], ResourceType=Electricity, EndUse=InteriorLights, Group=Zone, contents are:
+  120466 GENERAL LIGHTING:Lights Electric Energy
+
+ For Meter=ELECTRIC EQUIPMENT#120466#GeneralLights:InteriorLights:Electricity [J], ResourceType=Electricity, EndUse=InteriorLights, contents are:
+  120466 GENERAL LIGHTING:Lights Electric Energy
+
+ For Meter=Electricity:Zone:120475 [J], ResourceType=Electricity, Group=Zone, contents are:
+  120475 GENERAL LIGHTING:Lights Electric Energy
+  120475 COMPUTING GAIN 1:Electric Equipment Electric Energy
+  120475 MISCELLANEOUS GAIN 2:Electric Equipment Electric Energy
+  120475:Zone Ventilation Fan Electric Energy
+
+ For Meter=InteriorLights:Electricity:Zone:120475 [J], ResourceType=Electricity, EndUse=InteriorLights, Group=Zone, contents are:
+  120475 GENERAL LIGHTING:Lights Electric Energy
+
+ For Meter=ELECTRIC EQUIPMENT#120475#GeneralLights:InteriorLights:Electricity [J], ResourceType=Electricity, EndUse=InteriorLights, contents are:
+  120475 GENERAL LIGHTING:Lights Electric Energy
+
+ For Meter=Electricity:Zone:120484 [J], ResourceType=Electricity, Group=Zone, contents are:
+  120484 GENERAL LIGHTING:Lights Electric Energy
+  120484 COMPUTING GAIN 1:Electric Equipment Electric Energy
+  120484 MISCELLANEOUS GAIN 2:Electric Equipment Electric Energy
+  120484:Zone Ventilation Fan Electric Energy
+
+ For Meter=InteriorLights:Electricity:Zone:120484 [J], ResourceType=Electricity, EndUse=InteriorLights, Group=Zone, contents are:
+  120484 GENERAL LIGHTING:Lights Electric Energy
+
+ For Meter=ELECTRIC EQUIPMENT#120484#GeneralLights:InteriorLights:Electricity [J], ResourceType=Electricity, EndUse=InteriorLights, contents are:
+  120484 GENERAL LIGHTING:Lights Electric Energy
+
+ For Meter=Electricity:Zone:120497 [J], ResourceType=Electricity, Group=Zone, contents are:
+  120497 GENERAL LIGHTING:Lights Electric Energy
+  120497 COMPUTING GAIN 1:Electric Equipment Electric Energy
+  120497 MISCELLANEOUS GAIN 2:Electric Equipment Electric Energy
+  120497:Zone Ventilation Fan Electric Energy
+
+ For Meter=InteriorLights:Electricity:Zone:120497 [J], ResourceType=Electricity, EndUse=InteriorLights, Group=Zone, contents are:
+  120497 GENERAL LIGHTING:Lights Electric Energy
+
+ For Meter=ELECTRIC EQUIPMENT#120497#GeneralLights:InteriorLights:Electricity [J], ResourceType=Electricity, EndUse=InteriorLights, contents are:
+  120497 GENERAL LIGHTING:Lights Electric Energy
+
+ For Meter=Electricity:Zone:120506 [J], ResourceType=Electricity, Group=Zone, contents are:
+  120506 GENERAL LIGHTING:Lights Electric Energy
+  120506 COMPUTING GAIN 1:Electric Equipment Electric Energy
+  120506 MISCELLANEOUS GAIN 2:Electric Equipment Electric Energy
+  120506:Zone Ventilation Fan Electric Energy
+
+ For Meter=InteriorLights:Electricity:Zone:120506 [J], ResourceType=Electricity, EndUse=InteriorLights, Group=Zone, contents are:
+  120506 GENERAL LIGHTING:Lights Electric Energy
+
+ For Meter=ELECTRIC EQUIPMENT#120506#GeneralLights:InteriorLights:Electricity [J], ResourceType=Electricity, EndUse=InteriorLights, contents are:
+  120506 GENERAL LIGHTING:Lights Electric Energy
+
+ For Meter=Electricity:Zone:120515 [J], ResourceType=Electricity, Group=Zone, contents are:
+  120515 GENERAL LIGHTING:Lights Electric Energy
+  120515 COMPUTING GAIN 1:Electric Equipment Electric Energy
+  120515 MISCELLANEOUS GAIN 2:Electric Equipment Electric Energy
+  120515:Zone Ventilation Fan Electric Energy
+
+ For Meter=InteriorLights:Electricity:Zone:120515 [J], ResourceType=Electricity, EndUse=InteriorLights, Group=Zone, contents are:
+  120515 GENERAL LIGHTING:Lights Electric Energy
+
+ For Meter=ELECTRIC EQUIPMENT#120515#GeneralLights:InteriorLights:Electricity [J], ResourceType=Electricity, EndUse=InteriorLights, contents are:
+  120515 GENERAL LIGHTING:Lights Electric Energy
+
+ For Meter=InteriorEquipment:Electricity [J], ResourceType=Electricity, EndUse=InteriorEquipment, contents are:
+  118363 COMPUTING GAIN 1:Electric Equipment Electric Energy
+  118363 MISCELLANEOUS GAIN 2:Electric Equipment Electric Energy
+  118363 EQUIPMENT 3:Electric Equipment Electric Energy
+  118374 MISCELLANEOUS GAIN 1:Electric Equipment Electric Energy
+  118411 MISCELLANEOUS GAIN 1:Electric Equipment Electric Energy
+  118418 COMPUTING GAIN 1:Electric Equipment Electric Energy
+  118418 MISCELLANEOUS GAIN 2:Electric Equipment Electric Energy
+  118418 EQUIPMENT 3:Electric Equipment Electric Energy
+  118425 EQUIPMENT 1:Electric Equipment Electric Energy
+  118432 MISCELLANEOUS GAIN 1:Electric Equipment Electric Energy
+  118439 COMPUTING GAIN 1:Electric Equipment Electric Energy
+  118439 MISCELLANEOUS GAIN 2:Electric Equipment Electric Energy
+  118439 EQUIPMENT 3:Electric Equipment Electric Energy
+  118446 EQUIPMENT 1:Electric Equipment Electric Energy
+  118453 MISCELLANEOUS GAIN 1:Electric Equipment Electric Energy
+  118460 COMPUTING GAIN 1:Electric Equipment Electric Energy
+  118460 MISCELLANEOUS GAIN 2:Electric Equipment Electric Energy
+  118474 COMPUTING GAIN 1:Electric Equipment Electric Energy
+  118474 MISCELLANEOUS GAIN 2:Electric Equipment Electric Energy
+  118474 EQUIPMENT 3:Electric Equipment Electric Energy
+  118481 COMPUTING GAIN 1:Electric Equipment Electric Energy
+  118481 MISCELLANEOUS GAIN 2:Electric Equipment Electric Energy
+  118481 EQUIPMENT 3:Electric Equipment Electric Energy
+  118488 COMPUTING GAIN 1:Electric Equipment Electric Energy
+  118488 MISCELLANEOUS GAIN 2:Electric Equipment Electric Energy
+  120563 MISCELLANEOUS GAIN 1:Electric Equipment Electric Energy
+  120605 COMPUTING GAIN 1:Electric Equipment Electric Energy
+  120605 MISCELLANEOUS GAIN 2:Electric Equipment Electric Energy
+  120605 EQUIPMENT 3:Electric Equipment Electric Energy
+  120614 MISCELLANEOUS GAIN 1:Electric Equipment Electric Energy
+  120623 COMPUTING GAIN 1:Electric Equipment Electric Energy
+  120623 MISCELLANEOUS GAIN 2:Electric Equipment Electric Energy
+  120632 COMPUTING GAIN 1:Electric Equipment Electric Energy
+  120641 COMPUTING GAIN 1:Electric Equipment Electric Energy
+  120650 COMPUTING GAIN 1:Electric Equipment Electric Energy
+  120650 MISCELLANEOUS GAIN 2:Electric Equipment Electric Energy
+  120659 COMPUTING GAIN 1:Electric Equipment Electric Energy
+  120659 MISCELLANEOUS GAIN 2:Electric Equipment Electric Energy
+  120668 COMPUTING GAIN 1:Electric Equipment Electric Energy
+  120668 MISCELLANEOUS GAIN 2:Electric Equipment Electric Energy
+  120681 MISCELLANEOUS GAIN 1:Electric Equipment Electric Energy
+  120428 MISCELLANEOUS GAIN 1:Electric Equipment Electric Energy
+  120466 MISCELLANEOUS GAIN 1:Electric Equipment Electric Energy
+  120475 COMPUTING GAIN 1:Electric Equipment Electric Energy
+  120475 MISCELLANEOUS GAIN 2:Electric Equipment Electric Energy
+  120484 COMPUTING GAIN 1:Electric Equipment Electric Energy
+  120484 MISCELLANEOUS GAIN 2:Electric Equipment Electric Energy
+  120497 COMPUTING GAIN 1:Electric Equipment Electric Energy
+  120497 MISCELLANEOUS GAIN 2:Electric Equipment Electric Energy
+  120506 COMPUTING GAIN 1:Electric Equipment Electric Energy
+  120506 MISCELLANEOUS GAIN 2:Electric Equipment Electric Energy
+  120515 COMPUTING GAIN 1:Electric Equipment Electric Energy
+  120515 MISCELLANEOUS GAIN 2:Electric Equipment Electric Energy
+
+ For Meter=InteriorEquipment:Electricity:Zone:118363 [J], ResourceType=Electricity, EndUse=InteriorEquipment, Group=Zone, contents are:
+  118363 COMPUTING GAIN 1:Electric Equipment Electric Energy
+  118363 MISCELLANEOUS GAIN 2:Electric Equipment Electric Energy
+  118363 EQUIPMENT 3:Electric Equipment Electric Energy
+
+ For Meter=ELECTRIC EQUIPMENT#118363#05:InteriorEquipment:Electricity [J], ResourceType=Electricity, EndUse=InteriorEquipment, contents are:
+  118363 COMPUTING GAIN 1:Electric Equipment Electric Energy
+  118363 EQUIPMENT 3:Electric Equipment Electric Energy
+
+ For Meter=ELECTRIC EQUIPMENT#118363#02:InteriorEquipment:Electricity [J], ResourceType=Electricity, EndUse=InteriorEquipment, contents are:
+  118363 MISCELLANEOUS GAIN 2:Electric Equipment Electric Energy
+
+ For Meter=InteriorEquipment:Electricity:Zone:118374 [J], ResourceType=Electricity, EndUse=InteriorEquipment, Group=Zone, contents are:
+  118374 MISCELLANEOUS GAIN 1:Electric Equipment Electric Energy
+
+ For Meter=ELECTRIC EQUIPMENT#118374#02:InteriorEquipment:Electricity [J], ResourceType=Electricity, EndUse=InteriorEquipment, contents are:
+  118374 MISCELLANEOUS GAIN 1:Electric Equipment Electric Energy
+
+ For Meter=InteriorEquipment:Electricity:Zone:118411 [J], ResourceType=Electricity, EndUse=InteriorEquipment, Group=Zone, contents are:
+  118411 MISCELLANEOUS GAIN 1:Electric Equipment Electric Energy
+
+ For Meter=ELECTRIC EQUIPMENT#118411#02:InteriorEquipment:Electricity [J], ResourceType=Electricity, EndUse=InteriorEquipment, contents are:
+  118411 MISCELLANEOUS GAIN 1:Electric Equipment Electric Energy
+
+ For Meter=InteriorEquipment:Electricity:Zone:118418 [J], ResourceType=Electricity, EndUse=InteriorEquipment, Group=Zone, contents are:
+  118418 COMPUTING GAIN 1:Electric Equipment Electric Energy
+  118418 MISCELLANEOUS GAIN 2:Electric Equipment Electric Energy
+  118418 EQUIPMENT 3:Electric Equipment Electric Energy
+
+ For Meter=ELECTRIC EQUIPMENT#118418#05:InteriorEquipment:Electricity [J], ResourceType=Electricity, EndUse=InteriorEquipment, contents are:
+  118418 COMPUTING GAIN 1:Electric Equipment Electric Energy
+  118418 EQUIPMENT 3:Electric Equipment Electric Energy
+
+ For Meter=ELECTRIC EQUIPMENT#118418#02:InteriorEquipment:Electricity [J], ResourceType=Electricity, EndUse=InteriorEquipment, contents are:
+  118418 MISCELLANEOUS GAIN 2:Electric Equipment Electric Energy
+
+ For Meter=InteriorEquipment:Electricity:Zone:118425 [J], ResourceType=Electricity, EndUse=InteriorEquipment, Group=Zone, contents are:
+  118425 EQUIPMENT 1:Electric Equipment Electric Energy
+
+ For Meter=ELECTRIC EQUIPMENT#118425#05:InteriorEquipment:Electricity [J], ResourceType=Electricity, EndUse=InteriorEquipment, contents are:
+  118425 EQUIPMENT 1:Electric Equipment Electric Energy
+
+ For Meter=InteriorEquipment:Electricity:Zone:118432 [J], ResourceType=Electricity, EndUse=InteriorEquipment, Group=Zone, contents are:
+  118432 MISCELLANEOUS GAIN 1:Electric Equipment Electric Energy
+
+ For Meter=ELECTRIC EQUIPMENT#118432#02:InteriorEquipment:Electricity [J], ResourceType=Electricity, EndUse=InteriorEquipment, contents are:
+  118432 MISCELLANEOUS GAIN 1:Electric Equipment Electric Energy
+
+ For Meter=InteriorEquipment:Electricity:Zone:118439 [J], ResourceType=Electricity, EndUse=InteriorEquipment, Group=Zone, contents are:
+  118439 COMPUTING GAIN 1:Electric Equipment Electric Energy
+  118439 MISCELLANEOUS GAIN 2:Electric Equipment Electric Energy
+  118439 EQUIPMENT 3:Electric Equipment Electric Energy
+
+ For Meter=ELECTRIC EQUIPMENT#118439#05:InteriorEquipment:Electricity [J], ResourceType=Electricity, EndUse=InteriorEquipment, contents are:
+  118439 COMPUTING GAIN 1:Electric Equipment Electric Energy
+  118439 EQUIPMENT 3:Electric Equipment Electric Energy
+
+ For Meter=ELECTRIC EQUIPMENT#118439#02:InteriorEquipment:Electricity [J], ResourceType=Electricity, EndUse=InteriorEquipment, contents are:
+  118439 MISCELLANEOUS GAIN 2:Electric Equipment Electric Energy
+
+ For Meter=InteriorEquipment:Electricity:Zone:118446 [J], ResourceType=Electricity, EndUse=InteriorEquipment, Group=Zone, contents are:
+  118446 EQUIPMENT 1:Electric Equipment Electric Energy
+
+ For Meter=ELECTRIC EQUIPMENT#118446#05:InteriorEquipment:Electricity [J], ResourceType=Electricity, EndUse=InteriorEquipment, contents are:
+  118446 EQUIPMENT 1:Electric Equipment Electric Energy
+
+ For Meter=InteriorEquipment:Electricity:Zone:118453 [J], ResourceType=Electricity, EndUse=InteriorEquipment, Group=Zone, contents are:
+  118453 MISCELLANEOUS GAIN 1:Electric Equipment Electric Energy
+
+ For Meter=ELECTRIC EQUIPMENT#118453#02:InteriorEquipment:Electricity [J], ResourceType=Electricity, EndUse=InteriorEquipment, contents are:
+  118453 MISCELLANEOUS GAIN 1:Electric Equipment Electric Energy
+
+ For Meter=InteriorEquipment:Electricity:Zone:118460 [J], ResourceType=Electricity, EndUse=InteriorEquipment, Group=Zone, contents are:
+  118460 COMPUTING GAIN 1:Electric Equipment Electric Energy
+  118460 MISCELLANEOUS GAIN 2:Electric Equipment Electric Energy
+
+ For Meter=ELECTRIC EQUIPMENT#118460#05:InteriorEquipment:Electricity [J], ResourceType=Electricity, EndUse=InteriorEquipment, contents are:
+  118460 COMPUTING GAIN 1:Electric Equipment Electric Energy
+
+ For Meter=ELECTRIC EQUIPMENT#118460#02:InteriorEquipment:Electricity [J], ResourceType=Electricity, EndUse=InteriorEquipment, contents are:
+  118460 MISCELLANEOUS GAIN 2:Electric Equipment Electric Energy
+
+ For Meter=InteriorEquipment:Electricity:Zone:118474 [J], ResourceType=Electricity, EndUse=InteriorEquipment, Group=Zone, contents are:
+  118474 COMPUTING GAIN 1:Electric Equipment Electric Energy
+  118474 MISCELLANEOUS GAIN 2:Electric Equipment Electric Energy
+  118474 EQUIPMENT 3:Electric Equipment Electric Energy
+
+ For Meter=ELECTRIC EQUIPMENT#118474#05:InteriorEquipment:Electricity [J], ResourceType=Electricity, EndUse=InteriorEquipment, contents are:
+  118474 COMPUTING GAIN 1:Electric Equipment Electric Energy
+  118474 EQUIPMENT 3:Electric Equipment Electric Energy
+
+ For Meter=ELECTRIC EQUIPMENT#118474#02:InteriorEquipment:Electricity [J], ResourceType=Electricity, EndUse=InteriorEquipment, contents are:
+  118474 MISCELLANEOUS GAIN 2:Electric Equipment Electric Energy
+
+ For Meter=InteriorEquipment:Electricity:Zone:118481 [J], ResourceType=Electricity, EndUse=InteriorEquipment, Group=Zone, contents are:
+  118481 COMPUTING GAIN 1:Electric Equipment Electric Energy
+  118481 MISCELLANEOUS GAIN 2:Electric Equipment Electric Energy
+  118481 EQUIPMENT 3:Electric Equipment Electric Energy
+
+ For Meter=ELECTRIC EQUIPMENT#118481#05:InteriorEquipment:Electricity [J], ResourceType=Electricity, EndUse=InteriorEquipment, contents are:
+  118481 COMPUTING GAIN 1:Electric Equipment Electric Energy
+  118481 EQUIPMENT 3:Electric Equipment Electric Energy
+
+ For Meter=ELECTRIC EQUIPMENT#118481#02:InteriorEquipment:Electricity [J], ResourceType=Electricity, EndUse=InteriorEquipment, contents are:
+  118481 MISCELLANEOUS GAIN 2:Electric Equipment Electric Energy
+
+ For Meter=InteriorEquipment:Electricity:Zone:118488 [J], ResourceType=Electricity, EndUse=InteriorEquipment, Group=Zone, contents are:
+  118488 COMPUTING GAIN 1:Electric Equipment Electric Energy
+  118488 MISCELLANEOUS GAIN 2:Electric Equipment Electric Energy
+
+ For Meter=ELECTRIC EQUIPMENT#118488#05:InteriorEquipment:Electricity [J], ResourceType=Electricity, EndUse=InteriorEquipment, contents are:
+  118488 COMPUTING GAIN 1:Electric Equipment Electric Energy
+
+ For Meter=ELECTRIC EQUIPMENT#118488#02:InteriorEquipment:Electricity [J], ResourceType=Electricity, EndUse=InteriorEquipment, contents are:
+  118488 MISCELLANEOUS GAIN 2:Electric Equipment Electric Energy
+
+ For Meter=InteriorEquipment:Electricity:Zone:120563 [J], ResourceType=Electricity, EndUse=InteriorEquipment, Group=Zone, contents are:
+  120563 MISCELLANEOUS GAIN 1:Electric Equipment Electric Energy
+
+ For Meter=ELECTRIC EQUIPMENT#120563#02:InteriorEquipment:Electricity [J], ResourceType=Electricity, EndUse=InteriorEquipment, contents are:
+  120563 MISCELLANEOUS GAIN 1:Electric Equipment Electric Energy
+
+ For Meter=InteriorEquipment:Electricity:Zone:120605 [J], ResourceType=Electricity, EndUse=InteriorEquipment, Group=Zone, contents are:
+  120605 COMPUTING GAIN 1:Electric Equipment Electric Energy
+  120605 MISCELLANEOUS GAIN 2:Electric Equipment Electric Energy
+  120605 EQUIPMENT 3:Electric Equipment Electric Energy
+
+ For Meter=ELECTRIC EQUIPMENT#120605#05:InteriorEquipment:Electricity [J], ResourceType=Electricity, EndUse=InteriorEquipment, contents are:
+  120605 COMPUTING GAIN 1:Electric Equipment Electric Energy
+  120605 EQUIPMENT 3:Electric Equipment Electric Energy
+
+ For Meter=ELECTRIC EQUIPMENT#120605#02:InteriorEquipment:Electricity [J], ResourceType=Electricity, EndUse=InteriorEquipment, contents are:
+  120605 MISCELLANEOUS GAIN 2:Electric Equipment Electric Energy
+
+ For Meter=InteriorEquipment:Electricity:Zone:120614 [J], ResourceType=Electricity, EndUse=InteriorEquipment, Group=Zone, contents are:
+  120614 MISCELLANEOUS GAIN 1:Electric Equipment Electric Energy
+
+ For Meter=ELECTRIC EQUIPMENT#120614#02:InteriorEquipment:Electricity [J], ResourceType=Electricity, EndUse=InteriorEquipment, contents are:
+  120614 MISCELLANEOUS GAIN 1:Electric Equipment Electric Energy
+
+ For Meter=InteriorEquipment:Electricity:Zone:120623 [J], ResourceType=Electricity, EndUse=InteriorEquipment, Group=Zone, contents are:
+  120623 COMPUTING GAIN 1:Electric Equipment Electric Energy
+  120623 MISCELLANEOUS GAIN 2:Electric Equipment Electric Energy
+
+ For Meter=ELECTRIC EQUIPMENT#120623#05:InteriorEquipment:Electricity [J], ResourceType=Electricity, EndUse=InteriorEquipment, contents are:
+  120623 COMPUTING GAIN 1:Electric Equipment Electric Energy
+
+ For Meter=ELECTRIC EQUIPMENT#120623#02:InteriorEquipment:Electricity [J], ResourceType=Electricity, EndUse=InteriorEquipment, contents are:
+  120623 MISCELLANEOUS GAIN 2:Electric Equipment Electric Energy
+
+ For Meter=InteriorEquipment:Electricity:Zone:120632 [J], ResourceType=Electricity, EndUse=InteriorEquipment, Group=Zone, contents are:
+  120632 COMPUTING GAIN 1:Electric Equipment Electric Energy
+
+ For Meter=ELECTRIC EQUIPMENT#120632#05:InteriorEquipment:Electricity [J], ResourceType=Electricity, EndUse=InteriorEquipment, contents are:
+  120632 COMPUTING GAIN 1:Electric Equipment Electric Energy
+
+ For Meter=Electricity:Zone:120641 [J], ResourceType=Electricity, Group=Zone, contents are:
+  120641 COMPUTING GAIN 1:Electric Equipment Electric Energy
+  120641:Zone Ventilation Fan Electric Energy
+
+ For Meter=InteriorEquipment:Electricity:Zone:120641 [J], ResourceType=Electricity, EndUse=InteriorEquipment, Group=Zone, contents are:
+  120641 COMPUTING GAIN 1:Electric Equipment Electric Energy
+
+ For Meter=ELECTRIC EQUIPMENT#120641#05:InteriorEquipment:Electricity [J], ResourceType=Electricity, EndUse=InteriorEquipment, contents are:
+  120641 COMPUTING GAIN 1:Electric Equipment Electric Energy
+
+ For Meter=InteriorEquipment:Electricity:Zone:120650 [J], ResourceType=Electricity, EndUse=InteriorEquipment, Group=Zone, contents are:
+  120650 COMPUTING GAIN 1:Electric Equipment Electric Energy
+  120650 MISCELLANEOUS GAIN 2:Electric Equipment Electric Energy
+
+ For Meter=ELECTRIC EQUIPMENT#120650#05:InteriorEquipment:Electricity [J], ResourceType=Electricity, EndUse=InteriorEquipment, contents are:
+  120650 COMPUTING GAIN 1:Electric Equipment Electric Energy
+
+ For Meter=ELECTRIC EQUIPMENT#120650#02:InteriorEquipment:Electricity [J], ResourceType=Electricity, EndUse=InteriorEquipment, contents are:
+  120650 MISCELLANEOUS GAIN 2:Electric Equipment Electric Energy
+
+ For Meter=InteriorEquipment:Electricity:Zone:120659 [J], ResourceType=Electricity, EndUse=InteriorEquipment, Group=Zone, contents are:
+  120659 COMPUTING GAIN 1:Electric Equipment Electric Energy
+  120659 MISCELLANEOUS GAIN 2:Electric Equipment Electric Energy
+
+ For Meter=ELECTRIC EQUIPMENT#120659#05:InteriorEquipment:Electricity [J], ResourceType=Electricity, EndUse=InteriorEquipment, contents are:
+  120659 COMPUTING GAIN 1:Electric Equipment Electric Energy
+
+ For Meter=ELECTRIC EQUIPMENT#120659#02:InteriorEquipment:Electricity [J], ResourceType=Electricity, EndUse=InteriorEquipment, contents are:
+  120659 MISCELLANEOUS GAIN 2:Electric Equipment Electric Energy
+
+ For Meter=InteriorEquipment:Electricity:Zone:120668 [J], ResourceType=Electricity, EndUse=InteriorEquipment, Group=Zone, contents are:
+  120668 COMPUTING GAIN 1:Electric Equipment Electric Energy
+  120668 MISCELLANEOUS GAIN 2:Electric Equipment Electric Energy
+
+ For Meter=ELECTRIC EQUIPMENT#120668#05:InteriorEquipment:Electricity [J], ResourceType=Electricity, EndUse=InteriorEquipment, contents are:
+  120668 COMPUTING GAIN 1:Electric Equipment Electric Energy
+
+ For Meter=ELECTRIC EQUIPMENT#120668#02:InteriorEquipment:Electricity [J], ResourceType=Electricity, EndUse=InteriorEquipment, contents are:
+  120668 MISCELLANEOUS GAIN 2:Electric Equipment Electric Energy
+
+ For Meter=InteriorEquipment:Electricity:Zone:120681 [J], ResourceType=Electricity, EndUse=InteriorEquipment, Group=Zone, contents are:
+  120681 MISCELLANEOUS GAIN 1:Electric Equipment Electric Energy
+
+ For Meter=ELECTRIC EQUIPMENT#120681#02:InteriorEquipment:Electricity [J], ResourceType=Electricity, EndUse=InteriorEquipment, contents are:
+  120681 MISCELLANEOUS GAIN 1:Electric Equipment Electric Energy
+
+ For Meter=InteriorEquipment:Electricity:Zone:120428 [J], ResourceType=Electricity, EndUse=InteriorEquipment, Group=Zone, contents are:
+  120428 MISCELLANEOUS GAIN 1:Electric Equipment Electric Energy
+
+ For Meter=ELECTRIC EQUIPMENT#120428#02:InteriorEquipment:Electricity [J], ResourceType=Electricity, EndUse=InteriorEquipment, contents are:
+  120428 MISCELLANEOUS GAIN 1:Electric Equipment Electric Energy
+
+ For Meter=InteriorEquipment:Electricity:Zone:120466 [J], ResourceType=Electricity, EndUse=InteriorEquipment, Group=Zone, contents are:
+  120466 MISCELLANEOUS GAIN 1:Electric Equipment Electric Energy
+
+ For Meter=ELECTRIC EQUIPMENT#120466#02:InteriorEquipment:Electricity [J], ResourceType=Electricity, EndUse=InteriorEquipment, contents are:
+  120466 MISCELLANEOUS GAIN 1:Electric Equipment Electric Energy
+
+ For Meter=InteriorEquipment:Electricity:Zone:120475 [J], ResourceType=Electricity, EndUse=InteriorEquipment, Group=Zone, contents are:
+  120475 COMPUTING GAIN 1:Electric Equipment Electric Energy
+  120475 MISCELLANEOUS GAIN 2:Electric Equipment Electric Energy
+
+ For Meter=ELECTRIC EQUIPMENT#120475#05:InteriorEquipment:Electricity [J], ResourceType=Electricity, EndUse=InteriorEquipment, contents are:
+  120475 COMPUTING GAIN 1:Electric Equipment Electric Energy
+
+ For Meter=ELECTRIC EQUIPMENT#120475#02:InteriorEquipment:Electricity [J], ResourceType=Electricity, EndUse=InteriorEquipment, contents are:
+  120475 MISCELLANEOUS GAIN 2:Electric Equipment Electric Energy
+
+ For Meter=InteriorEquipment:Electricity:Zone:120484 [J], ResourceType=Electricity, EndUse=InteriorEquipment, Group=Zone, contents are:
+  120484 COMPUTING GAIN 1:Electric Equipment Electric Energy
+  120484 MISCELLANEOUS GAIN 2:Electric Equipment Electric Energy
+
+ For Meter=ELECTRIC EQUIPMENT#120484#05:InteriorEquipment:Electricity [J], ResourceType=Electricity, EndUse=InteriorEquipment, contents are:
+  120484 COMPUTING GAIN 1:Electric Equipment Electric Energy
+
+ For Meter=ELECTRIC EQUIPMENT#120484#02:InteriorEquipment:Electricity [J], ResourceType=Electricity, EndUse=InteriorEquipment, contents are:
+  120484 MISCELLANEOUS GAIN 2:Electric Equipment Electric Energy
+
+ For Meter=InteriorEquipment:Electricity:Zone:120497 [J], ResourceType=Electricity, EndUse=InteriorEquipment, Group=Zone, contents are:
+  120497 COMPUTING GAIN 1:Electric Equipment Electric Energy
+  120497 MISCELLANEOUS GAIN 2:Electric Equipment Electric Energy
+
+ For Meter=ELECTRIC EQUIPMENT#120497#05:InteriorEquipment:Electricity [J], ResourceType=Electricity, EndUse=InteriorEquipment, contents are:
+  120497 COMPUTING GAIN 1:Electric Equipment Electric Energy
+
+ For Meter=ELECTRIC EQUIPMENT#120497#02:InteriorEquipment:Electricity [J], ResourceType=Electricity, EndUse=InteriorEquipment, contents are:
+  120497 MISCELLANEOUS GAIN 2:Electric Equipment Electric Energy
+
+ For Meter=InteriorEquipment:Electricity:Zone:120506 [J], ResourceType=Electricity, EndUse=InteriorEquipment, Group=Zone, contents are:
+  120506 COMPUTING GAIN 1:Electric Equipment Electric Energy
+  120506 MISCELLANEOUS GAIN 2:Electric Equipment Electric Energy
+
+ For Meter=ELECTRIC EQUIPMENT#120506#05:InteriorEquipment:Electricity [J], ResourceType=Electricity, EndUse=InteriorEquipment, contents are:
+  120506 COMPUTING GAIN 1:Electric Equipment Electric Energy
+
+ For Meter=ELECTRIC EQUIPMENT#120506#02:InteriorEquipment:Electricity [J], ResourceType=Electricity, EndUse=InteriorEquipment, contents are:
+  120506 MISCELLANEOUS GAIN 2:Electric Equipment Electric Energy
+
+ For Meter=InteriorEquipment:Electricity:Zone:120515 [J], ResourceType=Electricity, EndUse=InteriorEquipment, Group=Zone, contents are:
+  120515 COMPUTING GAIN 1:Electric Equipment Electric Energy
+  120515 MISCELLANEOUS GAIN 2:Electric Equipment Electric Energy
+
+ For Meter=ELECTRIC EQUIPMENT#120515#05:InteriorEquipment:Electricity [J], ResourceType=Electricity, EndUse=InteriorEquipment, contents are:
+  120515 COMPUTING GAIN 1:Electric Equipment Electric Energy
+
+ For Meter=ELECTRIC EQUIPMENT#120515#02:InteriorEquipment:Electricity [J], ResourceType=Electricity, EndUse=InteriorEquipment, contents are:
+  120515 MISCELLANEOUS GAIN 2:Electric Equipment Electric Energy
+
+ For Meter=Fans:Electricity [J], ResourceType=Electricity, EndUse=Fans, contents are:
+  118374:Zone Ventilation Fan Electric Energy
+  118411:Zone Ventilation Fan Electric Energy
+  118418:Zone Ventilation Fan Electric Energy
+  118425:Zone Ventilation Fan Electric Energy
+  118432:Zone Ventilation Fan Electric Energy
+  118439:Zone Ventilation Fan Electric Energy
+  118446:Zone Ventilation Fan Electric Energy
+  118453:Zone Ventilation Fan Electric Energy
+  118460:Zone Ventilation Fan Electric Energy
+  118467:Zone Ventilation Fan Electric Energy
+  118474:Zone Ventilation Fan Electric Energy
+  118481:Zone Ventilation Fan Electric Energy
+  118488:Zone Ventilation Fan Electric Energy
+  120563:Zone Ventilation Fan Electric Energy
+  120605:Zone Ventilation Fan Electric Energy
+  120614:Zone Ventilation Fan Electric Energy
+  120623:Zone Ventilation Fan Electric Energy
+  120632:Zone Ventilation Fan Electric Energy
+  120641:Zone Ventilation Fan Electric Energy
+  120650:Zone Ventilation Fan Electric Energy
+  120659:Zone Ventilation Fan Electric Energy
+  120668:Zone Ventilation Fan Electric Energy
+  120681:Zone Ventilation Fan Electric Energy
+  120428:Zone Ventilation Fan Electric Energy
+  120475:Zone Ventilation Fan Electric Energy
+  120484:Zone Ventilation Fan Electric Energy
+  120497:Zone Ventilation Fan Electric Energy
+  120506:Zone Ventilation Fan Electric Energy
+  120515:Zone Ventilation Fan Electric Energy
+
+ For Meter=Fans:Electricity:Zone:118374 [J], ResourceType=Electricity, EndUse=Fans, Group=Zone, contents are:
+  118374:Zone Ventilation Fan Electric Energy
+
+ For Meter=Ventilation (simple):Fans:Electricity [J], ResourceType=Electricity, EndUse=Fans, contents are:
+  118374:Zone Ventilation Fan Electric Energy
+  118411:Zone Ventilation Fan Electric Energy
+  118418:Zone Ventilation Fan Electric Energy
+  118425:Zone Ventilation Fan Electric Energy
+  118432:Zone Ventilation Fan Electric Energy
+  118439:Zone Ventilation Fan Electric Energy
+  118446:Zone Ventilation Fan Electric Energy
+  118453:Zone Ventilation Fan Electric Energy
+  118460:Zone Ventilation Fan Electric Energy
+  118467:Zone Ventilation Fan Electric Energy
+  118474:Zone Ventilation Fan Electric Energy
+  118481:Zone Ventilation Fan Electric Energy
+  118488:Zone Ventilation Fan Electric Energy
+  120563:Zone Ventilation Fan Electric Energy
+  120605:Zone Ventilation Fan Electric Energy
+  120614:Zone Ventilation Fan Electric Energy
+  120623:Zone Ventilation Fan Electric Energy
+  120632:Zone Ventilation Fan Electric Energy
+  120641:Zone Ventilation Fan Electric Energy
+  120650:Zone Ventilation Fan Electric Energy
+  120659:Zone Ventilation Fan Electric Energy
+  120668:Zone Ventilation Fan Electric Energy
+  120681:Zone Ventilation Fan Electric Energy
+  120428:Zone Ventilation Fan Electric Energy
+  120475:Zone Ventilation Fan Electric Energy
+  120484:Zone Ventilation Fan Electric Energy
+  120497:Zone Ventilation Fan Electric Energy
+  120506:Zone Ventilation Fan Electric Energy
+  120515:Zone Ventilation Fan Electric Energy
+
+ For Meter=Fans:Electricity:Zone:118411 [J], ResourceType=Electricity, EndUse=Fans, Group=Zone, contents are:
+  118411:Zone Ventilation Fan Electric Energy
+
+ For Meter=Fans:Electricity:Zone:118418 [J], ResourceType=Electricity, EndUse=Fans, Group=Zone, contents are:
+  118418:Zone Ventilation Fan Electric Energy
+
+ For Meter=Fans:Electricity:Zone:118425 [J], ResourceType=Electricity, EndUse=Fans, Group=Zone, contents are:
+  118425:Zone Ventilation Fan Electric Energy
+
+ For Meter=Fans:Electricity:Zone:118432 [J], ResourceType=Electricity, EndUse=Fans, Group=Zone, contents are:
+  118432:Zone Ventilation Fan Electric Energy
+
+ For Meter=Fans:Electricity:Zone:118439 [J], ResourceType=Electricity, EndUse=Fans, Group=Zone, contents are:
+  118439:Zone Ventilation Fan Electric Energy
+
+ For Meter=Fans:Electricity:Zone:118446 [J], ResourceType=Electricity, EndUse=Fans, Group=Zone, contents are:
+  118446:Zone Ventilation Fan Electric Energy
+
+ For Meter=Fans:Electricity:Zone:118453 [J], ResourceType=Electricity, EndUse=Fans, Group=Zone, contents are:
+  118453:Zone Ventilation Fan Electric Energy
+
+ For Meter=Fans:Electricity:Zone:118460 [J], ResourceType=Electricity, EndUse=Fans, Group=Zone, contents are:
+  118460:Zone Ventilation Fan Electric Energy
+
+ For Meter=Fans:Electricity:Zone:118467 [J], ResourceType=Electricity, EndUse=Fans, Group=Zone, contents are:
+  118467:Zone Ventilation Fan Electric Energy
+
+ For Meter=Fans:Electricity:Zone:118474 [J], ResourceType=Electricity, EndUse=Fans, Group=Zone, contents are:
+  118474:Zone Ventilation Fan Electric Energy
+
+ For Meter=Fans:Electricity:Zone:118481 [J], ResourceType=Electricity, EndUse=Fans, Group=Zone, contents are:
+  118481:Zone Ventilation Fan Electric Energy
+
+ For Meter=Fans:Electricity:Zone:118488 [J], ResourceType=Electricity, EndUse=Fans, Group=Zone, contents are:
+  118488:Zone Ventilation Fan Electric Energy
+
+ For Meter=Fans:Electricity:Zone:120563 [J], ResourceType=Electricity, EndUse=Fans, Group=Zone, contents are:
+  120563:Zone Ventilation Fan Electric Energy
+
+ For Meter=Fans:Electricity:Zone:120605 [J], ResourceType=Electricity, EndUse=Fans, Group=Zone, contents are:
+  120605:Zone Ventilation Fan Electric Energy
+
+ For Meter=Fans:Electricity:Zone:120614 [J], ResourceType=Electricity, EndUse=Fans, Group=Zone, contents are:
+  120614:Zone Ventilation Fan Electric Energy
+
+ For Meter=Fans:Electricity:Zone:120623 [J], ResourceType=Electricity, EndUse=Fans, Group=Zone, contents are:
+  120623:Zone Ventilation Fan Electric Energy
+
+ For Meter=Fans:Electricity:Zone:120632 [J], ResourceType=Electricity, EndUse=Fans, Group=Zone, contents are:
+  120632:Zone Ventilation Fan Electric Energy
+
+ For Meter=Fans:Electricity:Zone:120641 [J], ResourceType=Electricity, EndUse=Fans, Group=Zone, contents are:
+  120641:Zone Ventilation Fan Electric Energy
+
+ For Meter=Fans:Electricity:Zone:120650 [J], ResourceType=Electricity, EndUse=Fans, Group=Zone, contents are:
+  120650:Zone Ventilation Fan Electric Energy
+
+ For Meter=Fans:Electricity:Zone:120659 [J], ResourceType=Electricity, EndUse=Fans, Group=Zone, contents are:
+  120659:Zone Ventilation Fan Electric Energy
+
+ For Meter=Fans:Electricity:Zone:120668 [J], ResourceType=Electricity, EndUse=Fans, Group=Zone, contents are:
+  120668:Zone Ventilation Fan Electric Energy
+
+ For Meter=Fans:Electricity:Zone:120681 [J], ResourceType=Electricity, EndUse=Fans, Group=Zone, contents are:
+  120681:Zone Ventilation Fan Electric Energy
+
+ For Meter=Fans:Electricity:Zone:120428 [J], ResourceType=Electricity, EndUse=Fans, Group=Zone, contents are:
+  120428:Zone Ventilation Fan Electric Energy
+
+ For Meter=Fans:Electricity:Zone:120475 [J], ResourceType=Electricity, EndUse=Fans, Group=Zone, contents are:
+  120475:Zone Ventilation Fan Electric Energy
+
+ For Meter=Fans:Electricity:Zone:120484 [J], ResourceType=Electricity, EndUse=Fans, Group=Zone, contents are:
+  120484:Zone Ventilation Fan Electric Energy
+
+ For Meter=Fans:Electricity:Zone:120497 [J], ResourceType=Electricity, EndUse=Fans, Group=Zone, contents are:
+  120497:Zone Ventilation Fan Electric Energy
+
+ For Meter=Fans:Electricity:Zone:120506 [J], ResourceType=Electricity, EndUse=Fans, Group=Zone, contents are:
+  120506:Zone Ventilation Fan Electric Energy
+
+ For Meter=Fans:Electricity:Zone:120515 [J], ResourceType=Electricity, EndUse=Fans, Group=Zone, contents are:
+  120515:Zone Ventilation Fan Electric Energy
+
+ For Meter=EnergyTransfer:Facility [J], ResourceType=EnergyTransfer, contents are:
+  118363:Zone Air System Sensible Heating Energy
+  118363:Zone Air System Sensible Cooling Energy
+  118374:Zone Air System Sensible Heating Energy
+  118374:Zone Air System Sensible Cooling Energy
+  118411:Zone Air System Sensible Heating Energy
+  118411:Zone Air System Sensible Cooling Energy
+  118418:Zone Air System Sensible Heating Energy
+  118418:Zone Air System Sensible Cooling Energy
+  118425:Zone Air System Sensible Heating Energy
+  118425:Zone Air System Sensible Cooling Energy
+  118432:Zone Air System Sensible Heating Energy
+  118432:Zone Air System Sensible Cooling Energy
+  118439:Zone Air System Sensible Heating Energy
+  118439:Zone Air System Sensible Cooling Energy
+  118446:Zone Air System Sensible Heating Energy
+  118446:Zone Air System Sensible Cooling Energy
+  118453:Zone Air System Sensible Heating Energy
+  118453:Zone Air System Sensible Cooling Energy
+  118460:Zone Air System Sensible Heating Energy
+  118460:Zone Air System Sensible Cooling Energy
+  118467:Zone Air System Sensible Heating Energy
+  118467:Zone Air System Sensible Cooling Energy
+  118474:Zone Air System Sensible Heating Energy
+  118474:Zone Air System Sensible Cooling Energy
+  118481:Zone Air System Sensible Heating Energy
+  118481:Zone Air System Sensible Cooling Energy
+  118488:Zone Air System Sensible Heating Energy
+  118488:Zone Air System Sensible Cooling Energy
+  120563:Zone Air System Sensible Heating Energy
+  120563:Zone Air System Sensible Cooling Energy
+  120605:Zone Air System Sensible Heating Energy
+  120605:Zone Air System Sensible Cooling Energy
+  120614:Zone Air System Sensible Heating Energy
+  120614:Zone Air System Sensible Cooling Energy
+  120623:Zone Air System Sensible Heating Energy
+  120623:Zone Air System Sensible Cooling Energy
+  120632:Zone Air System Sensible Heating Energy
+  120632:Zone Air System Sensible Cooling Energy
+  120641:Zone Air System Sensible Heating Energy
+  120641:Zone Air System Sensible Cooling Energy
+  120650:Zone Air System Sensible Heating Energy
+  120650:Zone Air System Sensible Cooling Energy
+  120659:Zone Air System Sensible Heating Energy
+  120659:Zone Air System Sensible Cooling Energy
+  120668:Zone Air System Sensible Heating Energy
+  120668:Zone Air System Sensible Cooling Energy
+  120681:Zone Air System Sensible Heating Energy
+  120681:Zone Air System Sensible Cooling Energy
+  120428:Zone Air System Sensible Heating Energy
+  120428:Zone Air System Sensible Cooling Energy
+  120466:Zone Air System Sensible Heating Energy
+  120466:Zone Air System Sensible Cooling Energy
+  120475:Zone Air System Sensible Heating Energy
+  120475:Zone Air System Sensible Cooling Energy
+  120484:Zone Air System Sensible Heating Energy
+  120484:Zone Air System Sensible Cooling Energy
+  120497:Zone Air System Sensible Heating Energy
+  120497:Zone Air System Sensible Cooling Energy
+  120506:Zone Air System Sensible Heating Energy
+  120506:Zone Air System Sensible Cooling Energy
+  120515:Zone Air System Sensible Heating Energy
+  120515:Zone Air System Sensible Cooling Energy
+
+ For Meter=EnergyTransfer:Building [J], ResourceType=EnergyTransfer, Group=Building, contents are:
+  118363:Zone Air System Sensible Heating Energy
+  118363:Zone Air System Sensible Cooling Energy
+  118374:Zone Air System Sensible Heating Energy
+  118374:Zone Air System Sensible Cooling Energy
+  118411:Zone Air System Sensible Heating Energy
+  118411:Zone Air System Sensible Cooling Energy
+  118418:Zone Air System Sensible Heating Energy
+  118418:Zone Air System Sensible Cooling Energy
+  118425:Zone Air System Sensible Heating Energy
+  118425:Zone Air System Sensible Cooling Energy
+  118432:Zone Air System Sensible Heating Energy
+  118432:Zone Air System Sensible Cooling Energy
+  118439:Zone Air System Sensible Heating Energy
+  118439:Zone Air System Sensible Cooling Energy
+  118446:Zone Air System Sensible Heating Energy
+  118446:Zone Air System Sensible Cooling Energy
+  118453:Zone Air System Sensible Heating Energy
+  118453:Zone Air System Sensible Cooling Energy
+  118460:Zone Air System Sensible Heating Energy
+  118460:Zone Air System Sensible Cooling Energy
+  118467:Zone Air System Sensible Heating Energy
+  118467:Zone Air System Sensible Cooling Energy
+  118474:Zone Air System Sensible Heating Energy
+  118474:Zone Air System Sensible Cooling Energy
+  118481:Zone Air System Sensible Heating Energy
+  118481:Zone Air System Sensible Cooling Energy
+  118488:Zone Air System Sensible Heating Energy
+  118488:Zone Air System Sensible Cooling Energy
+  120563:Zone Air System Sensible Heating Energy
+  120563:Zone Air System Sensible Cooling Energy
+  120605:Zone Air System Sensible Heating Energy
+  120605:Zone Air System Sensible Cooling Energy
+  120614:Zone Air System Sensible Heating Energy
+  120614:Zone Air System Sensible Cooling Energy
+  120623:Zone Air System Sensible Heating Energy
+  120623:Zone Air System Sensible Cooling Energy
+  120632:Zone Air System Sensible Heating Energy
+  120632:Zone Air System Sensible Cooling Energy
+  120641:Zone Air System Sensible Heating Energy
+  120641:Zone Air System Sensible Cooling Energy
+  120650:Zone Air System Sensible Heating Energy
+  120650:Zone Air System Sensible Cooling Energy
+  120659:Zone Air System Sensible Heating Energy
+  120659:Zone Air System Sensible Cooling Energy
+  120668:Zone Air System Sensible Heating Energy
+  120668:Zone Air System Sensible Cooling Energy
+  120681:Zone Air System Sensible Heating Energy
+  120681:Zone Air System Sensible Cooling Energy
+  120428:Zone Air System Sensible Heating Energy
+  120428:Zone Air System Sensible Cooling Energy
+  120466:Zone Air System Sensible Heating Energy
+  120466:Zone Air System Sensible Cooling Energy
+  120475:Zone Air System Sensible Heating Energy
+  120475:Zone Air System Sensible Cooling Energy
+  120484:Zone Air System Sensible Heating Energy
+  120484:Zone Air System Sensible Cooling Energy
+  120497:Zone Air System Sensible Heating Energy
+  120497:Zone Air System Sensible Cooling Energy
+  120506:Zone Air System Sensible Heating Energy
+  120506:Zone Air System Sensible Cooling Energy
+  120515:Zone Air System Sensible Heating Energy
+  120515:Zone Air System Sensible Cooling Energy
+
+ For Meter=EnergyTransfer:Zone:118363 [J], ResourceType=EnergyTransfer, Group=Zone, contents are:
+  118363:Zone Air System Sensible Heating Energy
+  118363:Zone Air System Sensible Cooling Energy
+
+ For Meter=Heating:EnergyTransfer [J], ResourceType=EnergyTransfer, EndUse=Heating, contents are:
+  118363:Zone Air System Sensible Heating Energy
+  118374:Zone Air System Sensible Heating Energy
+  118411:Zone Air System Sensible Heating Energy
+  118418:Zone Air System Sensible Heating Energy
+  118425:Zone Air System Sensible Heating Energy
+  118432:Zone Air System Sensible Heating Energy
+  118439:Zone Air System Sensible Heating Energy
+  118446:Zone Air System Sensible Heating Energy
+  118453:Zone Air System Sensible Heating Energy
+  118460:Zone Air System Sensible Heating Energy
+  118467:Zone Air System Sensible Heating Energy
+  118474:Zone Air System Sensible Heating Energy
+  118481:Zone Air System Sensible Heating Energy
+  118488:Zone Air System Sensible Heating Energy
+  120563:Zone Air System Sensible Heating Energy
+  120605:Zone Air System Sensible Heating Energy
+  120614:Zone Air System Sensible Heating Energy
+  120623:Zone Air System Sensible Heating Energy
+  120632:Zone Air System Sensible Heating Energy
+  120641:Zone Air System Sensible Heating Energy
+  120650:Zone Air System Sensible Heating Energy
+  120659:Zone Air System Sensible Heating Energy
+  120668:Zone Air System Sensible Heating Energy
+  120681:Zone Air System Sensible Heating Energy
+  120428:Zone Air System Sensible Heating Energy
+  120466:Zone Air System Sensible Heating Energy
+  120475:Zone Air System Sensible Heating Energy
+  120484:Zone Air System Sensible Heating Energy
+  120497:Zone Air System Sensible Heating Energy
+  120506:Zone Air System Sensible Heating Energy
+  120515:Zone Air System Sensible Heating Energy
+
+ For Meter=Heating:EnergyTransfer:Zone:118363 [J], ResourceType=EnergyTransfer, EndUse=Heating, Group=Zone, contents are:
+  118363:Zone Air System Sensible Heating Energy
+
+ For Meter=Cooling:EnergyTransfer [J], ResourceType=EnergyTransfer, EndUse=Cooling, contents are:
+  118363:Zone Air System Sensible Cooling Energy
+  118374:Zone Air System Sensible Cooling Energy
+  118411:Zone Air System Sensible Cooling Energy
+  118418:Zone Air System Sensible Cooling Energy
+  118425:Zone Air System Sensible Cooling Energy
+  118432:Zone Air System Sensible Cooling Energy
+  118439:Zone Air System Sensible Cooling Energy
+  118446:Zone Air System Sensible Cooling Energy
+  118453:Zone Air System Sensible Cooling Energy
+  118460:Zone Air System Sensible Cooling Energy
+  118467:Zone Air System Sensible Cooling Energy
+  118474:Zone Air System Sensible Cooling Energy
+  118481:Zone Air System Sensible Cooling Energy
+  118488:Zone Air System Sensible Cooling Energy
+  120563:Zone Air System Sensible Cooling Energy
+  120605:Zone Air System Sensible Cooling Energy
+  120614:Zone Air System Sensible Cooling Energy
+  120623:Zone Air System Sensible Cooling Energy
+  120632:Zone Air System Sensible Cooling Energy
+  120641:Zone Air System Sensible Cooling Energy
+  120650:Zone Air System Sensible Cooling Energy
+  120659:Zone Air System Sensible Cooling Energy
+  120668:Zone Air System Sensible Cooling Energy
+  120681:Zone Air System Sensible Cooling Energy
+  120428:Zone Air System Sensible Cooling Energy
+  120466:Zone Air System Sensible Cooling Energy
+  120475:Zone Air System Sensible Cooling Energy
+  120484:Zone Air System Sensible Cooling Energy
+  120497:Zone Air System Sensible Cooling Energy
+  120506:Zone Air System Sensible Cooling Energy
+  120515:Zone Air System Sensible Cooling Energy
+
+ For Meter=Cooling:EnergyTransfer:Zone:118363 [J], ResourceType=EnergyTransfer, EndUse=Cooling, Group=Zone, contents are:
+  118363:Zone Air System Sensible Cooling Energy
+
+ For Meter=EnergyTransfer:Zone:118374 [J], ResourceType=EnergyTransfer, Group=Zone, contents are:
+  118374:Zone Air System Sensible Heating Energy
+  118374:Zone Air System Sensible Cooling Energy
+
+ For Meter=Heating:EnergyTransfer:Zone:118374 [J], ResourceType=EnergyTransfer, EndUse=Heating, Group=Zone, contents are:
+  118374:Zone Air System Sensible Heating Energy
+
+ For Meter=Cooling:EnergyTransfer:Zone:118374 [J], ResourceType=EnergyTransfer, EndUse=Cooling, Group=Zone, contents are:
+  118374:Zone Air System Sensible Cooling Energy
+
+ For Meter=EnergyTransfer:Zone:118411 [J], ResourceType=EnergyTransfer, Group=Zone, contents are:
+  118411:Zone Air System Sensible Heating Energy
+  118411:Zone Air System Sensible Cooling Energy
+
+ For Meter=Heating:EnergyTransfer:Zone:118411 [J], ResourceType=EnergyTransfer, EndUse=Heating, Group=Zone, contents are:
+  118411:Zone Air System Sensible Heating Energy
+
+ For Meter=Cooling:EnergyTransfer:Zone:118411 [J], ResourceType=EnergyTransfer, EndUse=Cooling, Group=Zone, contents are:
+  118411:Zone Air System Sensible Cooling Energy
+
+ For Meter=EnergyTransfer:Zone:118418 [J], ResourceType=EnergyTransfer, Group=Zone, contents are:
+  118418:Zone Air System Sensible Heating Energy
+  118418:Zone Air System Sensible Cooling Energy
+
+ For Meter=Heating:EnergyTransfer:Zone:118418 [J], ResourceType=EnergyTransfer, EndUse=Heating, Group=Zone, contents are:
+  118418:Zone Air System Sensible Heating Energy
+
+ For Meter=Cooling:EnergyTransfer:Zone:118418 [J], ResourceType=EnergyTransfer, EndUse=Cooling, Group=Zone, contents are:
+  118418:Zone Air System Sensible Cooling Energy
+
+ For Meter=EnergyTransfer:Zone:118425 [J], ResourceType=EnergyTransfer, Group=Zone, contents are:
+  118425:Zone Air System Sensible Heating Energy
+  118425:Zone Air System Sensible Cooling Energy
+
+ For Meter=Heating:EnergyTransfer:Zone:118425 [J], ResourceType=EnergyTransfer, EndUse=Heating, Group=Zone, contents are:
+  118425:Zone Air System Sensible Heating Energy
+
+ For Meter=Cooling:EnergyTransfer:Zone:118425 [J], ResourceType=EnergyTransfer, EndUse=Cooling, Group=Zone, contents are:
+  118425:Zone Air System Sensible Cooling Energy
+
+ For Meter=EnergyTransfer:Zone:118432 [J], ResourceType=EnergyTransfer, Group=Zone, contents are:
+  118432:Zone Air System Sensible Heating Energy
+  118432:Zone Air System Sensible Cooling Energy
+
+ For Meter=Heating:EnergyTransfer:Zone:118432 [J], ResourceType=EnergyTransfer, EndUse=Heating, Group=Zone, contents are:
+  118432:Zone Air System Sensible Heating Energy
+
+ For Meter=Cooling:EnergyTransfer:Zone:118432 [J], ResourceType=EnergyTransfer, EndUse=Cooling, Group=Zone, contents are:
+  118432:Zone Air System Sensible Cooling Energy
+
+ For Meter=EnergyTransfer:Zone:118439 [J], ResourceType=EnergyTransfer, Group=Zone, contents are:
+  118439:Zone Air System Sensible Heating Energy
+  118439:Zone Air System Sensible Cooling Energy
+
+ For Meter=Heating:EnergyTransfer:Zone:118439 [J], ResourceType=EnergyTransfer, EndUse=Heating, Group=Zone, contents are:
+  118439:Zone Air System Sensible Heating Energy
+
+ For Meter=Cooling:EnergyTransfer:Zone:118439 [J], ResourceType=EnergyTransfer, EndUse=Cooling, Group=Zone, contents are:
+  118439:Zone Air System Sensible Cooling Energy
+
+ For Meter=EnergyTransfer:Zone:118446 [J], ResourceType=EnergyTransfer, Group=Zone, contents are:
+  118446:Zone Air System Sensible Heating Energy
+  118446:Zone Air System Sensible Cooling Energy
+
+ For Meter=Heating:EnergyTransfer:Zone:118446 [J], ResourceType=EnergyTransfer, EndUse=Heating, Group=Zone, contents are:
+  118446:Zone Air System Sensible Heating Energy
+
+ For Meter=Cooling:EnergyTransfer:Zone:118446 [J], ResourceType=EnergyTransfer, EndUse=Cooling, Group=Zone, contents are:
+  118446:Zone Air System Sensible Cooling Energy
+
+ For Meter=EnergyTransfer:Zone:118453 [J], ResourceType=EnergyTransfer, Group=Zone, contents are:
+  118453:Zone Air System Sensible Heating Energy
+  118453:Zone Air System Sensible Cooling Energy
+
+ For Meter=Heating:EnergyTransfer:Zone:118453 [J], ResourceType=EnergyTransfer, EndUse=Heating, Group=Zone, contents are:
+  118453:Zone Air System Sensible Heating Energy
+
+ For Meter=Cooling:EnergyTransfer:Zone:118453 [J], ResourceType=EnergyTransfer, EndUse=Cooling, Group=Zone, contents are:
+  118453:Zone Air System Sensible Cooling Energy
+
+ For Meter=EnergyTransfer:Zone:118460 [J], ResourceType=EnergyTransfer, Group=Zone, contents are:
+  118460:Zone Air System Sensible Heating Energy
+  118460:Zone Air System Sensible Cooling Energy
+
+ For Meter=Heating:EnergyTransfer:Zone:118460 [J], ResourceType=EnergyTransfer, EndUse=Heating, Group=Zone, contents are:
+  118460:Zone Air System Sensible Heating Energy
+
+ For Meter=Cooling:EnergyTransfer:Zone:118460 [J], ResourceType=EnergyTransfer, EndUse=Cooling, Group=Zone, contents are:
+  118460:Zone Air System Sensible Cooling Energy
+
+ For Meter=EnergyTransfer:Zone:118467 [J], ResourceType=EnergyTransfer, Group=Zone, contents are:
+  118467:Zone Air System Sensible Heating Energy
+  118467:Zone Air System Sensible Cooling Energy
+
+ For Meter=Heating:EnergyTransfer:Zone:118467 [J], ResourceType=EnergyTransfer, EndUse=Heating, Group=Zone, contents are:
+  118467:Zone Air System Sensible Heating Energy
+
+ For Meter=Cooling:EnergyTransfer:Zone:118467 [J], ResourceType=EnergyTransfer, EndUse=Cooling, Group=Zone, contents are:
+  118467:Zone Air System Sensible Cooling Energy
+
+ For Meter=EnergyTransfer:Zone:118474 [J], ResourceType=EnergyTransfer, Group=Zone, contents are:
+  118474:Zone Air System Sensible Heating Energy
+  118474:Zone Air System Sensible Cooling Energy
+
+ For Meter=Heating:EnergyTransfer:Zone:118474 [J], ResourceType=EnergyTransfer, EndUse=Heating, Group=Zone, contents are:
+  118474:Zone Air System Sensible Heating Energy
+
+ For Meter=Cooling:EnergyTransfer:Zone:118474 [J], ResourceType=EnergyTransfer, EndUse=Cooling, Group=Zone, contents are:
+  118474:Zone Air System Sensible Cooling Energy
+
+ For Meter=EnergyTransfer:Zone:118481 [J], ResourceType=EnergyTransfer, Group=Zone, contents are:
+  118481:Zone Air System Sensible Heating Energy
+  118481:Zone Air System Sensible Cooling Energy
+
+ For Meter=Heating:EnergyTransfer:Zone:118481 [J], ResourceType=EnergyTransfer, EndUse=Heating, Group=Zone, contents are:
+  118481:Zone Air System Sensible Heating Energy
+
+ For Meter=Cooling:EnergyTransfer:Zone:118481 [J], ResourceType=EnergyTransfer, EndUse=Cooling, Group=Zone, contents are:
+  118481:Zone Air System Sensible Cooling Energy
+
+ For Meter=EnergyTransfer:Zone:118488 [J], ResourceType=EnergyTransfer, Group=Zone, contents are:
+  118488:Zone Air System Sensible Heating Energy
+  118488:Zone Air System Sensible Cooling Energy
+
+ For Meter=Heating:EnergyTransfer:Zone:118488 [J], ResourceType=EnergyTransfer, EndUse=Heating, Group=Zone, contents are:
+  118488:Zone Air System Sensible Heating Energy
+
+ For Meter=Cooling:EnergyTransfer:Zone:118488 [J], ResourceType=EnergyTransfer, EndUse=Cooling, Group=Zone, contents are:
+  118488:Zone Air System Sensible Cooling Energy
+
+ For Meter=EnergyTransfer:Zone:120563 [J], ResourceType=EnergyTransfer, Group=Zone, contents are:
+  120563:Zone Air System Sensible Heating Energy
+  120563:Zone Air System Sensible Cooling Energy
+
+ For Meter=Heating:EnergyTransfer:Zone:120563 [J], ResourceType=EnergyTransfer, EndUse=Heating, Group=Zone, contents are:
+  120563:Zone Air System Sensible Heating Energy
+
+ For Meter=Cooling:EnergyTransfer:Zone:120563 [J], ResourceType=EnergyTransfer, EndUse=Cooling, Group=Zone, contents are:
+  120563:Zone Air System Sensible Cooling Energy
+
+ For Meter=EnergyTransfer:Zone:120605 [J], ResourceType=EnergyTransfer, Group=Zone, contents are:
+  120605:Zone Air System Sensible Heating Energy
+  120605:Zone Air System Sensible Cooling Energy
+
+ For Meter=Heating:EnergyTransfer:Zone:120605 [J], ResourceType=EnergyTransfer, EndUse=Heating, Group=Zone, contents are:
+  120605:Zone Air System Sensible Heating Energy
+
+ For Meter=Cooling:EnergyTransfer:Zone:120605 [J], ResourceType=EnergyTransfer, EndUse=Cooling, Group=Zone, contents are:
+  120605:Zone Air System Sensible Cooling Energy
+
+ For Meter=EnergyTransfer:Zone:120614 [J], ResourceType=EnergyTransfer, Group=Zone, contents are:
+  120614:Zone Air System Sensible Heating Energy
+  120614:Zone Air System Sensible Cooling Energy
+
+ For Meter=Heating:EnergyTransfer:Zone:120614 [J], ResourceType=EnergyTransfer, EndUse=Heating, Group=Zone, contents are:
+  120614:Zone Air System Sensible Heating Energy
+
+ For Meter=Cooling:EnergyTransfer:Zone:120614 [J], ResourceType=EnergyTransfer, EndUse=Cooling, Group=Zone, contents are:
+  120614:Zone Air System Sensible Cooling Energy
+
+ For Meter=EnergyTransfer:Zone:120623 [J], ResourceType=EnergyTransfer, Group=Zone, contents are:
+  120623:Zone Air System Sensible Heating Energy
+  120623:Zone Air System Sensible Cooling Energy
+
+ For Meter=Heating:EnergyTransfer:Zone:120623 [J], ResourceType=EnergyTransfer, EndUse=Heating, Group=Zone, contents are:
+  120623:Zone Air System Sensible Heating Energy
+
+ For Meter=Cooling:EnergyTransfer:Zone:120623 [J], ResourceType=EnergyTransfer, EndUse=Cooling, Group=Zone, contents are:
+  120623:Zone Air System Sensible Cooling Energy
+
+ For Meter=EnergyTransfer:Zone:120632 [J], ResourceType=EnergyTransfer, Group=Zone, contents are:
+  120632:Zone Air System Sensible Heating Energy
+  120632:Zone Air System Sensible Cooling Energy
+
+ For Meter=Heating:EnergyTransfer:Zone:120632 [J], ResourceType=EnergyTransfer, EndUse=Heating, Group=Zone, contents are:
+  120632:Zone Air System Sensible Heating Energy
+
+ For Meter=Cooling:EnergyTransfer:Zone:120632 [J], ResourceType=EnergyTransfer, EndUse=Cooling, Group=Zone, contents are:
+  120632:Zone Air System Sensible Cooling Energy
+
+ For Meter=EnergyTransfer:Zone:120641 [J], ResourceType=EnergyTransfer, Group=Zone, contents are:
+  120641:Zone Air System Sensible Heating Energy
+  120641:Zone Air System Sensible Cooling Energy
+
+ For Meter=Heating:EnergyTransfer:Zone:120641 [J], ResourceType=EnergyTransfer, EndUse=Heating, Group=Zone, contents are:
+  120641:Zone Air System Sensible Heating Energy
+
+ For Meter=Cooling:EnergyTransfer:Zone:120641 [J], ResourceType=EnergyTransfer, EndUse=Cooling, Group=Zone, contents are:
+  120641:Zone Air System Sensible Cooling Energy
+
+ For Meter=EnergyTransfer:Zone:120650 [J], ResourceType=EnergyTransfer, Group=Zone, contents are:
+  120650:Zone Air System Sensible Heating Energy
+  120650:Zone Air System Sensible Cooling Energy
+
+ For Meter=Heating:EnergyTransfer:Zone:120650 [J], ResourceType=EnergyTransfer, EndUse=Heating, Group=Zone, contents are:
+  120650:Zone Air System Sensible Heating Energy
+
+ For Meter=Cooling:EnergyTransfer:Zone:120650 [J], ResourceType=EnergyTransfer, EndUse=Cooling, Group=Zone, contents are:
+  120650:Zone Air System Sensible Cooling Energy
+
+ For Meter=EnergyTransfer:Zone:120659 [J], ResourceType=EnergyTransfer, Group=Zone, contents are:
+  120659:Zone Air System Sensible Heating Energy
+  120659:Zone Air System Sensible Cooling Energy
+
+ For Meter=Heating:EnergyTransfer:Zone:120659 [J], ResourceType=EnergyTransfer, EndUse=Heating, Group=Zone, contents are:
+  120659:Zone Air System Sensible Heating Energy
+
+ For Meter=Cooling:EnergyTransfer:Zone:120659 [J], ResourceType=EnergyTransfer, EndUse=Cooling, Group=Zone, contents are:
+  120659:Zone Air System Sensible Cooling Energy
+
+ For Meter=EnergyTransfer:Zone:120668 [J], ResourceType=EnergyTransfer, Group=Zone, contents are:
+  120668:Zone Air System Sensible Heating Energy
+  120668:Zone Air System Sensible Cooling Energy
+
+ For Meter=Heating:EnergyTransfer:Zone:120668 [J], ResourceType=EnergyTransfer, EndUse=Heating, Group=Zone, contents are:
+  120668:Zone Air System Sensible Heating Energy
+
+ For Meter=Cooling:EnergyTransfer:Zone:120668 [J], ResourceType=EnergyTransfer, EndUse=Cooling, Group=Zone, contents are:
+  120668:Zone Air System Sensible Cooling Energy
+
+ For Meter=EnergyTransfer:Zone:120681 [J], ResourceType=EnergyTransfer, Group=Zone, contents are:
+  120681:Zone Air System Sensible Heating Energy
+  120681:Zone Air System Sensible Cooling Energy
+
+ For Meter=Heating:EnergyTransfer:Zone:120681 [J], ResourceType=EnergyTransfer, EndUse=Heating, Group=Zone, contents are:
+  120681:Zone Air System Sensible Heating Energy
+
+ For Meter=Cooling:EnergyTransfer:Zone:120681 [J], ResourceType=EnergyTransfer, EndUse=Cooling, Group=Zone, contents are:
+  120681:Zone Air System Sensible Cooling Energy
+
+ For Meter=EnergyTransfer:Zone:120428 [J], ResourceType=EnergyTransfer, Group=Zone, contents are:
+  120428:Zone Air System Sensible Heating Energy
+  120428:Zone Air System Sensible Cooling Energy
+
+ For Meter=Heating:EnergyTransfer:Zone:120428 [J], ResourceType=EnergyTransfer, EndUse=Heating, Group=Zone, contents are:
+  120428:Zone Air System Sensible Heating Energy
+
+ For Meter=Cooling:EnergyTransfer:Zone:120428 [J], ResourceType=EnergyTransfer, EndUse=Cooling, Group=Zone, contents are:
+  120428:Zone Air System Sensible Cooling Energy
+
+ For Meter=EnergyTransfer:Zone:120466 [J], ResourceType=EnergyTransfer, Group=Zone, contents are:
+  120466:Zone Air System Sensible Heating Energy
+  120466:Zone Air System Sensible Cooling Energy
+
+ For Meter=Heating:EnergyTransfer:Zone:120466 [J], ResourceType=EnergyTransfer, EndUse=Heating, Group=Zone, contents are:
+  120466:Zone Air System Sensible Heating Energy
+
+ For Meter=Cooling:EnergyTransfer:Zone:120466 [J], ResourceType=EnergyTransfer, EndUse=Cooling, Group=Zone, contents are:
+  120466:Zone Air System Sensible Cooling Energy
+
+ For Meter=EnergyTransfer:Zone:120475 [J], ResourceType=EnergyTransfer, Group=Zone, contents are:
+  120475:Zone Air System Sensible Heating Energy
+  120475:Zone Air System Sensible Cooling Energy
+
+ For Meter=Heating:EnergyTransfer:Zone:120475 [J], ResourceType=EnergyTransfer, EndUse=Heating, Group=Zone, contents are:
+  120475:Zone Air System Sensible Heating Energy
+
+ For Meter=Cooling:EnergyTransfer:Zone:120475 [J], ResourceType=EnergyTransfer, EndUse=Cooling, Group=Zone, contents are:
+  120475:Zone Air System Sensible Cooling Energy
+
+ For Meter=EnergyTransfer:Zone:120484 [J], ResourceType=EnergyTransfer, Group=Zone, contents are:
+  120484:Zone Air System Sensible Heating Energy
+  120484:Zone Air System Sensible Cooling Energy
+
+ For Meter=Heating:EnergyTransfer:Zone:120484 [J], ResourceType=EnergyTransfer, EndUse=Heating, Group=Zone, contents are:
+  120484:Zone Air System Sensible Heating Energy
+
+ For Meter=Cooling:EnergyTransfer:Zone:120484 [J], ResourceType=EnergyTransfer, EndUse=Cooling, Group=Zone, contents are:
+  120484:Zone Air System Sensible Cooling Energy
+
+ For Meter=EnergyTransfer:Zone:120497 [J], ResourceType=EnergyTransfer, Group=Zone, contents are:
+  120497:Zone Air System Sensible Heating Energy
+  120497:Zone Air System Sensible Cooling Energy
+
+ For Meter=Heating:EnergyTransfer:Zone:120497 [J], ResourceType=EnergyTransfer, EndUse=Heating, Group=Zone, contents are:
+  120497:Zone Air System Sensible Heating Energy
+
+ For Meter=Cooling:EnergyTransfer:Zone:120497 [J], ResourceType=EnergyTransfer, EndUse=Cooling, Group=Zone, contents are:
+  120497:Zone Air System Sensible Cooling Energy
+
+ For Meter=EnergyTransfer:Zone:120506 [J], ResourceType=EnergyTransfer, Group=Zone, contents are:
+  120506:Zone Air System Sensible Heating Energy
+  120506:Zone Air System Sensible Cooling Energy
+
+ For Meter=Heating:EnergyTransfer:Zone:120506 [J], ResourceType=EnergyTransfer, EndUse=Heating, Group=Zone, contents are:
+  120506:Zone Air System Sensible Heating Energy
+
+ For Meter=Cooling:EnergyTransfer:Zone:120506 [J], ResourceType=EnergyTransfer, EndUse=Cooling, Group=Zone, contents are:
+  120506:Zone Air System Sensible Cooling Energy
+
+ For Meter=EnergyTransfer:Zone:120515 [J], ResourceType=EnergyTransfer, Group=Zone, contents are:
+  120515:Zone Air System Sensible Heating Energy
+  120515:Zone Air System Sensible Cooling Energy
+
+ For Meter=Heating:EnergyTransfer:Zone:120515 [J], ResourceType=EnergyTransfer, EndUse=Heating, Group=Zone, contents are:
+  120515:Zone Air System Sensible Heating Energy
+
+ For Meter=Cooling:EnergyTransfer:Zone:120515 [J], ResourceType=EnergyTransfer, EndUse=Cooling, Group=Zone, contents are:
+  120515:Zone Air System Sensible Cooling Energy
+
+ For Meter=DistrictHeating:Facility [J], ResourceType=DistrictHeating, contents are:
+  ZONE 118363 IDEAL LOADS AIR:Zone Ideal Loads Supply Air Total Heating Energy
+  ZONE 118439 IDEAL LOADS AIR:Zone Ideal Loads Supply Air Total Heating Energy
+  ZONE 118453 IDEAL LOADS AIR:Zone Ideal Loads Supply Air Total Heating Energy
+  ZONE 118460 IDEAL LOADS AIR:Zone Ideal Loads Supply Air Total Heating Energy
+  ZONE 118474 IDEAL LOADS AIR:Zone Ideal Loads Supply Air Total Heating Energy
+  ZONE 118481 IDEAL LOADS AIR:Zone Ideal Loads Supply Air Total Heating Energy
+  ZONE 118488 IDEAL LOADS AIR:Zone Ideal Loads Supply Air Total Heating Energy
+  ZONE 120605 IDEAL LOADS AIR:Zone Ideal Loads Supply Air Total Heating Energy
+  ZONE 120623 IDEAL LOADS AIR:Zone Ideal Loads Supply Air Total Heating Energy
+  ZONE 120632 IDEAL LOADS AIR:Zone Ideal Loads Supply Air Total Heating Energy
+  ZONE 120641 IDEAL LOADS AIR:Zone Ideal Loads Supply Air Total Heating Energy
+  ZONE 120650 IDEAL LOADS AIR:Zone Ideal Loads Supply Air Total Heating Energy
+  ZONE 120659 IDEAL LOADS AIR:Zone Ideal Loads Supply Air Total Heating Energy
+  ZONE 120668 IDEAL LOADS AIR:Zone Ideal Loads Supply Air Total Heating Energy
+  ZONE 120681 IDEAL LOADS AIR:Zone Ideal Loads Supply Air Total Heating Energy
+  ZONE 120475 IDEAL LOADS AIR:Zone Ideal Loads Supply Air Total Heating Energy
+  ZONE 120484 IDEAL LOADS AIR:Zone Ideal Loads Supply Air Total Heating Energy
+  ZONE 120497 IDEAL LOADS AIR:Zone Ideal Loads Supply Air Total Heating Energy
+  ZONE 120506 IDEAL LOADS AIR:Zone Ideal Loads Supply Air Total Heating Energy
+  ZONE 120515 IDEAL LOADS AIR:Zone Ideal Loads Supply Air Total Heating Energy
+  DHW 118446:Water Use Equipment Heating Energy
+
+ For Meter=DistrictHeating:HVAC [J], ResourceType=DistrictHeating, Group=HVAC, contents are:
+  ZONE 118363 IDEAL LOADS AIR:Zone Ideal Loads Supply Air Total Heating Energy
+  ZONE 118439 IDEAL LOADS AIR:Zone Ideal Loads Supply Air Total Heating Energy
+  ZONE 118453 IDEAL LOADS AIR:Zone Ideal Loads Supply Air Total Heating Energy
+  ZONE 118460 IDEAL LOADS AIR:Zone Ideal Loads Supply Air Total Heating Energy
+  ZONE 118474 IDEAL LOADS AIR:Zone Ideal Loads Supply Air Total Heating Energy
+  ZONE 118481 IDEAL LOADS AIR:Zone Ideal Loads Supply Air Total Heating Energy
+  ZONE 118488 IDEAL LOADS AIR:Zone Ideal Loads Supply Air Total Heating Energy
+  ZONE 120605 IDEAL LOADS AIR:Zone Ideal Loads Supply Air Total Heating Energy
+  ZONE 120623 IDEAL LOADS AIR:Zone Ideal Loads Supply Air Total Heating Energy
+  ZONE 120632 IDEAL LOADS AIR:Zone Ideal Loads Supply Air Total Heating Energy
+  ZONE 120641 IDEAL LOADS AIR:Zone Ideal Loads Supply Air Total Heating Energy
+  ZONE 120650 IDEAL LOADS AIR:Zone Ideal Loads Supply Air Total Heating Energy
+  ZONE 120659 IDEAL LOADS AIR:Zone Ideal Loads Supply Air Total Heating Energy
+  ZONE 120668 IDEAL LOADS AIR:Zone Ideal Loads Supply Air Total Heating Energy
+  ZONE 120681 IDEAL LOADS AIR:Zone Ideal Loads Supply Air Total Heating Energy
+  ZONE 120475 IDEAL LOADS AIR:Zone Ideal Loads Supply Air Total Heating Energy
+  ZONE 120484 IDEAL LOADS AIR:Zone Ideal Loads Supply Air Total Heating Energy
+  ZONE 120497 IDEAL LOADS AIR:Zone Ideal Loads Supply Air Total Heating Energy
+  ZONE 120506 IDEAL LOADS AIR:Zone Ideal Loads Supply Air Total Heating Energy
+  ZONE 120515 IDEAL LOADS AIR:Zone Ideal Loads Supply Air Total Heating Energy
+
+ For Meter=Heating:DistrictHeating [J], ResourceType=DistrictHeating, EndUse=Heating, contents are:
+  ZONE 118363 IDEAL LOADS AIR:Zone Ideal Loads Supply Air Total Heating Energy
+  ZONE 118439 IDEAL LOADS AIR:Zone Ideal Loads Supply Air Total Heating Energy
+  ZONE 118453 IDEAL LOADS AIR:Zone Ideal Loads Supply Air Total Heating Energy
+  ZONE 118460 IDEAL LOADS AIR:Zone Ideal Loads Supply Air Total Heating Energy
+  ZONE 118474 IDEAL LOADS AIR:Zone Ideal Loads Supply Air Total Heating Energy
+  ZONE 118481 IDEAL LOADS AIR:Zone Ideal Loads Supply Air Total Heating Energy
+  ZONE 118488 IDEAL LOADS AIR:Zone Ideal Loads Supply Air Total Heating Energy
+  ZONE 120605 IDEAL LOADS AIR:Zone Ideal Loads Supply Air Total Heating Energy
+  ZONE 120623 IDEAL LOADS AIR:Zone Ideal Loads Supply Air Total Heating Energy
+  ZONE 120632 IDEAL LOADS AIR:Zone Ideal Loads Supply Air Total Heating Energy
+  ZONE 120641 IDEAL LOADS AIR:Zone Ideal Loads Supply Air Total Heating Energy
+  ZONE 120650 IDEAL LOADS AIR:Zone Ideal Loads Supply Air Total Heating Energy
+  ZONE 120659 IDEAL LOADS AIR:Zone Ideal Loads Supply Air Total Heating Energy
+  ZONE 120668 IDEAL LOADS AIR:Zone Ideal Loads Supply Air Total Heating Energy
+  ZONE 120681 IDEAL LOADS AIR:Zone Ideal Loads Supply Air Total Heating Energy
+  ZONE 120475 IDEAL LOADS AIR:Zone Ideal Loads Supply Air Total Heating Energy
+  ZONE 120484 IDEAL LOADS AIR:Zone Ideal Loads Supply Air Total Heating Energy
+  ZONE 120497 IDEAL LOADS AIR:Zone Ideal Loads Supply Air Total Heating Energy
+  ZONE 120506 IDEAL LOADS AIR:Zone Ideal Loads Supply Air Total Heating Energy
+  ZONE 120515 IDEAL LOADS AIR:Zone Ideal Loads Supply Air Total Heating Energy
+
+ For Meter=DistrictCooling:Facility [J], ResourceType=DistrictCooling, contents are:
+  ZONE 118363 IDEAL LOADS AIR:Zone Ideal Loads Supply Air Total Cooling Energy
+  ZONE 118439 IDEAL LOADS AIR:Zone Ideal Loads Supply Air Total Cooling Energy
+  ZONE 118453 IDEAL LOADS AIR:Zone Ideal Loads Supply Air Total Cooling Energy
+  ZONE 118460 IDEAL LOADS AIR:Zone Ideal Loads Supply Air Total Cooling Energy
+  ZONE 118474 IDEAL LOADS AIR:Zone Ideal Loads Supply Air Total Cooling Energy
+  ZONE 118481 IDEAL LOADS AIR:Zone Ideal Loads Supply Air Total Cooling Energy
+  ZONE 118488 IDEAL LOADS AIR:Zone Ideal Loads Supply Air Total Cooling Energy
+  ZONE 120605 IDEAL LOADS AIR:Zone Ideal Loads Supply Air Total Cooling Energy
+  ZONE 120623 IDEAL LOADS AIR:Zone Ideal Loads Supply Air Total Cooling Energy
+  ZONE 120632 IDEAL LOADS AIR:Zone Ideal Loads Supply Air Total Cooling Energy
+  ZONE 120641 IDEAL LOADS AIR:Zone Ideal Loads Supply Air Total Cooling Energy
+  ZONE 120650 IDEAL LOADS AIR:Zone Ideal Loads Supply Air Total Cooling Energy
+  ZONE 120659 IDEAL LOADS AIR:Zone Ideal Loads Supply Air Total Cooling Energy
+  ZONE 120668 IDEAL LOADS AIR:Zone Ideal Loads Supply Air Total Cooling Energy
+  ZONE 120681 IDEAL LOADS AIR:Zone Ideal Loads Supply Air Total Cooling Energy
+  ZONE 120475 IDEAL LOADS AIR:Zone Ideal Loads Supply Air Total Cooling Energy
+  ZONE 120484 IDEAL LOADS AIR:Zone Ideal Loads Supply Air Total Cooling Energy
+  ZONE 120497 IDEAL LOADS AIR:Zone Ideal Loads Supply Air Total Cooling Energy
+  ZONE 120506 IDEAL LOADS AIR:Zone Ideal Loads Supply Air Total Cooling Energy
+  ZONE 120515 IDEAL LOADS AIR:Zone Ideal Loads Supply Air Total Cooling Energy
+
+ For Meter=DistrictCooling:HVAC [J], ResourceType=DistrictCooling, Group=HVAC, contents are:
+  ZONE 118363 IDEAL LOADS AIR:Zone Ideal Loads Supply Air Total Cooling Energy
+  ZONE 118439 IDEAL LOADS AIR:Zone Ideal Loads Supply Air Total Cooling Energy
+  ZONE 118453 IDEAL LOADS AIR:Zone Ideal Loads Supply Air Total Cooling Energy
+  ZONE 118460 IDEAL LOADS AIR:Zone Ideal Loads Supply Air Total Cooling Energy
+  ZONE 118474 IDEAL LOADS AIR:Zone Ideal Loads Supply Air Total Cooling Energy
+  ZONE 118481 IDEAL LOADS AIR:Zone Ideal Loads Supply Air Total Cooling Energy
+  ZONE 118488 IDEAL LOADS AIR:Zone Ideal Loads Supply Air Total Cooling Energy
+  ZONE 120605 IDEAL LOADS AIR:Zone Ideal Loads Supply Air Total Cooling Energy
+  ZONE 120623 IDEAL LOADS AIR:Zone Ideal Loads Supply Air Total Cooling Energy
+  ZONE 120632 IDEAL LOADS AIR:Zone Ideal Loads Supply Air Total Cooling Energy
+  ZONE 120641 IDEAL LOADS AIR:Zone Ideal Loads Supply Air Total Cooling Energy
+  ZONE 120650 IDEAL LOADS AIR:Zone Ideal Loads Supply Air Total Cooling Energy
+  ZONE 120659 IDEAL LOADS AIR:Zone Ideal Loads Supply Air Total Cooling Energy
+  ZONE 120668 IDEAL LOADS AIR:Zone Ideal Loads Supply Air Total Cooling Energy
+  ZONE 120681 IDEAL LOADS AIR:Zone Ideal Loads Supply Air Total Cooling Energy
+  ZONE 120475 IDEAL LOADS AIR:Zone Ideal Loads Supply Air Total Cooling Energy
+  ZONE 120484 IDEAL LOADS AIR:Zone Ideal Loads Supply Air Total Cooling Energy
+  ZONE 120497 IDEAL LOADS AIR:Zone Ideal Loads Supply Air Total Cooling Energy
+  ZONE 120506 IDEAL LOADS AIR:Zone Ideal Loads Supply Air Total Cooling Energy
+  ZONE 120515 IDEAL LOADS AIR:Zone Ideal Loads Supply Air Total Cooling Energy
+
+ For Meter=Cooling:DistrictCooling [J], ResourceType=DistrictCooling, EndUse=Cooling, contents are:
+  ZONE 118363 IDEAL LOADS AIR:Zone Ideal Loads Supply Air Total Cooling Energy
+  ZONE 118439 IDEAL LOADS AIR:Zone Ideal Loads Supply Air Total Cooling Energy
+  ZONE 118453 IDEAL LOADS AIR:Zone Ideal Loads Supply Air Total Cooling Energy
+  ZONE 118460 IDEAL LOADS AIR:Zone Ideal Loads Supply Air Total Cooling Energy
+  ZONE 118474 IDEAL LOADS AIR:Zone Ideal Loads Supply Air Total Cooling Energy
+  ZONE 118481 IDEAL LOADS AIR:Zone Ideal Loads Supply Air Total Cooling Energy
+  ZONE 118488 IDEAL LOADS AIR:Zone Ideal Loads Supply Air Total Cooling Energy
+  ZONE 120605 IDEAL LOADS AIR:Zone Ideal Loads Supply Air Total Cooling Energy
+  ZONE 120623 IDEAL LOADS AIR:Zone Ideal Loads Supply Air Total Cooling Energy
+  ZONE 120632 IDEAL LOADS AIR:Zone Ideal Loads Supply Air Total Cooling Energy
+  ZONE 120641 IDEAL LOADS AIR:Zone Ideal Loads Supply Air Total Cooling Energy
+  ZONE 120650 IDEAL LOADS AIR:Zone Ideal Loads Supply Air Total Cooling Energy
+  ZONE 120659 IDEAL LOADS AIR:Zone Ideal Loads Supply Air Total Cooling Energy
+  ZONE 120668 IDEAL LOADS AIR:Zone Ideal Loads Supply Air Total Cooling Energy
+  ZONE 120681 IDEAL LOADS AIR:Zone Ideal Loads Supply Air Total Cooling Energy
+  ZONE 120475 IDEAL LOADS AIR:Zone Ideal Loads Supply Air Total Cooling Energy
+  ZONE 120484 IDEAL LOADS AIR:Zone Ideal Loads Supply Air Total Cooling Energy
+  ZONE 120497 IDEAL LOADS AIR:Zone Ideal Loads Supply Air Total Cooling Energy
+  ZONE 120506 IDEAL LOADS AIR:Zone Ideal Loads Supply Air Total Cooling Energy
+  ZONE 120515 IDEAL LOADS AIR:Zone Ideal Loads Supply Air Total Cooling Energy
+
+ For Meter=Water:Facility [m3], ResourceType=Water, contents are:
+  DHW 118446:Water Use Equipment Total Volume
+
+ For Meter=Water:Plant [m3], ResourceType=Water, Group=Plant, contents are:
+  DHW 118446:Water Use Equipment Total Volume
+
+ For Meter=WaterSystems:Water [m3], ResourceType=Water, EndUse=WaterSystems, contents are:
+  DHW 118446:Water Use Equipment Total Volume
+
+ For Meter=DHW 118446:WaterSystems:Water [m3], ResourceType=Water, EndUse=WaterSystems, contents are:
+  DHW 118446:Water Use Equipment Total Volume
+
+ For Meter=MainsWater:Facility [m3], ResourceType=MainsWater, contents are:
+  DHW 118446:Water Use Equipment Mains Water Volume
+
+ For Meter=MainsWater:Plant [m3], ResourceType=MainsWater, Group=Plant, contents are:
+  DHW 118446:Water Use Equipment Mains Water Volume
+
+ For Meter=WaterSystems:MainsWater [m3], ResourceType=MainsWater, EndUse=WaterSystems, contents are:
+  DHW 118446:Water Use Equipment Mains Water Volume
+
+ For Meter=DHW 118446:WaterSystems:MainsWater [m3], ResourceType=MainsWater, EndUse=WaterSystems, contents are:
+  DHW 118446:Water Use Equipment Mains Water Volume
+
+ For Meter=DistrictHeating:Plant [J], ResourceType=DistrictHeating, Group=Plant, contents are:
+  DHW 118446:Water Use Equipment Heating Energy
+
+ For Meter=WaterSystems:DistrictHeating [J], ResourceType=DistrictHeating, EndUse=WaterSystems, contents are:
+  DHW 118446:Water Use Equipment Heating Energy
+
+ For Meter=DHW 118446:WaterSystems:DistrictHeating [J], ResourceType=DistrictHeating, EndUse=WaterSystems, contents are:
+  DHW 118446:Water Use Equipment Heating Energy
+
+ For Meter=ElectricityPurchased:Facility [J], ResourceType=ElectricityPurchased, contents are:
+  Whole Building:Facility Total Purchased Electric Energy
+
+ For Meter=ElectricityPurchased:Plant [J], ResourceType=ElectricityPurchased, Group=Plant, contents are:
+  Whole Building:Facility Total Purchased Electric Energy
+
+ For Meter=Cogeneration:ElectricityPurchased [J], ResourceType=ElectricityPurchased, EndUse=Cogeneration, contents are:
+  Whole Building:Facility Total Purchased Electric Energy
+
+ For Meter=ElectricitySurplusSold:Facility [J], ResourceType=ElectricitySurplusSold, contents are:
+  Whole Building:Facility Total Surplus Electric Energy
+
+ For Meter=ElectricitySurplusSold:Plant [J], ResourceType=ElectricitySurplusSold, Group=Plant, contents are:
+  Whole Building:Facility Total Surplus Electric Energy
+
+ For Meter=Cogeneration:ElectricitySurplusSold [J], ResourceType=ElectricitySurplusSold, EndUse=Cogeneration, contents are:
+  Whole Building:Facility Total Surplus Electric Energy
+
+ For Meter=ElectricityNet:Facility [J], ResourceType=ElectricityNet, contents are:
+  Whole Building:Facility Net Purchased Electric Energy
+
+ For Meter=ElectricityNet:Plant [J], ResourceType=ElectricityNet, Group=Plant, contents are:
+  Whole Building:Facility Net Purchased Electric Energy
+
+ For Meter=Cogeneration:ElectricityNet [J], ResourceType=ElectricityNet, EndUse=Cogeneration, contents are:
+  Whole Building:Facility Net Purchased Electric Energy
+
+ For Meter=Carbon Equivalent:Facility [kg], ResourceType=Carbon Equivalent, contents are:
+  Site:Environmental Impact Total N2O Emissions Carbon Equivalent Mass
+  Site:Environmental Impact Total CH4 Emissions Carbon Equivalent Mass
+  Site:Environmental Impact Total CO2 Emissions Carbon Equivalent Mass
+
+ For Meter=CarbonEquivalentEmissions:Carbon Equivalent [kg], ResourceType=Carbon Equivalent, EndUse=CarbonEquivalentEmissions, contents are:
+  Site:Environmental Impact Total N2O Emissions Carbon Equivalent Mass
+  Site:Environmental Impact Total CH4 Emissions Carbon Equivalent Mass
+  Site:Environmental Impact Total CO2 Emissions Carbon Equivalent Mass

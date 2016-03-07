@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="lib" path="C:/workspace/SUSCOM/lib/jfreechart-1.0.19-demo.jar"/>
+	<classpathentry kind="lib" path="C:/workspace/SUSCOM/lib/MOEAFramework-2.4.jar"/>
+	<classpathentry kind="lib" path="C:/workspace/SUSCOM/lib/sqljdbc4.jar"/>
+	<classpathentry kind="lib" path="C:/workspace/SUSCOM/lib/dom4j-1.6.1.jar"/>
+	<classpathentry kind="lib" path="C:/workspace/SUSCOM/lib/geronimo-stax-api_1.0_spec-1.0.jar"/>
+	<classpathentry kind="lib" path="C:/workspace/SUSCOM/lib/ooxml-schemas-1.0.jar"/>
+	<classpathentry kind="lib" path="C:/workspace/SUSCOM/lib/poi-3.5-FINAL-20090928.jar"/>
+	<classpathentry kind="lib" path="C:/workspace/SUSCOM/lib/poi-contrib-3.5-FINAL-20090928.jar"/>
+	<classpathentry kind="lib" path="C:/workspace/SUSCOM/lib/poi-ooxml-3.5-FINAL-20090928.jar"/>
+	<classpathentry kind="lib" path="C:/workspace/SUSCOM/lib/poi-scratchpad-3.5-FINAL-20090928.jar"/>
+	<classpathentry kind="lib" path="C:/workspace/SUSCOM/lib/xmlbeans-2.3.0.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

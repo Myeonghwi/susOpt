@@ -1,0 +1,3309 @@
+ Shadowing Combinations
+..Solar Distribution=FullExterior
+..In the following, only the first 10 reference surfaces will be shown.
+..But all surfaces are used in the calculations.
+ ==================================
+ Surface=W_118363_2_0_0 is used as Receiving Surface in calculations and is convex.
+ Number of general casting surfaces=          43
+ ..Surface=W_118363_9_0_0
+ ..Surface=W_118374_3_0_0
+ ..Surface=W_118374_4_0_0
+ ..Surface=W_118374_5_0_0
+ ..Surface=W_118374_7_0_0
+ ..Surface=W_118374_8_0_0
+ ..Surface=W_118374_9_0_0
+ ..Surface=W_118374_25_0_0
+ ..Surface=W_118374_34_0_0
+ ..Surface=W_118374_35_0_0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           1
+ ....Surface=D_118363_2_0_0_0_0_0_DOOR
+ ==================================
+ Surface=D_118363_2_0_0_0_0_0_DOOR is not used as Receiving Surface in calculations.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=W_118363_3_0_0 is used as Receiving Surface in calculations and is convex.
+ Number of general casting surfaces=           3
+ ..Surface=W_118411_4_0_0
+ ..Surface=W_120605_4_0_0
+ ..Surface=W_120428_6_0_0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=W_118363_4_0_0 is used as Receiving Surface in calculations and is convex.
+ Number of general casting surfaces=           3
+ ..Surface=W_118363_5_0_0
+ ..Surface=W_120668_5_0_0
+ ..Surface=W_120484_5_0_0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=W_118363_5_0_0 is used as Receiving Surface in calculations and is convex.
+ Number of general casting surfaces=          21
+ ..Surface=W_118363_4_0_0
+ ..Surface=W_118374_4_0_0
+ ..Surface=W_118374_8_0_0
+ ..Surface=W_118374_34_0_0
+ ..Surface=W_118411_4_0_0
+ ..Surface=W_120563_4_0_0
+ ..Surface=W_120563_7_0_0
+ ..Surface=W_120563_8_0_0
+ ..Surface=W_120563_29_0_0
+ ..Surface=W_120563_33_0_0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           1
+ ....Surface=W_118363_5_0_0_0_0_0_WIN
+ ==================================
+ Surface=W_118363_5_0_0_0_0_0_WIN is not used as Receiving Surface in calculations.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=W_118363_6_0_0 is used as Receiving Surface in calculations and is convex.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=W_118363_7_0_0 is used as Receiving Surface in calculations and is convex.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           1
+ ....Surface=W_118363_7_0_0_0_0_0_WIN
+ ==================================
+ Surface=W_118363_7_0_0_0_0_0_WIN is not used as Receiving Surface in calculations.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=P_118363_8_0_0 is not used as Receiving Surface in calculations.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=W_118363_9_0_0 is used as Receiving Surface in calculations and is convex.
+ Number of general casting surfaces=          21
+ ..Surface=W_118363_2_0_0
+ ..Surface=W_118374_4_0_0
+ ..Surface=W_118374_8_0_0
+ ..Surface=W_118374_34_0_0
+ ..Surface=W_118411_4_0_0
+ ..Surface=W_120563_6_0_0
+ ..Surface=W_120563_7_0_0
+ ..Surface=W_120563_8_0_0
+ ..Surface=W_120563_29_0_0
+ ..Surface=W_120563_33_0_0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=S_118363_0_0_0 is not used as Receiving Surface in calculations.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=C_118363_1_0_0 is not used as Receiving Surface in calculations.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=C_118363_1_1_0 is not used as Receiving Surface in calculations.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=W_118374_2_0_0 is used as Receiving Surface in calculations and is convex.
+ Number of general casting surfaces=          12
+ ..Surface=W_118374_25_0_0
+ ..Surface=W_118374_34_0_0
+ ..Surface=W_118374_35_0_0
+ ..Surface=W_118411_4_0_0
+ ..Surface=W_118439_3_0_0
+ ..Surface=W_120563_22_0_0
+ ..Surface=W_120563_29_0_0
+ ..Surface=W_120563_30_0_0
+ ..Surface=W_120605_4_0_0
+ ..Surface=W_120428_6_0_0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=W_118374_3_0_0 is used as Receiving Surface in calculations and is convex.
+ Number of general casting surfaces=           7
+ ..Surface=W_118363_2_0_0
+ ..Surface=W_118411_4_0_0
+ ..Surface=W_120563_2_0_0
+ ..Surface=E_120563_0_3_0
+ ..Surface=W_120605_4_0_0
+ ..Surface=W_120428_6_0_0
+ ..Surface=W_120428_16_0_0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=W_118374_4_0_0 is used as Receiving Surface in calculations and is convex.
+ Number of general casting surfaces=          33
+ ..Surface=W_118363_2_0_0
+ ..Surface=W_118363_5_0_0
+ ..Surface=W_118363_9_0_0
+ ..Surface=W_118374_5_0_0
+ ..Surface=W_118374_6_0_0
+ ..Surface=W_118374_7_0_0
+ ..Surface=W_118374_9_0_0
+ ..Surface=W_118446_3_0_0
+ ..Surface=W_120563_2_0_0
+ ..Surface=W_120563_6_0_0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=W_118374_5_0_0 is used as Receiving Surface in calculations and is convex.
+ Number of general casting surfaces=          21
+ ..Surface=W_118363_2_0_0
+ ..Surface=W_118374_4_0_0
+ ..Surface=W_118374_6_0_0
+ ..Surface=W_118374_34_0_0
+ ..Surface=W_118411_4_0_0
+ ..Surface=W_120563_2_0_0
+ ..Surface=W_120563_6_0_0
+ ..Surface=W_120563_7_0_0
+ ..Surface=W_120563_29_0_0
+ ..Surface=W_120563_33_0_0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           2
+ ....Surface=W_118374_5_0_0_0_0_0_WIN
+ ....Surface=W_118374_5_0_0_1_0_1_WIN
+ ==================================
+ Surface=W_118374_5_0_0_0_0_0_WIN is not used as Receiving Surface in calculations.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=W_118374_5_0_0_1_0_1_WIN is not used as Receiving Surface in calculations.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=W_118374_6_0_0 is used as Receiving Surface in calculations and is convex.
+ Number of general casting surfaces=          18
+ ..Surface=W_118374_4_0_0
+ ..Surface=W_118374_5_0_0
+ ..Surface=W_118374_25_0_0
+ ..Surface=W_118374_34_0_0
+ ..Surface=W_118374_35_0_0
+ ..Surface=W_118411_4_0_0
+ ..Surface=W_118439_3_0_0
+ ..Surface=W_120563_22_0_0
+ ..Surface=W_120563_29_0_0
+ ..Surface=W_120563_30_0_0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=W_118374_7_0_0 is used as Receiving Surface in calculations and is convex.
+ Number of general casting surfaces=          14
+ ..Surface=W_118363_2_0_0
+ ..Surface=W_118374_4_0_0
+ ..Surface=W_118411_4_0_0
+ ..Surface=W_120563_2_0_0
+ ..Surface=W_120563_6_0_0
+ ..Surface=W_120563_7_0_0
+ ..Surface=W_120563_33_0_0
+ ..Surface=E_120563_0_3_0
+ ..Surface=W_120605_4_0_0
+ ..Surface=W_120428_6_0_0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=W_118374_8_0_0 is used as Receiving Surface in calculations and is convex.
+ Number of general casting surfaces=          24
+ ..Surface=W_118363_2_0_0
+ ..Surface=W_118363_5_0_0
+ ..Surface=W_118363_9_0_0
+ ..Surface=W_118374_9_0_0
+ ..Surface=W_118446_3_0_0
+ ..Surface=W_120563_2_0_0
+ ..Surface=W_120563_6_0_0
+ ..Surface=W_120563_7_0_0
+ ..Surface=W_120563_9_0_0
+ ..Surface=W_120563_38_0_0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=W_118374_9_0_0 is used as Receiving Surface in calculations and is convex.
+ Number of general casting surfaces=          23
+ ..Surface=W_118363_2_0_0
+ ..Surface=W_118374_4_0_0
+ ..Surface=W_118374_8_0_0
+ ..Surface=W_118374_34_0_0
+ ..Surface=W_118411_4_0_0
+ ..Surface=W_120563_2_0_0
+ ..Surface=W_120563_6_0_0
+ ..Surface=W_120563_7_0_0
+ ..Surface=W_120563_8_0_0
+ ..Surface=W_120563_29_0_0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           1
+ ....Surface=D_118374_9_0_0_0_0_0_DOOR
+ ==================================
+ Surface=D_118374_9_0_0_0_0_0_DOOR is not used as Receiving Surface in calculations.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=P_118374_10_0_0 is not used as Receiving Surface in calculations.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=W_118374_11_0_0 is used as Receiving Surface in calculations and is convex.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           1
+ ....Surface=D_118374_11_0_0_0_0_0_DOOR
+ ==================================
+ Surface=D_118374_11_0_0_0_0_0_DOOR is not used as Receiving Surface in calculations.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=P_118374_12_0_0 is not used as Receiving Surface in calculations.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=P_118374_13_0_0 is not used as Receiving Surface in calculations.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=P_118374_13_0_0_1_0_1_DOOR is not used as Receiving Surface in calculations.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=P_118374_13_0_0_0_0_0_WIN is not used as Receiving Surface in calculations.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=P_118374_14_0_0 is not used as Receiving Surface in calculations.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=P_118374_14_0_0_0_0_0_DOOR is not used as Receiving Surface in calculations.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=P_118374_14_0_0_1_0_1_WIN is not used as Receiving Surface in calculations.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=P_118374_15_0_0 is not used as Receiving Surface in calculations.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=P_118374_15_0_0_0_0_0_DOOR is not used as Receiving Surface in calculations.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=P_118374_16_0_0 is not used as Receiving Surface in calculations.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=P_118374_16_0_0_0_0_0_DOOR is not used as Receiving Surface in calculations.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=P_118374_16_0_0_2_0_2_DOOR is not used as Receiving Surface in calculations.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=P_118374_16_0_0_4_0_4_DOOR is not used as Receiving Surface in calculations.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=P_118374_16_0_0_6_0_6_DOOR is not used as Receiving Surface in calculations.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=P_118374_16_0_0_8_0_8_DOOR is not used as Receiving Surface in calculations.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=P_118374_16_0_0_1_0_1_WIN is not used as Receiving Surface in calculations.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=P_118374_17_0_0 is not used as Receiving Surface in calculations.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=W_118374_18_0_0 is used as Receiving Surface in calculations and is convex.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           1
+ ....Surface=D_118374_18_0_0_0_0_0_DOOR
+ ==================================
+ Surface=D_118374_18_0_0_0_0_0_DOOR is not used as Receiving Surface in calculations.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=P_118374_19_0_0 is not used as Receiving Surface in calculations.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=P_118374_20_0_0 is not used as Receiving Surface in calculations.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=P_118374_20_0_0_0_0_0_DOOR is not used as Receiving Surface in calculations.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=P_118374_20_0_0_1_0_1_WIN is not used as Receiving Surface in calculations.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=P_118374_21_0_0 is not used as Receiving Surface in calculations.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=P_118374_21_0_0_0_0_0_DOOR is not used as Receiving Surface in calculations.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=P_118374_21_0_0_2_0_2_DOOR is not used as Receiving Surface in calculations.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=P_118374_21_0_0_4_0_4_DOOR is not used as Receiving Surface in calculations.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=P_118374_21_0_0_6_0_6_DOOR is not used as Receiving Surface in calculations.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=P_118374_21_0_0_8_0_8_DOOR is not used as Receiving Surface in calculations.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=P_118374_21_0_0_10_0_10_DOOR is not used as Receiving Surface in calculations.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=P_118374_21_0_0_12_0_12_DOOR is not used as Receiving Surface in calculations.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=P_118374_21_0_0_14_0_14_DOOR is not used as Receiving Surface in calculations.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=P_118374_21_0_0_1_0_1_WIN is not used as Receiving Surface in calculations.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=P_118374_22_0_0 is not used as Receiving Surface in calculations.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=W_118374_23_0_0 is used as Receiving Surface in calculations and is convex.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           1
+ ....Surface=D_118374_23_0_0_0_0_0_DOOR
+ ==================================
+ Surface=D_118374_23_0_0_0_0_0_DOOR is not used as Receiving Surface in calculations.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=P_118374_24_0_0 is not used as Receiving Surface in calculations.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=P_118374_24_0_0_0_0_0_DOOR is not used as Receiving Surface in calculations.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=W_118374_25_0_0 is used as Receiving Surface in calculations and is convex.
+ Number of general casting surfaces=          22
+ ..Surface=W_118363_2_0_0
+ ..Surface=W_118374_2_0_0
+ ..Surface=W_118374_6_0_0
+ ..Surface=W_118374_26_0_0
+ ..Surface=W_118432_2_0_0
+ ..Surface=W_120563_2_0_0
+ ..Surface=W_120563_6_0_0
+ ..Surface=W_120563_7_0_0
+ ..Surface=W_120563_23_0_0
+ ..Surface=W_120563_31_0_0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           2
+ ....Surface=D_118374_25_0_0_7_0_7_DOOR
+ ....Surface=W_118374_25_0_0_0_0_0_WIN
+ ==================================
+ Surface=D_118374_25_0_0_7_0_7_DOOR is not used as Receiving Surface in calculations.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=W_118374_25_0_0_0_0_0_WIN is not used as Receiving Surface in calculations.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=W_118374_26_0_0 is used as Receiving Surface in calculations and is convex.
+ Number of general casting surfaces=           4
+ ..Surface=W_118374_25_0_0
+ ..Surface=W_118439_3_0_0
+ ..Surface=W_120563_22_0_0
+ ..Surface=W_120428_34_0_0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=P_118374_27_0_0 is not used as Receiving Surface in calculations.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=P_118374_28_0_0 is not used as Receiving Surface in calculations.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=W_118374_29_0_0 is used as Receiving Surface in calculations and is convex.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           1
+ ....Surface=D_118374_29_0_0_0_0_0_DOOR
+ ==================================
+ Surface=D_118374_29_0_0_0_0_0_DOOR is not used as Receiving Surface in calculations.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=P_118374_30_0_0 is not used as Receiving Surface in calculations.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=P_118374_31_0_0 is not used as Receiving Surface in calculations.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=P_118374_32_0_0 is not used as Receiving Surface in calculations.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=P_118374_32_0_0_0_0_0_DOOR is not used as Receiving Surface in calculations.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=P_118374_32_0_0_1_0_1_DOOR is not used as Receiving Surface in calculations.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=P_118374_32_0_0_2_0_2_WIN is not used as Receiving Surface in calculations.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=P_118374_33_0_0 is not used as Receiving Surface in calculations.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=W_118374_34_0_0 is used as Receiving Surface in calculations and is convex.
+ Number of general casting surfaces=          36
+ ..Surface=W_118363_2_0_0
+ ..Surface=W_118363_5_0_0
+ ..Surface=W_118363_9_0_0
+ ..Surface=W_118374_2_0_0
+ ..Surface=W_118374_5_0_0
+ ..Surface=W_118374_6_0_0
+ ..Surface=W_118374_9_0_0
+ ..Surface=W_118374_35_0_0
+ ..Surface=W_118446_3_0_0
+ ..Surface=W_120563_2_0_0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=W_118374_35_0_0 is used as Receiving Surface in calculations and is convex.
+ Number of general casting surfaces=          21
+ ..Surface=W_118363_2_0_0
+ ..Surface=W_118374_2_0_0
+ ..Surface=W_118374_6_0_0
+ ..Surface=W_118374_34_0_0
+ ..Surface=W_118411_4_0_0
+ ..Surface=W_120563_2_0_0
+ ..Surface=W_120563_6_0_0
+ ..Surface=W_120563_7_0_0
+ ..Surface=W_120563_29_0_0
+ ..Surface=W_120563_31_0_0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           1
+ ....Surface=W_118374_35_0_0_0_0_0_WIN
+ ==================================
+ Surface=W_118374_35_0_0_0_0_0_WIN is not used as Receiving Surface in calculations.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=S_118374_0_0_0 is not used as Receiving Surface in calculations.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=C_118374_1_0_0 is not used as Receiving Surface in calculations.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=C_118374_1_1_0 is not used as Receiving Surface in calculations.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=P_118411_5_0_10048 is not used as Receiving Surface in calculations.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=P_118411_2_0_0 is not used as Receiving Surface in calculations.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=W_118411_3_0_0 is used as Receiving Surface in calculations and is convex.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           1
+ ....Surface=W_118411_3_0_0_0_0_0_WIN
+ ==================================
+ Surface=W_118411_3_0_0_0_0_0_WIN is not used as Receiving Surface in calculations.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=W_118411_4_0_0 is used as Receiving Surface in calculations and is convex.
+ Number of general casting surfaces=          45
+ ..Surface=W_118363_2_0_0
+ ..Surface=W_118363_3_0_0
+ ..Surface=W_118363_5_0_0
+ ..Surface=W_118363_9_0_0
+ ..Surface=W_118374_2_0_0
+ ..Surface=W_118374_3_0_0
+ ..Surface=W_118374_5_0_0
+ ..Surface=W_118374_6_0_0
+ ..Surface=W_118374_7_0_0
+ ..Surface=W_118374_9_0_0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=S_118411_0_0_0 is not used as Receiving Surface in calculations.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=C_118411_1_0_0 is not used as Receiving Surface in calculations.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=P_118418_5_0_10044 is not used as Receiving Surface in calculations.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=P_118418_5_0_0_0_0_0_DOOR_10046 is not used as Receiving Surface in calculations.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=P_118418_5_0_0_1_0_1_DOOR_10047 is not used as Receiving Surface in calculations.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=P_118418_5_0_0_2_0_2_WIN_10048 is not used as Receiving Surface in calculations.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=P_118418_4_0_10050 is not used as Receiving Surface in calculations.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=P_118418_2_0_0 is not used as Receiving Surface in calculations.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=W_118418_3_0_0 is used as Receiving Surface in calculations and is convex.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           2
+ ....Surface=W_118418_3_0_0_0_0_0_WIN
+ ....Surface=W_118418_3_0_0_1_0_1_WIN
+ ==================================
+ Surface=W_118418_3_0_0_0_0_0_WIN is not used as Receiving Surface in calculations.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=W_118418_3_0_0_1_0_1_WIN is not used as Receiving Surface in calculations.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=S_118418_0_0_0 is not used as Receiving Surface in calculations.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=C_118418_1_0_0 is not used as Receiving Surface in calculations.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=P_118425_2_0_10042 is not used as Receiving Surface in calculations.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=P_118425_5_0_10043 is not used as Receiving Surface in calculations.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=P_118425_4_0_10052 is not used as Receiving Surface in calculations.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=W_118425_3_0_0 is used as Receiving Surface in calculations and is convex.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           1
+ ....Surface=W_118425_3_0_0_0_0_0_WIN
+ ==================================
+ Surface=W_118425_3_0_0_0_0_0_WIN is not used as Receiving Surface in calculations.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=S_118425_0_0_0 is not used as Receiving Surface in calculations.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=C_118425_1_0_0 is not used as Receiving Surface in calculations.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=P_118432_5_0_10040 is not used as Receiving Surface in calculations.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=P_118432_4_0_10041 is not used as Receiving Surface in calculations.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=W_118432_2_0_0 is used as Receiving Surface in calculations and is convex.
+ Number of general casting surfaces=           4
+ ..Surface=W_118374_25_0_0
+ ..Surface=W_118439_3_0_0
+ ..Surface=W_120563_22_0_0
+ ..Surface=W_120428_34_0_0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=W_118432_3_0_0 is used as Receiving Surface in calculations and is convex.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           1
+ ....Surface=W_118432_3_0_0_0_0_0_WIN
+ ==================================
+ Surface=W_118432_3_0_0_0_0_0_WIN is not used as Receiving Surface in calculations.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=S_118432_0_0_0 is not used as Receiving Surface in calculations.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=C_118432_1_0_0 is not used as Receiving Surface in calculations.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=P_118439_4_0_10038 is not used as Receiving Surface in calculations.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=P_118439_4_0_0_0_0_0_DOOR_10040 is not used as Receiving Surface in calculations.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=W_118439_2_0_0 is used as Receiving Surface in calculations and is convex.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=W_118439_3_0_0 is used as Receiving Surface in calculations and is convex.
+ Number of general casting surfaces=          22
+ ..Surface=W_118363_2_0_0
+ ..Surface=W_118374_2_0_0
+ ..Surface=W_118374_6_0_0
+ ..Surface=W_118374_26_0_0
+ ..Surface=W_118432_2_0_0
+ ..Surface=W_120563_2_0_0
+ ..Surface=W_120563_6_0_0
+ ..Surface=W_120563_7_0_0
+ ..Surface=W_120563_23_0_0
+ ..Surface=W_120563_31_0_0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           1
+ ....Surface=W_118439_3_0_0_0_0_0_WIN
+ ==================================
+ Surface=W_118439_3_0_0_0_0_0_WIN is not used as Receiving Surface in calculations.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=W_118439_5_0_0 is used as Receiving Surface in calculations and is convex.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           1
+ ....Surface=W_118439_5_0_0_0_0_0_WIN
+ ==================================
+ Surface=W_118439_5_0_0_0_0_0_WIN is not used as Receiving Surface in calculations.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=S_118439_0_0_0 is not used as Receiving Surface in calculations.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=C_118439_1_0_0 is not used as Receiving Surface in calculations.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=C_118439_1_1_0 is not used as Receiving Surface in calculations.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=P_118446_4_0_10002 is not used as Receiving Surface in calculations.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=P_118446_2_0_10005 is not used as Receiving Surface in calculations.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=W_118446_3_0_0 is used as Receiving Surface in calculations and is convex.
+ Number of general casting surfaces=          21
+ ..Surface=W_118363_2_0_0
+ ..Surface=W_118374_4_0_0
+ ..Surface=W_118374_8_0_0
+ ..Surface=W_118374_34_0_0
+ ..Surface=W_118411_4_0_0
+ ..Surface=W_120563_6_0_0
+ ..Surface=W_120563_7_0_0
+ ..Surface=W_120563_8_0_0
+ ..Surface=W_120563_29_0_0
+ ..Surface=W_120563_33_0_0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           1
+ ....Surface=W_118446_3_0_0_0_0_0_WIN
+ ==================================
+ Surface=W_118446_3_0_0_0_0_0_WIN is not used as Receiving Surface in calculations.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=W_118446_5_0_0 is used as Receiving Surface in calculations and is convex.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           1
+ ....Surface=W_118446_5_0_0_0_0_0_WIN
+ ==================================
+ Surface=W_118446_5_0_0_0_0_0_WIN is not used as Receiving Surface in calculations.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=S_118446_0_0_0 is not used as Receiving Surface in calculations.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=C_118446_1_0_0 is not used as Receiving Surface in calculations.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=P_118453_4_0_10006 is not used as Receiving Surface in calculations.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=P_118453_3_0_10007 is not used as Receiving Surface in calculations.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=P_118453_3_0_0_1_0_1_DOOR_10009 is not used as Receiving Surface in calculations.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=P_118453_3_0_0_0_0_0_WIN_10010 is not used as Receiving Surface in calculations.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=P_118453_2_0_0 is not used as Receiving Surface in calculations.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=W_118453_5_0_0 is used as Receiving Surface in calculations and is convex.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           1
+ ....Surface=W_118453_5_0_0_0_0_0_WIN
+ ==================================
+ Surface=W_118453_5_0_0_0_0_0_WIN is not used as Receiving Surface in calculations.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=S_118453_0_0_0 is not used as Receiving Surface in calculations.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=C_118453_1_0_0 is not used as Receiving Surface in calculations.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=P_118460_3_0_10010 is not used as Receiving Surface in calculations.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=P_118460_3_0_0_0_0_0_DOOR_10012 is not used as Receiving Surface in calculations.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=P_118460_3_0_0_1_0_1_WIN_10013 is not used as Receiving Surface in calculations.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=P_118460_4_0_10059 is not used as Receiving Surface in calculations.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=P_118460_2_0_0 is not used as Receiving Surface in calculations.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=W_118460_5_0_0 is used as Receiving Surface in calculations and is convex.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           1
+ ....Surface=W_118460_5_0_0_0_0_0_WIN
+ ==================================
+ Surface=W_118460_5_0_0_0_0_0_WIN is not used as Receiving Surface in calculations.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=S_118460_0_0_0 is not used as Receiving Surface in calculations.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=C_118460_1_0_0 is not used as Receiving Surface in calculations.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=C_118460_1_1_0 is not used as Receiving Surface in calculations.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=P_118467_3_0_10013 is not used as Receiving Surface in calculations.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=P_118467_3_0_0_0_0_0_DOOR_10015 is not used as Receiving Surface in calculations.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=P_118467_4_0_10062 is not used as Receiving Surface in calculations.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=P_118467_2_0_0 is not used as Receiving Surface in calculations.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=W_118467_5_0_0 is used as Receiving Surface in calculations and is convex.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           1
+ ....Surface=W_118467_5_0_0_0_0_0_WIN
+ ==================================
+ Surface=W_118467_5_0_0_0_0_0_WIN is not used as Receiving Surface in calculations.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=S_118467_0_0_0 is not used as Receiving Surface in calculations.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=C_118467_1_0_0 is not used as Receiving Surface in calculations.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=P_118474_3_0_10015 is not used as Receiving Surface in calculations.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=P_118474_3_0_0_0_0_0_DOOR_10017 is not used as Receiving Surface in calculations.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=P_118474_3_0_0_2_0_2_DOOR_10018 is not used as Receiving Surface in calculations.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=P_118474_3_0_0_4_0_4_DOOR_10019 is not used as Receiving Surface in calculations.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=P_118474_3_0_0_6_0_6_DOOR_10020 is not used as Receiving Surface in calculations.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=P_118474_3_0_0_8_0_8_DOOR_10021 is not used as Receiving Surface in calculations.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=P_118474_3_0_0_1_0_1_WIN_10022 is not used as Receiving Surface in calculations.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=P_118474_2_0_10022 is not used as Receiving Surface in calculations.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=P_118474_4_0_10064 is not used as Receiving Surface in calculations.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=W_118474_5_0_0 is used as Receiving Surface in calculations and is convex.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           2
+ ....Surface=W_118474_5_0_0_0_0_0_WIN
+ ....Surface=W_118474_5_0_0_4_0_4_WIN
+ ==================================
+ Surface=W_118474_5_0_0_0_0_0_WIN is not used as Receiving Surface in calculations.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=W_118474_5_0_0_4_0_4_WIN is not used as Receiving Surface in calculations.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=S_118474_0_0_0 is not used as Receiving Surface in calculations.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=C_118474_1_0_0 is not used as Receiving Surface in calculations.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=C_118474_1_1_0 is not used as Receiving Surface in calculations.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=P_118481_4_0_10023 is not used as Receiving Surface in calculations.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=P_118481_3_0_10024 is not used as Receiving Surface in calculations.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=P_118481_3_0_0_0_0_0_DOOR_10026 is not used as Receiving Surface in calculations.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=P_118481_3_0_0_1_0_1_WIN_10027 is not used as Receiving Surface in calculations.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=P_118481_2_0_0 is not used as Receiving Surface in calculations.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=W_118481_5_0_0 is used as Receiving Surface in calculations and is convex.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           1
+ ....Surface=W_118481_5_0_0_0_0_0_WIN
+ ==================================
+ Surface=W_118481_5_0_0_0_0_0_WIN is not used as Receiving Surface in calculations.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=S_118481_0_0_0 is not used as Receiving Surface in calculations.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=C_118481_1_0_0 is not used as Receiving Surface in calculations.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=P_118488_3_0_10027 is not used as Receiving Surface in calculations.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=P_118488_3_0_0_0_0_0_DOOR_10029 is not used as Receiving Surface in calculations.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=P_118488_3_0_0_2_0_2_DOOR_10030 is not used as Receiving Surface in calculations.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=P_118488_3_0_0_4_0_4_DOOR_10031 is not used as Receiving Surface in calculations.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=P_118488_3_0_0_6_0_6_DOOR_10032 is not used as Receiving Surface in calculations.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=P_118488_3_0_0_8_0_8_DOOR_10033 is not used as Receiving Surface in calculations.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=P_118488_3_0_0_10_0_10_DOOR_10034 is not used as Receiving Surface in calculations.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=P_118488_3_0_0_12_0_12_DOOR_10035 is not used as Receiving Surface in calculations.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=P_118488_3_0_0_14_0_14_DOOR_10036 is not used as Receiving Surface in calculations.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=P_118488_3_0_0_1_0_1_WIN_10037 is not used as Receiving Surface in calculations.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=P_118488_2_0_10037 is not used as Receiving Surface in calculations.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=P_118488_4_0_10068 is not used as Receiving Surface in calculations.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=W_118488_5_0_0 is used as Receiving Surface in calculations and is convex.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           1
+ ....Surface=W_118488_5_0_0_0_0_0_WIN
+ ==================================
+ Surface=W_118488_5_0_0_0_0_0_WIN is not used as Receiving Surface in calculations.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=S_118488_0_0_0 is not used as Receiving Surface in calculations.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=C_118488_1_0_0 is not used as Receiving Surface in calculations.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=W_120563_2_0_0 is used as Receiving Surface in calculations and is convex.
+ Number of general casting surfaces=          19
+ ..Surface=W_120563_22_0_0
+ ..Surface=W_120563_29_0_0
+ ..Surface=W_120563_30_0_0
+ ..Surface=W_120563_32_0_0
+ ..Surface=W_120563_33_0_0
+ ..Surface=W_120563_34_0_0
+ ..Surface=W_120563_36_0_0
+ ..Surface=W_120563_37_0_0
+ ..Surface=W_120563_38_0_0
+ ..Surface=W_120605_4_0_0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=W_120563_3_0_0 is used as Receiving Surface in calculations and is convex.
+ Number of general casting surfaces=           2
+ ..Surface=W_120605_4_0_0
+ ..Surface=W_120428_6_0_0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           1
+ ....Surface=W_120563_3_0_0_0_0_0_WIN
+ ==================================
+ Surface=W_120563_3_0_0_0_0_0_WIN is not used as Receiving Surface in calculations.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=W_120563_4_0_0 is used as Receiving Surface in calculations and is convex.
+ Number of general casting surfaces=           2
+ ..Surface=W_120668_5_0_0
+ ..Surface=W_120484_5_0_0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=P_120563_5_0_0 is not used as Receiving Surface in calculations.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=W_120563_6_0_0 is used as Receiving Surface in calculations and is convex.
+ Number of general casting surfaces=          27
+ ..Surface=W_120563_7_0_0
+ ..Surface=W_120563_8_0_0
+ ..Surface=W_120563_9_0_0
+ ..Surface=W_120563_22_0_0
+ ..Surface=W_120563_29_0_0
+ ..Surface=W_120563_30_0_0
+ ..Surface=W_120563_33_0_0
+ ..Surface=W_120563_34_0_0
+ ..Surface=W_120563_36_0_0
+ ..Surface=W_120563_37_0_0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=W_120563_7_0_0 is used as Receiving Surface in calculations and is convex.
+ Number of general casting surfaces=          31
+ ..Surface=W_120563_6_0_0
+ ..Surface=W_120563_8_0_0
+ ..Surface=W_120563_9_0_0
+ ..Surface=W_120563_22_0_0
+ ..Surface=W_120563_29_0_0
+ ..Surface=W_120563_30_0_0
+ ..Surface=W_120563_33_0_0
+ ..Surface=W_120563_34_0_0
+ ..Surface=W_120563_36_0_0
+ ..Surface=W_120563_37_0_0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=W_120563_8_0_0 is used as Receiving Surface in calculations and is convex.
+ Number of general casting surfaces=          14
+ ..Surface=W_120563_6_0_0
+ ..Surface=W_120563_7_0_0
+ ..Surface=W_120563_9_0_0
+ ..Surface=W_120668_2_0_0
+ ..Surface=W_120668_5_0_0
+ ..Surface=W_120668_9_0_0
+ ..Surface=W_120681_3_0_0
+ ..Surface=W_120428_20_0_0
+ ..Surface=W_120428_21_0_0
+ ..Surface=W_120428_23_0_0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=W_120563_9_0_0 is used as Receiving Surface in calculations and is convex.
+ Number of general casting surfaces=          15
+ ..Surface=W_120563_6_0_0
+ ..Surface=W_120563_7_0_0
+ ..Surface=W_120563_8_0_0
+ ..Surface=W_120563_29_0_0
+ ..Surface=W_120563_33_0_0
+ ..Surface=W_120563_37_0_0
+ ..Surface=W_120605_4_0_0
+ ..Surface=W_120668_2_0_0
+ ..Surface=W_120428_6_0_0
+ ..Surface=W_120428_10_0_0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=P_120563_10_0_0 is not used as Receiving Surface in calculations.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=W_120563_11_0_0 is used as Receiving Surface in calculations and is convex.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           1
+ ....Surface=W_120563_11_0_0_0_0_0_WIN
+ ==================================
+ Surface=W_120563_11_0_0_0_0_0_WIN is not used as Receiving Surface in calculations.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=P_120563_12_0_0 is not used as Receiving Surface in calculations.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=P_120563_13_0_0 is not used as Receiving Surface in calculations.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=P_120563_13_0_0_3_0_3_DOOR is not used as Receiving Surface in calculations.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=P_120563_13_0_0_4_0_4_DOOR is not used as Receiving Surface in calculations.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=P_120563_13_0_0_5_0_5_DOOR is not used as Receiving Surface in calculations.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=P_120563_13_0_0_0_0_0_WIN is not used as Receiving Surface in calculations.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=P_120563_14_0_0 is not used as Receiving Surface in calculations.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=P_120563_14_0_0_0_0_0_DOOR is not used as Receiving Surface in calculations.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=P_120563_14_0_0_1_0_1_WIN is not used as Receiving Surface in calculations.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=P_120563_15_0_0 is not used as Receiving Surface in calculations.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=P_120563_15_0_0_0_0_0_DOOR is not used as Receiving Surface in calculations.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=P_120563_15_0_0_3_0_3_DOOR is not used as Receiving Surface in calculations.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=P_120563_15_0_0_1_0_1_WIN is not used as Receiving Surface in calculations.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=P_120563_16_0_0 is not used as Receiving Surface in calculations.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=P_120563_16_0_0_0_0_0_DOOR is not used as Receiving Surface in calculations.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=P_120563_16_0_0_2_0_2_DOOR is not used as Receiving Surface in calculations.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=P_120563_16_0_0_4_0_4_DOOR is not used as Receiving Surface in calculations.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=P_120563_16_0_0_6_0_6_DOOR is not used as Receiving Surface in calculations.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=P_120563_16_0_0_8_0_8_DOOR is not used as Receiving Surface in calculations.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=P_120563_16_0_0_10_0_10_DOOR is not used as Receiving Surface in calculations.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=P_120563_16_0_0_12_0_12_DOOR is not used as Receiving Surface in calculations.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=P_120563_16_0_0_14_0_14_DOOR is not used as Receiving Surface in calculations.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=P_120563_16_0_0_16_0_16_DOOR is not used as Receiving Surface in calculations.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=P_120563_16_0_0_18_0_18_DOOR is not used as Receiving Surface in calculations.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=P_120563_16_0_0_20_0_20_DOOR is not used as Receiving Surface in calculations.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=P_120563_16_0_0_1_0_1_WIN is not used as Receiving Surface in calculations.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=P_120563_17_0_0 is not used as Receiving Surface in calculations.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=W_120563_18_0_0 is used as Receiving Surface in calculations and is convex.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           1
+ ....Surface=W_120563_18_0_0_0_0_0_WIN
+ ==================================
+ Surface=W_120563_18_0_0_0_0_0_WIN is not used as Receiving Surface in calculations.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=P_120563_19_0_0 is not used as Receiving Surface in calculations.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=P_120563_20_0_0 is not used as Receiving Surface in calculations.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=P_120563_20_0_0_0_0_0_DOOR is not used as Receiving Surface in calculations.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=P_120563_20_0_0_1_0_1_WIN is not used as Receiving Surface in calculations.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=W_120563_21_0_0 is used as Receiving Surface in calculations and is convex.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=W_120563_22_0_0 is used as Receiving Surface in calculations and is convex.
+ Number of general casting surfaces=          16
+ ..Surface=W_120563_2_0_0
+ ..Surface=W_120563_6_0_0
+ ..Surface=W_120563_7_0_0
+ ..Surface=W_120563_23_0_0
+ ..Surface=W_120563_31_0_0
+ ..Surface=W_120563_35_0_0
+ ..Surface=W_120614_2_0_0
+ ..Surface=W_120668_2_0_0
+ ..Surface=W_120428_2_0_0
+ ..Surface=W_120428_8_0_0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           2
+ ....Surface=W_120563_22_0_0_0_0_0_WIN
+ ....Surface=W_120563_22_0_0_9_0_9_WIN
+ ==================================
+ Surface=W_120563_22_0_0_0_0_0_WIN is not used as Receiving Surface in calculations.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=W_120563_22_0_0_9_0_9_WIN is not used as Receiving Surface in calculations.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=W_120563_23_0_0 is used as Receiving Surface in calculations and is convex.
+ Number of general casting surfaces=           2
+ ..Surface=W_120563_22_0_0
+ ..Surface=W_120428_34_0_0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=P_120563_24_0_0 is not used as Receiving Surface in calculations.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=P_120563_25_0_0 is not used as Receiving Surface in calculations.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=W_120563_26_0_0 is used as Receiving Surface in calculations and is convex.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           1
+ ....Surface=W_120563_26_0_0_0_0_0_WIN
+ ==================================
+ Surface=W_120563_26_0_0_0_0_0_WIN is not used as Receiving Surface in calculations.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=P_120563_27_0_0 is not used as Receiving Surface in calculations.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=P_120563_28_0_0 is not used as Receiving Surface in calculations.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=P_120563_28_0_0_1_0_1_DOOR is not used as Receiving Surface in calculations.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=P_120563_28_0_0_3_0_3_DOOR is not used as Receiving Surface in calculations.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=P_120563_28_0_0_0_0_0_WIN is not used as Receiving Surface in calculations.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=W_120563_29_0_0 is used as Receiving Surface in calculations and is convex.
+ Number of general casting surfaces=          26
+ ..Surface=W_120563_2_0_0
+ ..Surface=W_120563_6_0_0
+ ..Surface=W_120563_7_0_0
+ ..Surface=W_120563_9_0_0
+ ..Surface=W_120563_30_0_0
+ ..Surface=W_120563_31_0_0
+ ..Surface=W_120563_34_0_0
+ ..Surface=W_120563_35_0_0
+ ..Surface=W_120563_38_0_0
+ ..Surface=W_120668_2_0_0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=W_120563_30_0_0 is used as Receiving Surface in calculations and is convex.
+ Number of general casting surfaces=          15
+ ..Surface=W_120563_2_0_0
+ ..Surface=W_120563_6_0_0
+ ..Surface=W_120563_7_0_0
+ ..Surface=W_120563_29_0_0
+ ..Surface=W_120563_31_0_0
+ ..Surface=W_120563_35_0_0
+ ..Surface=W_120605_4_0_0
+ ..Surface=W_120668_2_0_0
+ ..Surface=W_120428_6_0_0
+ ..Surface=W_120428_8_0_0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           1
+ ....Surface=W_120563_30_0_0_0_0_0_WIN
+ ==================================
+ Surface=W_120563_30_0_0_0_0_0_WIN is not used as Receiving Surface in calculations.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=W_120563_31_0_0 is used as Receiving Surface in calculations and is convex.
+ Number of general casting surfaces=           7
+ ..Surface=W_120563_22_0_0
+ ..Surface=W_120563_29_0_0
+ ..Surface=W_120563_30_0_0
+ ..Surface=W_120605_4_0_0
+ ..Surface=W_120428_6_0_0
+ ..Surface=W_120428_7_0_0
+ ..Surface=W_120428_34_0_0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=W_120563_32_0_0 is used as Receiving Surface in calculations and is convex.
+ Number of general casting surfaces=           4
+ ..Surface=W_120563_2_0_0
+ ..Surface=W_120605_4_0_0
+ ..Surface=W_120428_6_0_0
+ ..Surface=W_120428_16_0_0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=W_120563_33_0_0 is used as Receiving Surface in calculations and is convex.
+ Number of general casting surfaces=          24
+ ..Surface=W_120563_2_0_0
+ ..Surface=W_120563_6_0_0
+ ..Surface=W_120563_7_0_0
+ ..Surface=W_120563_9_0_0
+ ..Surface=W_120563_34_0_0
+ ..Surface=W_120563_35_0_0
+ ..Surface=W_120563_36_0_0
+ ..Surface=W_120563_38_0_0
+ ..Surface=W_120668_2_0_0
+ ..Surface=W_120668_5_0_0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=W_120563_34_0_0 is used as Receiving Surface in calculations and is convex.
+ Number of general casting surfaces=          15
+ ..Surface=W_120563_2_0_0
+ ..Surface=W_120563_6_0_0
+ ..Surface=W_120563_7_0_0
+ ..Surface=W_120563_29_0_0
+ ..Surface=W_120563_33_0_0
+ ..Surface=W_120563_35_0_0
+ ..Surface=W_120605_4_0_0
+ ..Surface=W_120668_2_0_0
+ ..Surface=W_120428_6_0_0
+ ..Surface=W_120428_10_0_0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           2
+ ....Surface=W_120563_34_0_0_0_0_0_WIN
+ ....Surface=W_120563_34_0_0_1_0_1_WIN
+ ==================================
+ Surface=W_120563_34_0_0_0_0_0_WIN is not used as Receiving Surface in calculations.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=W_120563_34_0_0_1_0_1_WIN is not used as Receiving Surface in calculations.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=W_120563_35_0_0 is used as Receiving Surface in calculations and is convex.
+ Number of general casting surfaces=          11
+ ..Surface=W_120563_22_0_0
+ ..Surface=W_120563_29_0_0
+ ..Surface=W_120563_30_0_0
+ ..Surface=W_120563_33_0_0
+ ..Surface=W_120563_34_0_0
+ ..Surface=W_120605_4_0_0
+ ..Surface=W_120428_6_0_0
+ ..Surface=W_120428_7_0_0
+ ..Surface=W_120428_10_0_0
+ ..Surface=W_120428_11_0_0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=W_120563_36_0_0 is used as Receiving Surface in calculations and is convex.
+ Number of general casting surfaces=          10
+ ..Surface=W_120563_2_0_0
+ ..Surface=W_120563_6_0_0
+ ..Surface=W_120563_7_0_0
+ ..Surface=W_120563_33_0_0
+ ..Surface=W_120605_4_0_0
+ ..Surface=W_120428_6_0_0
+ ..Surface=W_120428_10_0_0
+ ..Surface=W_120428_16_0_0
+ ..Surface=W_120428_20_0_0
+ ..Surface=W_120428_21_0_0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=W_120563_37_0_0 is used as Receiving Surface in calculations and is convex.
+ Number of general casting surfaces=          18
+ ..Surface=W_120563_2_0_0
+ ..Surface=W_120563_6_0_0
+ ..Surface=W_120563_7_0_0
+ ..Surface=W_120563_9_0_0
+ ..Surface=W_120563_38_0_0
+ ..Surface=W_120668_2_0_0
+ ..Surface=W_120668_5_0_0
+ ..Surface=W_120668_9_0_0
+ ..Surface=W_120681_3_0_0
+ ..Surface=W_120428_15_0_0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=W_120563_38_0_0 is used as Receiving Surface in calculations and is convex.
+ Number of general casting surfaces=          15
+ ..Surface=W_120563_2_0_0
+ ..Surface=W_120563_6_0_0
+ ..Surface=W_120563_7_0_0
+ ..Surface=W_120563_29_0_0
+ ..Surface=W_120563_33_0_0
+ ..Surface=W_120563_37_0_0
+ ..Surface=W_120605_4_0_0
+ ..Surface=W_120668_2_0_0
+ ..Surface=W_120428_6_0_0
+ ..Surface=W_120428_10_0_0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=F_120563_0_0_10000 is not used as Receiving Surface in calculations.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=F_120563_0_0_10003 is not used as Receiving Surface in calculations.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=F_120563_0_0_10055 is not used as Receiving Surface in calculations.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=E_120563_0_3_0 is used as Receiving Surface in calculations and is non-convex.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=C_120563_1_0_0 is not used as Receiving Surface in calculations.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=P_120605_2_0_10106 is not used as Receiving Surface in calculations.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=P_120605_5_0_10107 is not used as Receiving Surface in calculations.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=P_120605_5_0_0_1_0_1_DOOR_10109 is not used as Receiving Surface in calculations.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=P_120605_5_0_0_3_0_3_DOOR_10110 is not used as Receiving Surface in calculations.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=P_120605_5_0_0_0_0_0_WIN_10111 is not used as Receiving Surface in calculations.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=W_120605_3_0_0 is used as Receiving Surface in calculations and is convex.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           1
+ ....Surface=W_120605_3_0_0_0_0_0_WIN
+ ==================================
+ Surface=W_120605_3_0_0_0_0_0_WIN is not used as Receiving Surface in calculations.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=W_120605_4_0_0 is used as Receiving Surface in calculations and is convex.
+ Number of general casting surfaces=          32
+ ..Surface=W_120563_2_0_0
+ ..Surface=W_120563_3_0_0
+ ..Surface=W_120563_6_0_0
+ ..Surface=W_120563_7_0_0
+ ..Surface=W_120563_9_0_0
+ ..Surface=W_120563_30_0_0
+ ..Surface=W_120563_31_0_0
+ ..Surface=W_120563_32_0_0
+ ..Surface=W_120563_34_0_0
+ ..Surface=W_120563_35_0_0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=F_120605_0_0_10049 is not used as Receiving Surface in calculations.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=F_120605_0_0_10051 is not used as Receiving Surface in calculations.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=F_120605_0_0_10053 is not used as Receiving Surface in calculations.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=R_120605_1_0_0 is used as Receiving Surface in calculations and is convex.
+ Number of general casting surfaces=          18
+ ..Surface=W_120428_6_0_0
+ ..Surface=W_120428_7_0_0
+ ..Surface=W_120428_8_0_0
+ ..Surface=W_120428_9_0_0
+ ..Surface=W_120428_11_0_0
+ ..Surface=W_120428_12_0_0
+ ..Surface=W_120428_13_0_0
+ ..Surface=W_120428_15_0_0
+ ..Surface=W_120428_16_0_0
+ ..Surface=W_120428_17_0_0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=P_120614_5_0_10104 is not used as Receiving Surface in calculations.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=P_120614_4_0_10105 is not used as Receiving Surface in calculations.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=W_120614_2_0_0 is used as Receiving Surface in calculations and is convex.
+ Number of general casting surfaces=           2
+ ..Surface=W_120563_22_0_0
+ ..Surface=W_120428_34_0_0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=W_120614_3_0_0 is used as Receiving Surface in calculations and is convex.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           1
+ ....Surface=W_120614_3_0_0_0_0_0_WIN
+ ==================================
+ Surface=W_120614_3_0_0_0_0_0_WIN is not used as Receiving Surface in calculations.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=F_120614_0_0_10054 is not used as Receiving Surface in calculations.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=C_120614_1_0_0 is not used as Receiving Surface in calculations.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=P_120623_4_0_10100 is not used as Receiving Surface in calculations.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=P_120623_3_0_10101 is not used as Receiving Surface in calculations.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=P_120623_3_0_0_0_0_0_DOOR_10103 is not used as Receiving Surface in calculations.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=P_120623_3_0_0_1_0_1_WIN_10104 is not used as Receiving Surface in calculations.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=W_120623_2_0_0 is used as Receiving Surface in calculations and is convex.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=W_120623_5_0_0 is used as Receiving Surface in calculations and is convex.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           1
+ ....Surface=W_120623_5_0_0_0_0_0_WIN
+ ==================================
+ Surface=W_120623_5_0_0_0_0_0_WIN is not used as Receiving Surface in calculations.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=F_120623_0_0_10056 is not used as Receiving Surface in calculations.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=C_120623_1_0_0 is not used as Receiving Surface in calculations.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=P_120632_4_0_10073 is not used as Receiving Surface in calculations.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=P_120632_3_0_10074 is not used as Receiving Surface in calculations.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=P_120632_3_0_0_3_0_3_DOOR_10076 is not used as Receiving Surface in calculations.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=P_120632_3_0_0_4_0_4_DOOR_10077 is not used as Receiving Surface in calculations.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=P_120632_3_0_0_5_0_5_DOOR_10078 is not used as Receiving Surface in calculations.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=P_120632_3_0_0_0_0_0_WIN_10079 is not used as Receiving Surface in calculations.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=P_120632_2_0_0 is not used as Receiving Surface in calculations.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=P_120632_2_0_0_0_0_0_DOOR is not used as Receiving Surface in calculations.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=W_120632_5_0_0 is used as Receiving Surface in calculations and is convex.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           1
+ ....Surface=W_120632_5_0_0_0_0_0_WIN
+ ==================================
+ Surface=W_120632_5_0_0_0_0_0_WIN is not used as Receiving Surface in calculations.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=F_120632_0_0_10058 is not used as Receiving Surface in calculations.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=F_120632_0_0_10060 is not used as Receiving Surface in calculations.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=C_120632_1_0_0 is not used as Receiving Surface in calculations.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=C_120632_1_1_0 is not used as Receiving Surface in calculations.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=P_120641_3_0_10079 is not used as Receiving Surface in calculations.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=P_120641_3_0_0_0_0_0_DOOR_10081 is not used as Receiving Surface in calculations.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=P_120641_3_0_0_1_0_1_WIN_10082 is not used as Receiving Surface in calculations.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=P_120641_4_0_10115 is not used as Receiving Surface in calculations.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=P_120641_4_0_0_0_0_0_DOOR_10117 is not used as Receiving Surface in calculations.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=P_120641_2_0_0 is not used as Receiving Surface in calculations.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=W_120641_5_0_0 is used as Receiving Surface in calculations and is convex.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           1
+ ....Surface=W_120641_5_0_0_0_0_0_WIN
+ ==================================
+ Surface=W_120641_5_0_0_0_0_0_WIN is not used as Receiving Surface in calculations.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=F_120641_0_0_10061 is not used as Receiving Surface in calculations.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=C_120641_1_0_0 is not used as Receiving Surface in calculations.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=P_120650_3_0_10082 is not used as Receiving Surface in calculations.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=P_120650_3_0_0_0_0_0_DOOR_10084 is not used as Receiving Surface in calculations.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=P_120650_3_0_0_3_0_3_DOOR_10085 is not used as Receiving Surface in calculations.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=P_120650_3_0_0_1_0_1_WIN_10086 is not used as Receiving Surface in calculations.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=P_120650_4_0_10118 is not used as Receiving Surface in calculations.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=P_120650_2_0_0 is not used as Receiving Surface in calculations.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=W_120650_5_0_0 is used as Receiving Surface in calculations and is convex.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           1
+ ....Surface=W_120650_5_0_0_0_0_0_WIN
+ ==================================
+ Surface=W_120650_5_0_0_0_0_0_WIN is not used as Receiving Surface in calculations.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=F_120650_0_0_10063 is not used as Receiving Surface in calculations.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=F_120650_0_0_10065 is not used as Receiving Surface in calculations.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=C_120650_1_0_0 is not used as Receiving Surface in calculations.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=P_120659_3_0_10086 is not used as Receiving Surface in calculations.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=P_120659_3_0_0_0_0_0_DOOR_10088 is not used as Receiving Surface in calculations.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=P_120659_3_0_0_2_0_2_DOOR_10089 is not used as Receiving Surface in calculations.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=P_120659_3_0_0_4_0_4_DOOR_10090 is not used as Receiving Surface in calculations.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=P_120659_3_0_0_6_0_6_DOOR_10091 is not used as Receiving Surface in calculations.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=P_120659_3_0_0_8_0_8_DOOR_10092 is not used as Receiving Surface in calculations.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=P_120659_3_0_0_10_0_10_DOOR_10093 is not used as Receiving Surface in calculations.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=P_120659_3_0_0_12_0_12_DOOR_10094 is not used as Receiving Surface in calculations.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=P_120659_3_0_0_14_0_14_DOOR_10095 is not used as Receiving Surface in calculations.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=P_120659_3_0_0_16_0_16_DOOR_10096 is not used as Receiving Surface in calculations.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=P_120659_3_0_0_18_0_18_DOOR_10097 is not used as Receiving Surface in calculations.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=P_120659_3_0_0_20_0_20_DOOR_10098 is not used as Receiving Surface in calculations.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=P_120659_3_0_0_1_0_1_WIN_10099 is not used as Receiving Surface in calculations.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=P_120659_2_0_10099 is not used as Receiving Surface in calculations.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=P_120659_4_0_10120 is not used as Receiving Surface in calculations.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=W_120659_5_0_0 is used as Receiving Surface in calculations and is convex.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           1
+ ....Surface=W_120659_5_0_0_0_0_0_WIN
+ ==================================
+ Surface=W_120659_5_0_0_0_0_0_WIN is not used as Receiving Surface in calculations.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=F_120659_0_0_10004 is not used as Receiving Surface in calculations.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=F_120659_0_0_10066 is not used as Receiving Surface in calculations.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=F_120659_0_0_10067 is not used as Receiving Surface in calculations.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=F_120659_0_0_10069 is not used as Receiving Surface in calculations.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=C_120659_1_0_0 is not used as Receiving Surface in calculations.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=P_120668_3_0_10071 is not used as Receiving Surface in calculations.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=W_120668_2_0_0 is used as Receiving Surface in calculations and is convex.
+ Number of general casting surfaces=          25
+ ..Surface=W_120563_7_0_0
+ ..Surface=W_120563_8_0_0
+ ..Surface=W_120563_9_0_0
+ ..Surface=W_120563_22_0_0
+ ..Surface=W_120563_29_0_0
+ ..Surface=W_120563_30_0_0
+ ..Surface=W_120563_33_0_0
+ ..Surface=W_120563_34_0_0
+ ..Surface=W_120563_37_0_0
+ ..Surface=W_120563_38_0_0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=W_120668_4_0_0 is used as Receiving Surface in calculations and is convex.
+ Number of general casting surfaces=           2
+ ..Surface=W_120668_5_0_0
+ ..Surface=W_120484_5_0_0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=W_120668_5_0_0 is used as Receiving Surface in calculations and is convex.
+ Number of general casting surfaces=          15
+ ..Surface=W_120563_4_0_0
+ ..Surface=W_120563_7_0_0
+ ..Surface=W_120563_8_0_0
+ ..Surface=W_120563_29_0_0
+ ..Surface=W_120563_33_0_0
+ ..Surface=W_120563_37_0_0
+ ..Surface=W_120605_4_0_0
+ ..Surface=W_120668_4_0_0
+ ..Surface=W_120428_6_0_0
+ ..Surface=W_120428_10_0_0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           1
+ ....Surface=W_120668_5_0_0_0_0_0_WIN
+ ==================================
+ Surface=W_120668_5_0_0_0_0_0_WIN is not used as Receiving Surface in calculations.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=W_120668_6_0_0 is used as Receiving Surface in calculations and is convex.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=W_120668_7_0_0 is used as Receiving Surface in calculations and is convex.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           1
+ ....Surface=W_120668_7_0_0_0_0_0_WIN
+ ==================================
+ Surface=W_120668_7_0_0_0_0_0_WIN is not used as Receiving Surface in calculations.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=P_120668_8_0_0 is not used as Receiving Surface in calculations.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=W_120668_9_0_0 is used as Receiving Surface in calculations and is convex.
+ Number of general casting surfaces=          15
+ ..Surface=W_120563_6_0_0
+ ..Surface=W_120563_7_0_0
+ ..Surface=W_120563_8_0_0
+ ..Surface=W_120563_29_0_0
+ ..Surface=W_120563_33_0_0
+ ..Surface=W_120563_37_0_0
+ ..Surface=W_120605_4_0_0
+ ..Surface=W_120668_2_0_0
+ ..Surface=W_120428_6_0_0
+ ..Surface=W_120428_10_0_0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=F_120668_0_0_10001 is not used as Receiving Surface in calculations.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=C_120668_1_0_0 is not used as Receiving Surface in calculations.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=P_120681_2_0_10072 is not used as Receiving Surface in calculations.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=P_120681_4_0_10123 is not used as Receiving Surface in calculations.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=W_120681_3_0_0 is used as Receiving Surface in calculations and is convex.
+ Number of general casting surfaces=          15
+ ..Surface=W_120563_6_0_0
+ ..Surface=W_120563_7_0_0
+ ..Surface=W_120563_8_0_0
+ ..Surface=W_120563_29_0_0
+ ..Surface=W_120563_33_0_0
+ ..Surface=W_120563_37_0_0
+ ..Surface=W_120605_4_0_0
+ ..Surface=W_120668_2_0_0
+ ..Surface=W_120428_6_0_0
+ ..Surface=W_120428_10_0_0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           1
+ ....Surface=W_120681_3_0_0_0_0_0_WIN
+ ==================================
+ Surface=W_120681_3_0_0_0_0_0_WIN is not used as Receiving Surface in calculations.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=W_120681_5_0_0 is used as Receiving Surface in calculations and is convex.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           1
+ ....Surface=W_120681_5_0_0_0_0_0_WIN
+ ==================================
+ Surface=W_120681_5_0_0_0_0_0_WIN is not used as Receiving Surface in calculations.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=F_120681_0_0_10057 is not used as Receiving Surface in calculations.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=C_120681_1_0_0 is not used as Receiving Surface in calculations.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=W_120428_2_0_0 is used as Receiving Surface in calculations and is convex.
+ Number of general casting surfaces=           1
+ ..Surface=W_120428_34_0_0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=P_120428_3_0_0 is not used as Receiving Surface in calculations.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=P_120428_4_0_0 is not used as Receiving Surface in calculations.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=W_120428_5_0_0 is used as Receiving Surface in calculations and is convex.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           1
+ ....Surface=W_120428_5_0_0_0_0_0_WIN
+ ==================================
+ Surface=W_120428_5_0_0_0_0_0_WIN is not used as Receiving Surface in calculations.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=W_120428_6_0_0 is used as Receiving Surface in calculations and is convex.
+ Number of general casting surfaces=          16
+ ..Surface=W_120428_7_0_0
+ ..Surface=W_120428_8_0_0
+ ..Surface=W_120428_9_0_0
+ ..Surface=W_120428_11_0_0
+ ..Surface=W_120428_12_0_0
+ ..Surface=W_120428_13_0_0
+ ..Surface=W_120428_15_0_0
+ ..Surface=W_120428_16_0_0
+ ..Surface=W_120428_17_0_0
+ ..Surface=W_120428_20_0_0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=W_120428_7_0_0 is used as Receiving Surface in calculations and is convex.
+ Number of general casting surfaces=           7
+ ..Surface=W_120428_6_0_0
+ ..Surface=W_120428_8_0_0
+ ..Surface=W_120428_12_0_0
+ ..Surface=W_120428_16_0_0
+ ..Surface=W_120428_20_0_0
+ ..Surface=W_120428_21_0_0
+ ..Surface=W_120484_2_0_0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           1
+ ....Surface=W_120428_7_0_0_0_0_0_WIN
+ ==================================
+ Surface=W_120428_7_0_0_0_0_0_WIN is not used as Receiving Surface in calculations.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=W_120428_8_0_0 is used as Receiving Surface in calculations and is convex.
+ Number of general casting surfaces=           3
+ ..Surface=W_120428_6_0_0
+ ..Surface=W_120428_7_0_0
+ ..Surface=W_120428_34_0_0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=W_120428_9_0_0 is used as Receiving Surface in calculations and is convex.
+ Number of general casting surfaces=           2
+ ..Surface=W_120428_6_0_0
+ ..Surface=W_120428_16_0_0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=W_120428_10_0_0 is used as Receiving Surface in calculations and is convex.
+ Number of general casting surfaces=          12
+ ..Surface=W_120428_11_0_0
+ ..Surface=W_120428_12_0_0
+ ..Surface=W_120428_13_0_0
+ ..Surface=W_120428_15_0_0
+ ..Surface=W_120428_16_0_0
+ ..Surface=W_120428_20_0_0
+ ..Surface=W_120428_21_0_0
+ ..Surface=W_120428_23_0_0
+ ..Surface=W_120484_2_0_0
+ ..Surface=W_120484_5_0_0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=W_120428_11_0_0 is used as Receiving Surface in calculations and is convex.
+ Number of general casting surfaces=           7
+ ..Surface=W_120428_6_0_0
+ ..Surface=W_120428_10_0_0
+ ..Surface=W_120428_12_0_0
+ ..Surface=W_120428_16_0_0
+ ..Surface=W_120428_20_0_0
+ ..Surface=W_120428_21_0_0
+ ..Surface=W_120484_2_0_0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           2
+ ....Surface=W_120428_11_0_0_0_0_0_WIN
+ ....Surface=W_120428_11_0_0_1_0_1_WIN
+ ==================================
+ Surface=W_120428_11_0_0_0_0_0_WIN is not used as Receiving Surface in calculations.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=W_120428_11_0_0_1_0_1_WIN is not used as Receiving Surface in calculations.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=W_120428_12_0_0 is used as Receiving Surface in calculations and is convex.
+ Number of general casting surfaces=           5
+ ..Surface=W_120428_6_0_0
+ ..Surface=W_120428_7_0_0
+ ..Surface=W_120428_10_0_0
+ ..Surface=W_120428_11_0_0
+ ..Surface=W_120428_34_0_0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=W_120428_13_0_0 is used as Receiving Surface in calculations and is convex.
+ Number of general casting surfaces=           5
+ ..Surface=W_120428_6_0_0
+ ..Surface=W_120428_10_0_0
+ ..Surface=W_120428_16_0_0
+ ..Surface=W_120428_20_0_0
+ ..Surface=W_120428_21_0_0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=W_120428_14_0_0 is used as Receiving Surface in calculations and is convex.
+ Number of general casting surfaces=           9
+ ..Surface=W_120428_15_0_0
+ ..Surface=W_120428_16_0_0
+ ..Surface=W_120428_20_0_0
+ ..Surface=W_120428_21_0_0
+ ..Surface=W_120428_23_0_0
+ ..Surface=W_120484_2_0_0
+ ..Surface=W_120484_5_0_0
+ ..Surface=W_120484_9_0_0
+ ..Surface=W_120497_3_0_0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=W_120428_15_0_0 is used as Receiving Surface in calculations and is convex.
+ Number of general casting surfaces=           7
+ ..Surface=W_120428_6_0_0
+ ..Surface=W_120428_10_0_0
+ ..Surface=W_120428_14_0_0
+ ..Surface=W_120428_16_0_0
+ ..Surface=W_120428_20_0_0
+ ..Surface=W_120428_21_0_0
+ ..Surface=W_120484_2_0_0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=W_120428_16_0_0 is used as Receiving Surface in calculations and is convex.
+ Number of general casting surfaces=           9
+ ..Surface=W_120428_6_0_0
+ ..Surface=W_120428_7_0_0
+ ..Surface=W_120428_9_0_0
+ ..Surface=W_120428_10_0_0
+ ..Surface=W_120428_11_0_0
+ ..Surface=W_120428_13_0_0
+ ..Surface=W_120428_14_0_0
+ ..Surface=W_120428_15_0_0
+ ..Surface=W_120428_34_0_0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=W_120428_17_0_0 is used as Receiving Surface in calculations and is convex.
+ Number of general casting surfaces=           1
+ ..Surface=W_120428_6_0_0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           1
+ ....Surface=W_120428_17_0_0_0_0_0_WIN
+ ==================================
+ Surface=W_120428_17_0_0_0_0_0_WIN is not used as Receiving Surface in calculations.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=W_120428_18_0_0 is used as Receiving Surface in calculations and is convex.
+ Number of general casting surfaces=           1
+ ..Surface=W_120484_5_0_0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=P_120428_19_0_0 is not used as Receiving Surface in calculations.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=P_120428_19_0_0_0_0_0_DOOR is not used as Receiving Surface in calculations.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=P_120428_19_0_0_1_0_1_WIN is not used as Receiving Surface in calculations.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=W_120428_20_0_0 is used as Receiving Surface in calculations and is convex.
+ Number of general casting surfaces=          13
+ ..Surface=W_120428_6_0_0
+ ..Surface=W_120428_7_0_0
+ ..Surface=W_120428_10_0_0
+ ..Surface=W_120428_11_0_0
+ ..Surface=W_120428_13_0_0
+ ..Surface=W_120428_14_0_0
+ ..Surface=W_120428_15_0_0
+ ..Surface=W_120428_21_0_0
+ ..Surface=W_120428_22_0_0
+ ..Surface=W_120428_23_0_0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=W_120428_21_0_0 is used as Receiving Surface in calculations and is convex.
+ Number of general casting surfaces=          15
+ ..Surface=W_120428_6_0_0
+ ..Surface=W_120428_7_0_0
+ ..Surface=W_120428_10_0_0
+ ..Surface=W_120428_11_0_0
+ ..Surface=W_120428_13_0_0
+ ..Surface=W_120428_14_0_0
+ ..Surface=W_120428_15_0_0
+ ..Surface=W_120428_20_0_0
+ ..Surface=W_120428_22_0_0
+ ..Surface=W_120428_23_0_0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=W_120428_22_0_0 is used as Receiving Surface in calculations and is convex.
+ Number of general casting surfaces=           7
+ ..Surface=W_120428_20_0_0
+ ..Surface=W_120428_21_0_0
+ ..Surface=W_120428_23_0_0
+ ..Surface=W_120484_2_0_0
+ ..Surface=W_120484_5_0_0
+ ..Surface=W_120484_9_0_0
+ ..Surface=W_120497_3_0_0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=W_120428_23_0_0 is used as Receiving Surface in calculations and is convex.
+ Number of general casting surfaces=           7
+ ..Surface=W_120428_6_0_0
+ ..Surface=W_120428_10_0_0
+ ..Surface=W_120428_14_0_0
+ ..Surface=W_120428_20_0_0
+ ..Surface=W_120428_21_0_0
+ ..Surface=W_120428_22_0_0
+ ..Surface=W_120484_2_0_0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=P_120428_24_0_0 is not used as Receiving Surface in calculations.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=P_120428_24_0_0_0_0_0_DOOR is not used as Receiving Surface in calculations.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=W_120428_25_0_0 is used as Receiving Surface in calculations and is convex.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           1
+ ....Surface=W_120428_25_0_0_0_0_0_WIN
+ ==================================
+ Surface=W_120428_25_0_0_0_0_0_WIN is not used as Receiving Surface in calculations.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=P_120428_26_0_0 is not used as Receiving Surface in calculations.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=P_120428_27_0_0 is not used as Receiving Surface in calculations.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=P_120428_27_0_0_0_0_0_DOOR is not used as Receiving Surface in calculations.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=P_120428_27_0_0_2_0_2_DOOR is not used as Receiving Surface in calculations.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=P_120428_27_0_0_1_0_1_WIN is not used as Receiving Surface in calculations.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=P_120428_28_0_0 is not used as Receiving Surface in calculations.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=P_120428_28_0_0_0_0_0_DOOR is not used as Receiving Surface in calculations.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=P_120428_28_0_0_2_0_2_DOOR is not used as Receiving Surface in calculations.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=P_120428_28_0_0_4_0_4_DOOR is not used as Receiving Surface in calculations.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=P_120428_28_0_0_6_0_6_DOOR is not used as Receiving Surface in calculations.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=P_120428_28_0_0_8_0_8_DOOR is not used as Receiving Surface in calculations.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=P_120428_28_0_0_10_0_10_DOOR is not used as Receiving Surface in calculations.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=P_120428_28_0_0_12_0_12_DOOR is not used as Receiving Surface in calculations.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=P_120428_28_0_0_14_0_14_DOOR is not used as Receiving Surface in calculations.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=P_120428_28_0_0_16_0_16_DOOR is not used as Receiving Surface in calculations.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=P_120428_28_0_0_18_0_18_DOOR is not used as Receiving Surface in calculations.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=P_120428_28_0_0_20_0_20_DOOR is not used as Receiving Surface in calculations.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=P_120428_28_0_0_22_0_22_DOOR is not used as Receiving Surface in calculations.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=P_120428_28_0_0_24_0_24_DOOR is not used as Receiving Surface in calculations.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=P_120428_28_0_0_26_0_26_DOOR is not used as Receiving Surface in calculations.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=P_120428_28_0_0_28_0_28_DOOR is not used as Receiving Surface in calculations.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=P_120428_28_0_0_30_0_30_DOOR is not used as Receiving Surface in calculations.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=P_120428_28_0_0_32_0_32_DOOR is not used as Receiving Surface in calculations.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=P_120428_28_0_0_34_0_34_DOOR is not used as Receiving Surface in calculations.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=P_120428_28_0_0_1_0_1_WIN is not used as Receiving Surface in calculations.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=P_120428_29_0_0 is not used as Receiving Surface in calculations.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=W_120428_30_0_0 is used as Receiving Surface in calculations and is convex.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           1
+ ....Surface=W_120428_30_0_0_0_0_0_WIN
+ ==================================
+ Surface=W_120428_30_0_0_0_0_0_WIN is not used as Receiving Surface in calculations.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=P_120428_31_0_0 is not used as Receiving Surface in calculations.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=P_120428_32_0_0 is not used as Receiving Surface in calculations.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=P_120428_32_0_0_0_0_0_DOOR is not used as Receiving Surface in calculations.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=P_120428_32_0_0_2_0_2_DOOR is not used as Receiving Surface in calculations.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=P_120428_32_0_0_1_0_1_WIN is not used as Receiving Surface in calculations.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=W_120428_33_0_0 is used as Receiving Surface in calculations and is convex.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=W_120428_34_0_0 is used as Receiving Surface in calculations and is convex.
+ Number of general casting surfaces=           8
+ ..Surface=W_120428_2_0_0
+ ..Surface=W_120428_8_0_0
+ ..Surface=W_120428_12_0_0
+ ..Surface=W_120428_16_0_0
+ ..Surface=W_120428_20_0_0
+ ..Surface=W_120428_21_0_0
+ ..Surface=W_120466_2_0_0
+ ..Surface=W_120484_2_0_0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           2
+ ....Surface=W_120428_34_0_0_0_0_0_WIN
+ ....Surface=W_120428_34_0_0_9_0_9_WIN
+ ==================================
+ Surface=W_120428_34_0_0_0_0_0_WIN is not used as Receiving Surface in calculations.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=W_120428_34_0_0_9_0_9_WIN is not used as Receiving Surface in calculations.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=F_120428_0_0_10070 is not used as Receiving Surface in calculations.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=R_120428_1_0_0 is used as Receiving Surface in calculations and is non-convex.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=P_120466_5_0_10125 is not used as Receiving Surface in calculations.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=P_120466_4_0_10126 is not used as Receiving Surface in calculations.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=W_120466_2_0_0 is used as Receiving Surface in calculations and is convex.
+ Number of general casting surfaces=           1
+ ..Surface=W_120428_34_0_0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=W_120466_3_0_0 is used as Receiving Surface in calculations and is convex.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           1
+ ....Surface=W_120466_3_0_0_0_0_0_WIN
+ ==================================
+ Surface=W_120466_3_0_0_0_0_0_WIN is not used as Receiving Surface in calculations.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=F_120466_0_0_10111 is not used as Receiving Surface in calculations.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=R_120466_1_0_0 is used as Receiving Surface in calculations and is convex.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=P_120475_4_0_10158 is not used as Receiving Surface in calculations.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=P_120475_3_0_10159 is not used as Receiving Surface in calculations.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=P_120475_3_0_0_0_0_0_DOOR_10161 is not used as Receiving Surface in calculations.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=P_120475_3_0_0_2_0_2_DOOR_10162 is not used as Receiving Surface in calculations.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=P_120475_3_0_0_1_0_1_WIN_10163 is not used as Receiving Surface in calculations.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=W_120475_2_0_0 is used as Receiving Surface in calculations and is convex.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=W_120475_5_0_0 is used as Receiving Surface in calculations and is convex.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           1
+ ....Surface=W_120475_5_0_0_0_0_0_WIN
+ ==================================
+ Surface=W_120475_5_0_0_0_0_0_WIN is not used as Receiving Surface in calculations.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=F_120475_0_0_10112 is not used as Receiving Surface in calculations.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=R_120475_1_0_0 is used as Receiving Surface in calculations and is convex.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=P_120484_3_0_10127 is not used as Receiving Surface in calculations.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=P_120484_3_0_0_0_0_0_DOOR_10129 is not used as Receiving Surface in calculations.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=P_120484_3_0_0_1_0_1_WIN_10130 is not used as Receiving Surface in calculations.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=W_120484_2_0_0 is used as Receiving Surface in calculations and is convex.
+ Number of general casting surfaces=          12
+ ..Surface=W_120428_6_0_0
+ ..Surface=W_120428_7_0_0
+ ..Surface=W_120428_10_0_0
+ ..Surface=W_120428_11_0_0
+ ..Surface=W_120428_14_0_0
+ ..Surface=W_120428_15_0_0
+ ..Surface=W_120428_21_0_0
+ ..Surface=W_120428_22_0_0
+ ..Surface=W_120428_23_0_0
+ ..Surface=W_120428_34_0_0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=W_120484_4_0_0 is used as Receiving Surface in calculations and is convex.
+ Number of general casting surfaces=           1
+ ..Surface=W_120484_5_0_0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=W_120484_5_0_0 is used as Receiving Surface in calculations and is convex.
+ Number of general casting surfaces=           7
+ ..Surface=W_120428_6_0_0
+ ..Surface=W_120428_10_0_0
+ ..Surface=W_120428_14_0_0
+ ..Surface=W_120428_18_0_0
+ ..Surface=W_120428_21_0_0
+ ..Surface=W_120428_22_0_0
+ ..Surface=W_120484_4_0_0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           1
+ ....Surface=W_120484_5_0_0_0_0_0_WIN
+ ==================================
+ Surface=W_120484_5_0_0_0_0_0_WIN is not used as Receiving Surface in calculations.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=W_120484_6_0_0 is used as Receiving Surface in calculations and is convex.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=W_120484_7_0_0 is used as Receiving Surface in calculations and is convex.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           1
+ ....Surface=W_120484_7_0_0_0_0_0_WIN
+ ==================================
+ Surface=W_120484_7_0_0_0_0_0_WIN is not used as Receiving Surface in calculations.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=P_120484_8_0_0 is not used as Receiving Surface in calculations.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=W_120484_9_0_0 is used as Receiving Surface in calculations and is convex.
+ Number of general casting surfaces=           7
+ ..Surface=W_120428_6_0_0
+ ..Surface=W_120428_10_0_0
+ ..Surface=W_120428_14_0_0
+ ..Surface=W_120428_20_0_0
+ ..Surface=W_120428_21_0_0
+ ..Surface=W_120428_22_0_0
+ ..Surface=W_120484_2_0_0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=F_120484_0_0_10122 is not used as Receiving Surface in calculations.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=R_120484_1_0_0 is used as Receiving Surface in calculations and is non-convex.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=P_120497_2_0_10130 is not used as Receiving Surface in calculations.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=P_120497_2_0_0_0_0_0_DOOR_10132 is not used as Receiving Surface in calculations.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=P_120497_4_0_10163 is not used as Receiving Surface in calculations.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=W_120497_3_0_0 is used as Receiving Surface in calculations and is convex.
+ Number of general casting surfaces=           7
+ ..Surface=W_120428_6_0_0
+ ..Surface=W_120428_10_0_0
+ ..Surface=W_120428_14_0_0
+ ..Surface=W_120428_20_0_0
+ ..Surface=W_120428_21_0_0
+ ..Surface=W_120428_22_0_0
+ ..Surface=W_120484_2_0_0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           1
+ ....Surface=W_120497_3_0_0_0_0_0_WIN
+ ==================================
+ Surface=W_120497_3_0_0_0_0_0_WIN is not used as Receiving Surface in calculations.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=W_120497_5_0_0 is used as Receiving Surface in calculations and is convex.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           1
+ ....Surface=W_120497_5_0_0_0_0_0_WIN
+ ==================================
+ Surface=W_120497_5_0_0_0_0_0_WIN is not used as Receiving Surface in calculations.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=F_120497_0_0_10124 is not used as Receiving Surface in calculations.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=R_120497_1_0_0 is used as Receiving Surface in calculations and is convex.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=P_120506_4_0_10132 is not used as Receiving Surface in calculations.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=P_120506_3_0_10133 is not used as Receiving Surface in calculations.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=P_120506_3_0_0_0_0_0_DOOR_10135 is not used as Receiving Surface in calculations.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=P_120506_3_0_0_2_0_2_DOOR_10136 is not used as Receiving Surface in calculations.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=P_120506_3_0_0_1_0_1_WIN_10137 is not used as Receiving Surface in calculations.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=P_120506_2_0_0 is not used as Receiving Surface in calculations.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=W_120506_5_0_0 is used as Receiving Surface in calculations and is convex.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           1
+ ....Surface=W_120506_5_0_0_0_0_0_WIN
+ ==================================
+ Surface=W_120506_5_0_0_0_0_0_WIN is not used as Receiving Surface in calculations.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=F_120506_0_0_10113 is not used as Receiving Surface in calculations.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=R_120506_1_0_0 is used as Receiving Surface in calculations and is convex.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=P_120515_3_0_10137 is not used as Receiving Surface in calculations.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=P_120515_3_0_0_0_0_0_DOOR_10139 is not used as Receiving Surface in calculations.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=P_120515_3_0_0_2_0_2_DOOR_10140 is not used as Receiving Surface in calculations.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=P_120515_3_0_0_4_0_4_DOOR_10141 is not used as Receiving Surface in calculations.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=P_120515_3_0_0_6_0_6_DOOR_10142 is not used as Receiving Surface in calculations.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=P_120515_3_0_0_8_0_8_DOOR_10143 is not used as Receiving Surface in calculations.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=P_120515_3_0_0_10_0_10_DOOR_10144 is not used as Receiving Surface in calculations.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=P_120515_3_0_0_12_0_12_DOOR_10145 is not used as Receiving Surface in calculations.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=P_120515_3_0_0_14_0_14_DOOR_10146 is not used as Receiving Surface in calculations.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=P_120515_3_0_0_16_0_16_DOOR_10147 is not used as Receiving Surface in calculations.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=P_120515_3_0_0_18_0_18_DOOR_10148 is not used as Receiving Surface in calculations.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=P_120515_3_0_0_20_0_20_DOOR_10149 is not used as Receiving Surface in calculations.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=P_120515_3_0_0_22_0_22_DOOR_10150 is not used as Receiving Surface in calculations.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=P_120515_3_0_0_24_0_24_DOOR_10151 is not used as Receiving Surface in calculations.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=P_120515_3_0_0_26_0_26_DOOR_10152 is not used as Receiving Surface in calculations.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=P_120515_3_0_0_28_0_28_DOOR_10153 is not used as Receiving Surface in calculations.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=P_120515_3_0_0_30_0_30_DOOR_10154 is not used as Receiving Surface in calculations.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=P_120515_3_0_0_32_0_32_DOOR_10155 is not used as Receiving Surface in calculations.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=P_120515_3_0_0_34_0_34_DOOR_10156 is not used as Receiving Surface in calculations.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=P_120515_3_0_0_1_0_1_WIN_10157 is not used as Receiving Surface in calculations.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=P_120515_2_0_10157 is not used as Receiving Surface in calculations.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=P_120515_4_0_10164 is not used as Receiving Surface in calculations.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=W_120515_5_0_0 is used as Receiving Surface in calculations and is convex.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           1
+ ....Surface=W_120515_5_0_0_0_0_0_WIN
+ ==================================
+ Surface=W_120515_5_0_0_0_0_0_WIN is not used as Receiving Surface in calculations.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=F_120515_0_0_10114 is not used as Receiving Surface in calculations.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=F_120515_0_0_10117 is not used as Receiving Surface in calculations.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=F_120515_0_0_10119 is not used as Receiving Surface in calculations.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=F_120515_0_0_10121 is not used as Receiving Surface in calculations.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=R_120515_1_0_0 is used as Receiving Surface in calculations and is convex.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
